@@ -40,7 +40,6 @@
 (\.|^)doh\.opendns\.com$
 (\.|^)hicloud\.com$
 (\.|^)huawei\.com$
-(\.|^)hwcdn\.net$
 (\.|^)ilkmawgod\.site$
 (\.|^)llegro\.pl$
 (\.|^)msftconnecttest\.com$
