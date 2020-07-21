@@ -51,8 +51,6 @@ www.youtube.com##.ytp-ce-covering-overlay
 www.youtube.com##.ytp-ce-element-shadow
 www.youtube.com##.ytp-ce-covering-image
 www.youtube.com##.ytp-ce-element
-www.youtube.com##.ytp-videowall-still-info-content
-www.youtube.com###chat
 yandex.ua#?#div:-abp-has(> a[href*="https://yandex.ua/news/_nzp/"])
 yandex.ua#?#[href*="https://yandex.ua/news/_nzp/"]
 sinoptik.pl#?#[href*="http://click.pmctrack.net/c/"]
