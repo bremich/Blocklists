@@ -44,15 +44,14 @@ www.nexusmods.com##.download-donation-panel
 www.reddit.com##.create.sidebox
 www.reddit.com##.happening-now
 www.reddit.com##.hohoho.sidebox
-www.reddit.com##.morelink > [href^="https://www.redditgifts.com/exchanges/secret-santa-2019/"]
 www.reddit.com##.premium-banner
 www.reddit.com##.redesignbetabar-js.redesignNightmodeBar.onboardingbar.infobar
 www.youtube.com##.ytp-scroll-min.ytp-pause-overlay
 www.youtube.com##.ytp-ce-covering-overlay
 www.youtube.com##.ytp-ce-element-shadow
 www.youtube.com##.ytp-ce-covering-image
-www.youtube.com##.ytp-ce-element-show.ytp-ce-size-1920.ytp-ce-top-left-quad.ytp-ce-video.ytp-ce-element
 www.youtube.com##.ytp-ce-element
+www.youtube.com##.ytp-videowall-still-info-content
 www.youtube.com###chat
 yandex.ua#?#div:-abp-has(> a[href*="https://yandex.ua/news/_nzp/"])
 yandex.ua#?#[href*="https://yandex.ua/news/_nzp/"]
