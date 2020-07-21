@@ -1,5 +1,6 @@
-clkuk.tradedoubler.com
 assets.adobedtm.com
-tracking.unrealengine.com
+clkuk.tradedoubler.com
+download.windowsupdate.com
 fonts.gstatic.com
 softwareupdate.vmware.com
+tracking.unrealengine.com
