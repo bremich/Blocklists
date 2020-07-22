@@ -26,7 +26,6 @@
 (\.|^)Unblockall\.org$
 (\.|^)accuweather\.com$
 (\.|^)agoragames\.com$
-(\.|^)alibabadns\.com$
 (\.|^)api\.ad\.intl\.xiaomi\.com$
 (\.|^)app\.chat\.global\.xiaomi\.net$
 (\.|^)app\.chat\.xiaomi\.net$
