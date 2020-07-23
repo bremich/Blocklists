@@ -78,7 +78,11 @@ telemetry.nvidia.com
 gameplayapi.intel.com
 
 #lenovo
+api.naea1.uds.lenovo.com
 filedownload.csw.lenovo.com
+filedownload.lenovo.com
+vantage.csw.lenovo.com
+vantage-dev-2.csw.lenovo.com
 
 #gaming trackers
 agoragames.com
