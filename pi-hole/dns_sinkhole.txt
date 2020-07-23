@@ -4,7 +4,6 @@ adservice.google.pl
 alibabadns.com
 api.adsrvr.io
 ateoildim.club
-cds.j3z9t3p6.hwcdn.net
 coin-hive.com
 coin-hive.com
 doh.opendns.com
