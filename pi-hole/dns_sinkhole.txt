@@ -74,6 +74,9 @@ services.gfe.nvidia.com
 telemetry.gfe.nvidia.com
 telemetry.nvidia.com
 
+#intel
+gameplayapi.intel.com
+
 #gaming trackers
 agoragames.com
 redshell.io
