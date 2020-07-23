@@ -77,6 +77,9 @@ telemetry.nvidia.com
 #intel
 gameplayapi.intel.com
 
+#lenovo
+filedownload.csw.lenovo.com
+
 #gaming trackers
 agoragames.com
 redshell.io
