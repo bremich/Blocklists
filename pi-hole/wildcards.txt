@@ -26,7 +26,6 @@
 (\.|^)Unblockall\.org$
 (\.|^)accuweather\.com$
 (\.|^)agoragames\.com$
-(\.|^)alibabadns\.com$
 (\.|^)api\.ad\.intl\.xiaomi\.com$
 (\.|^)app\.chat\.global\.xiaomi\.net$
 (\.|^)app\.chat\.xiaomi\.net$
@@ -74,14 +73,3 @@
 (\.|^)udkcrj\.com$
 (\.|^)weather\.microsoft\.com$
 (\.|^)whatsapp\.net$
-
-#IANA special use domains
-.*\.home$
-.*\.local$
-.*\.localhost$
-.*\.onion$
-.*\.test$
-.*\.example$
-.*\.example.com$
-.*\.example.net$
-.*\.example.org$

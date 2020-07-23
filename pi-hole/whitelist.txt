@@ -2,5 +2,6 @@ assets.adobedtm.com
 clkuk.tradedoubler.com
 download.windowsupdate.com
 fonts.gstatic.com
+gstaticadssl.l.google.com
 softwareupdate.vmware.com
 tracking.unrealengine.com

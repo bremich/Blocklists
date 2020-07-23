@@ -1,25 +1,29 @@
 ! Title: Misc filters
-! Version: 202007170100
+! Version: 202007212200
+! Expires: 24 hours
 
 airly.eu##.overlay--show.overlay
 airly.eu##.welcome-modal__content
 airly.eu##.widget-block
 emonitoring.poczta-polska.pl###social
+github.com##.signup-prompt
 gw2efficiency.com##.donate-buttons
+inpost.pl###popup-background
+inpost.pl###popup-window
 inpost.pl##.-withwave.btn--tracking--action
 inpost.pl##.cta--main--box
 inpost.pl##.cta--mainbox--wrapper
 inpost.pl##.track--parcel--heading
-inpost.pl###popup-background
-inpost.pl###popup-window
 inpost.pl##footer
 nm.reddit.com##.premium-banner
+old.reddit.com###ecb
 old.reddit.com##.footer-parent
 old.reddit.com##.happening-now
 old.reddit.com##.listingsignupbar.infobar
 old.reddit.com##.morelink > [href^="https://www.redditgifts.com/exchanges/secret-santa-2019/"]
 old.reddit.com##.premium-banner-outer
 poczta.interia.pl###overlay-background
+sinoptik.pl#?#[href*="http://click.pmctrack.net/c/"]
 store.steampowered.com##.review_award_button
 store.steampowered.com##.review_award_count
 store.steampowered.com##.review_award_ctn
@@ -29,31 +33,28 @@ www.amfora.pl##.seo-description
 www.ceneo.pl##.ellipsis.cat-desc-excerpt
 www.ceneo.pl##.store-zones
 www.ceneo.pl##div.js_category-list-body.highlighted-offers
-www.dobreprogramy.pl##.block.content-list
 www.dobreprogramy.pl###Player0
+www.dobreprogramy.pl##.block.content-list
 www.fosshub.com##.ad-alt
 www.komputronik.pl###new-products
 www.lg.com##.dimmed
-www.money.pl##.clickToOpenInfo
 www.money.pl###Player0
+www.money.pl##.clickToOpenInfo
+www.morele.net###civil_code
 www.morele.net##.box-hidden.product-seo-inner
 www.morele.net##.seo-description
 www.morele.net##.social-media.section
-www.morele.net###civil_code
 www.nexusmods.com##.download-donation-panel
 www.reddit.com##.create.sidebox
 www.reddit.com##.happening-now
 www.reddit.com##.hohoho.sidebox
 www.reddit.com##.premium-banner
 www.reddit.com##.redesignbetabar-js.redesignNightmodeBar.onboardingbar.infobar
-www.youtube.com##.ytp-scroll-min.ytp-pause-overlay
-www.youtube.com##.ytp-ce-covering-overlay
-www.youtube.com##.ytp-ce-element-shadow
 www.youtube.com##.ytp-ce-covering-image
+www.youtube.com##.ytp-ce-covering-overlay
 www.youtube.com##.ytp-ce-element
-www.youtube.com##.ytp-videowall-still-info-content
-www.youtube.com###chat
-yandex.ua#?#div:-abp-has(> a[href*="https://yandex.ua/news/_nzp/"])
+www.youtube.com##.ytp-ce-element-shadow
+www.youtube.com##.ytp-scroll-min.ytp-pause-overlay
 yandex.ua#?#[href*="https://yandex.ua/news/_nzp/"]
-sinoptik.pl#?#[href*="http://click.pmctrack.net/c/"]
+yandex.ua#?#div:-abp-has(> a[href*="https://yandex.ua/news/_nzp/"])
 ||ssl.ceneo.pl/shops/Content/img/tab-title-v.png

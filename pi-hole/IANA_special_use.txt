@@ -1,0 +1,9 @@
+.*\.home$
+.*\.local$
+.*\.localhost$
+.*\.onion$
+.*\.test$
+.*\.example$
+.*\.example.com$
+.*\.example.net$
+.*\.example.org$
