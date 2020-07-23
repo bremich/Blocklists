@@ -47,6 +47,7 @@ sandra.ttnrd.com
 sarah.ttnrd.com
 doz.telemedi.co
 market.viber.com
+cmp.dreamlab.pl
 
 #mozilla trackers
 detectportal.firefox.com
