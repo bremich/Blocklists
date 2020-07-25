@@ -2,29 +2,38 @@
 adblockultimate.net
 adservice.google.pl
 alibabadns.com
+amanda.ttnrd.com
 api.adsrvr.io
 ateoildim.club
+cmp.dreamlab.pl
 coin-hive.com
 coin-hive.com
+columbusenergy.pl
 doh.opendns.com
+doz.telemedi.co
 ilkmawgod.site
 llegro.pl
+login.firaxislive.com
 masterpcprotection.com
 msn.com
 no-thanks.invalid
 ntp.msn.com
+origin.co
 pogoda.wpcdn.pl
 quiterss.org
+sandra.ttnrd.com
+sarah.ttnrd.com
 snxd.com
 softwaresecuritypro.com
 softwareupdate.vmware.com
 sparagken.com
+store.steampowered.co
+tore.steampowered.com
+ttnrd.com
 ubisoft.co
 whatsapp.net
-columbusenergy.pl
-origin.co
-tore.steampowered.com
-store.steampowered.co
+
+#wiki mirrors
 cs.qwe.wiki
 de.qwe.wiki
 es.qwe.wiki
@@ -39,14 +48,6 @@ no.qwe.wiki
 sv.qwe.wiki
 da.qwe.wiki
 fi.qwe.wiki
-ttnrd.com
-amanda.ttnrd.com
-sandra.ttnrd.com
-sarah.ttnrd.com
-doz.telemedi.co
-market.viber.com
-cmp.dreamlab.pl
-login.firaxislive.com
 
 #mozilla trackers
 detectportal.firefox.com
@@ -92,6 +93,7 @@ treasuredata.com
 #huawei/honor
 adxcreative-dre.dbankcdn.com
 amppic-dre.dbankcdn.com
+apkrep.ff.avast.com
 auth.ff.avast.com
 dbankcloud.asia
 dbankcloud.cn
@@ -103,7 +105,6 @@ huawei.com
 hwcdn.net
 metrics2.data.hicloud.com
 shepherd.sb.avast.com
-apkrep.ff.avast.com
 
 #xiaomi
 api.ad.intl.xiaomi.com
