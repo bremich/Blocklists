@@ -1,14 +1,17 @@
+assets.rockpapershotgun.com
+gstaticadssl.l.google.com
 login.live.com
+ota.lokalise.co
+px.wp.pl
+static.nvidiagrid.net
+steam-chat.com
+tracking-protection.cdn.mozilla.net
+
+#social media
+connect.facebook.net
+fb.com
 graph.facebook.com
 www.facebook.com
-connect.facebook.net
-gstaticadssl.l.google.com
-px.wp.pl
-tracking-protection.cdn.mozilla.net
-steam-chat.com
-assets.rockpapershotgun.com
-static.nvidiagrid.net
-ota.lokalise.co
 
 #Huawei/Honor
 adxcreative-dre.dbankcdn.com
