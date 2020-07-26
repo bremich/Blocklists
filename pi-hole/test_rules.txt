@@ -1,3 +1,4 @@
 login.live.com
 graph.facebook.com
 www.facebook.com
+connect.facebook.net
