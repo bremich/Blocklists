@@ -3,3 +3,4 @@ graph.facebook.com
 www.facebook.com
 connect.facebook.net
 gstaticadssl.l.google.com
+px.wp.pl
