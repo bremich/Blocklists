@@ -32,6 +32,7 @@ tore.steampowered.com
 ttnrd.com
 ubisoft.co
 whatsapp.net
+merchandise.opera-api.com
 
 #wiki mirrors
 cs.qwe.wiki
