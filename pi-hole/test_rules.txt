@@ -4,3 +4,4 @@ www.facebook.com
 connect.facebook.net
 gstaticadssl.l.google.com
 px.wp.pl
+tracking-protection.cdn.mozilla.net
