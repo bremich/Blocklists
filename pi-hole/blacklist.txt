@@ -33,6 +33,10 @@ ttnrd.com
 ubisoft.co
 whatsapp.net
 merchandise.opera-api.com
+hosts-file.net
+www.kobo.com
+kobo.com
+
 
 #wiki mirrors
 cs.qwe.wiki
@@ -91,22 +95,6 @@ redshell.io
 sr3.hydra.agoragames.com
 treasuredata.com
 
-#huawei/honor
-adxcreative-dre.dbankcdn.com
-amppic-dre.dbankcdn.com
-apkrep.ff.avast.com
-auth.ff.avast.com
-dbankcloud.asia
-dbankcloud.cn
-dbankcloud.com
-dbankcloud.eu
-dsa-sslv6.hispace.hicloud.com.edgekey.net
-hicloud.com
-huawei.com
-hwcdn.net
-metrics2.data.hicloud.com
-shepherd.sb.avast.com
-
 #xiaomi
 api.ad.intl.xiaomi.com
 api.newsfeed.intl.miui.com
@@ -114,6 +102,7 @@ app.chat.global.xiaomi.net
 app.chat.xiaomi.net
 browser.intl.miui.com
 data.mistat.intl.xiaomi.com
+fr.app.chat.global.xiaomi.net
 g.galleryapi.micloud.xiaomi.net
 metok-ccc.intl.xiaomi.com
 sa.api.intl.miui.com
