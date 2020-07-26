@@ -22,14 +22,20 @@ dbankcloud.com
 dbankcloud.eu
 dnkeeper.hicloud.com
 dsa-sslv6.hispace.hicloud.com.edgekey.net
+grs.dbankcloud.asia
+grs.dbankcloud.cn
 grs.dbankcloud.com
+grs.dbankcloud.com
+grs.dbankcloud.eu
+grs.hicloud.com
+grs.huawei.com
+grs.hwcdn.net
 hicloud.com
 huawei.com
 hwcdn.net
 metrics2.data.hicloud.com
-shepherd.sb.avast.com
-grs.hicloud.com
-sdkserver-dre.op.hicloud.com
-grs.dbankcloud.cn
 query.hicloud.com
+sdkserver-dre.op.hicloud.com
+shepherd.sb.avast.com #appcheck
 update.dbankcdn.com
+update.hicloud.com
