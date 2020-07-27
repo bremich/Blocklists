@@ -36,7 +36,9 @@ merchandise.opera-api.com
 hosts-file.net
 www.kobo.com
 kobo.com
-
+service.weather.microsoft.com
+tile-service.weather.microsoft.com
+update.glasswire.com
 
 #wiki mirrors
 cs.qwe.wiki
