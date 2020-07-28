@@ -37,6 +37,7 @@ dbankcloud.com
 dbankcloud.eu
 dnkeeper.hicloud.com
 dsa-sslv6.hispace.hicloud.com.edgekey.net
+events-dre.op.hicloud.com
 grs.dbankcloud.asia
 grs.dbankcloud.cn
 grs.dbankcloud.com
@@ -48,6 +49,8 @@ hicloud.com
 huawei.com
 hwcdn.net
 metrics2.data.hicloud.com
+pkginstaller-ovs.hispace.hicloud.com
+pushtrs7.push.hicloud.com
 query.hicloud.com
 sdkserver-dre.op.hicloud.com
 shepherd.sb.avast.com #appcheck
