@@ -10,6 +10,7 @@ satysfakcja.stati.pl
 #mozilla
 location.services.mozilla.com
 locprod1-elb-eu-west-1.prod.mozaws.net
+normandy-cdn.services.mozilla.com
 tracking-protection.cdn.mozilla.net
 
 #social media
