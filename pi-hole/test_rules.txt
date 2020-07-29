@@ -8,9 +8,9 @@ steam-chat.com
 satysfakcja.stati.pl
 
 #mozilla
-tracking-protection.cdn.mozilla.net
 location.services.mozilla.com
 locprod1-elb-eu-west-1.prod.mozaws.net
+tracking-protection.cdn.mozilla.net
 
 #social media
 connect.facebook.net
@@ -23,37 +23,3 @@ www.facebook.com
 accounts.nvgs.nvidia.com
 nvidia.tt.omtrdc.net
 ota.nvidia.com
-
-#Huawei/Honor
-adxcreative-dre.dbankcdn.com
-amppic-dre.dbankcdn.com
-api.cloud.huawei.com
-apkrep.ff.avast.com
-auth.ff.avast.com
-configserver-dre.platform.hicloud.com
-dbankcloud.asia
-dbankcloud.cn
-dbankcloud.com
-dbankcloud.eu
-dnkeeper.hicloud.com
-dsa-sslv6.hispace.hicloud.com.edgekey.net
-events-dre.op.hicloud.com
-grs.dbankcloud.asia
-grs.dbankcloud.cn
-grs.dbankcloud.com
-grs.dbankcloud.eu
-grs.hicloud.com
-grs.huawei.com
-grs.hwcdn.net
-hicloud.com
-huawei.com
-hwcdn.net
-metrics2.data.hicloud.com
-pkginstaller-ovs.hispace.hicloud.com
-pushtrs7.push.hicloud.com
-query.hicloud.com
-sdkserver-dre.op.hicloud.com
-shepherd.sb.avast.com #appcheck
-store.hispace.hicloud.com
-update.dbankcdn.com
-update.hicloud.com
