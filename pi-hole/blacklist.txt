@@ -39,6 +39,9 @@ kobo.com
 service.weather.microsoft.com
 tile-service.weather.microsoft.com
 update.glasswire.com
+in.appcenter.ms #MS analytics
+arc.msn.com #Windows Spotlight metadata
+oneclient.sfx.ms #OneDrive sync
 
 #wiki mirrors
 cs.qwe.wiki
@@ -71,6 +74,7 @@ samsungads.com
 snippetdata.api.swiftkey.com
 tigger-citadel.touchtype-fluency.com
 www.cust-service.com
+jenson.api.swiftkey.com
 
 #nvidia
 events.gfe.nvidia.com
@@ -96,6 +100,10 @@ agoragames.com
 redshell.io
 sr3.hydra.agoragames.com
 treasuredata.com
+clans.shogun2.totalwar.com
+live-crash-reporter.elderscrollsonline.com
+marketing.patcher.elderscrollsonline.com
+analytics.patcher.elderscrollsonline.com
 
 #xiaomi
 api.ad.intl.xiaomi.com
@@ -111,6 +119,7 @@ sa.api.intl.miui.com
 sdkconfig.ad.intl.xiaomi.com
 tracking.intl.miui.com
 us.api.micloud.xiaomi.net
+resolver.msg.global.xiaomi.net
 
 #streaming
 0123movies.com
@@ -154,3 +163,4 @@ theputlockerhub.me
 
 #reddit DRM tracking
 udkcrj.com
+emoji.redditmedia.com
