@@ -12,6 +12,8 @@ location.services.mozilla.com
 locprod1-elb-eu-west-1.prod.mozaws.net
 normandy-cdn.services.mozilla.com
 tracking-protection.cdn.mozilla.net
+prod-classifyclient.normandy.prod.cloudops.mozgcp.net
+bouncer-bouncer-elb.prod.mozaws.net
 
 #social media
 connect.facebook.net
