@@ -42,6 +42,8 @@ update.glasswire.com
 in.appcenter.ms #MS analytics
 arc.msn.com #Windows Spotlight metadata
 oneclient.sfx.ms #OneDrive sync
+addons.short-link.space
+short-link.space
 
 #wiki mirrors
 cs.qwe.wiki
