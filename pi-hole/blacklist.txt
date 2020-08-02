@@ -1,3 +1,7 @@
+#Blocklist for use with Pi-hole/uMatrix/Adguard Home
+#Version: 20200803
+#Title: Bremich Blocklist
+
 #misc
 adblockultimate.net
 adservice.google.pl
