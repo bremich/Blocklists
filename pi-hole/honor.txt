@@ -43,6 +43,10 @@ query.hicloud.com
 sdkserver-dre.op.hicloud.com
 shepherd.sb.avast.com #appcheck
 store.hispace.hicloud.com
+store1.hispace.hicloud.com
+store2.hispace.hicloud.com
+store3.hispace.hicloud.com
+store4.hispace.hicloud.com
 update.dbankcdn.com
 update.hicloud.com
 
