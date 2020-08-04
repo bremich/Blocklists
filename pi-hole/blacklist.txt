@@ -48,6 +48,7 @@ arc.msn.com #Windows Spotlight metadata
 oneclient.sfx.ms #OneDrive sync
 addons.short-link.space
 short-link.space
+elb-telemetry-prod-external-1332413525.us-west-2.elb.amazonaws.com
 
 #wiki mirrors
 cs.qwe.wiki
