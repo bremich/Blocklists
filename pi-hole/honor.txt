@@ -6,6 +6,7 @@ apkrep.ff.avast.com #appcheck
 auth.ff.avast.com #appcheck
 cloudres-dra.dbankcdn.com
 configserver-dra.platform.hicloud.com
+configserver-dre.platform.hicloud.com
 dbankcloud.asia
 dbankcloud.cn
 dbankcloud.com
