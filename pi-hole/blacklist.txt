@@ -49,6 +49,10 @@ oneclient.sfx.ms #OneDrive sync
 addons.short-link.space
 short-link.space
 elb-telemetry-prod-external-1332413525.us-west-2.elb.amazonaws.com
+daisy.ubuntu.com
+pixel.runative-syndicate.com
+cdn.runative-syndicate.com
+anticalser.club
 
 #wiki mirrors
 cs.qwe.wiki
@@ -66,10 +70,12 @@ sv.qwe.wiki
 da.qwe.wiki
 fi.qwe.wiki
 
-#mozilla trackers
+#mozilla trackers, telemetry and unnecessary connections
 detectportal.firefox.com
 incoming.telemetry.mozilla.org
 normandy.cdn.mozilla.net
+learning.mozilla.org
+snippets.cdn.mozilla.net
 
 #mobile apps
 accuweather.com
