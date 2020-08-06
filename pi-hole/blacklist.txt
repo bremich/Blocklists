@@ -1,5 +1,5 @@
 #Blocklist for use with Pi-hole/uMatrix/Adguard Home
-#Version: 20200803
+#Version: 20200806
 #Title: Bremich Blocklist
 
 #misc
@@ -7,26 +7,31 @@ adblockultimate.net
 adservice.google.pl
 alibabadns.com
 amanda.ttnrd.com
+anticalser.club
 api.adsrvr.io
+api.engage.bidsystem.com
 ateoildim.club
 cmp.dreamlab.pl
 coin-hive.com
-coin-hive.com
 columbusenergy.pl
+daisy.ubuntu.com
 doh.opendns.com
 doz.telemedi.co
+elb-telemetry-prod-external-1332413525.us-west-2.elb.amazonaws.com
+hosts-file.net
 ilkmawgod.site
+kobo.com
 llegro.pl
-login.firaxislive.com
 masterpcprotection.com
-msn.com
+merchandise.opera-api.com
 no-thanks.invalid
-ntp.msn.com
 origin.co
+pixel.runative-syndicate.com
 pogoda.wpcdn.pl
 quiterss.org
 sandra.ttnrd.com
 sarah.ttnrd.com
+short-link.space
 snxd.com
 softwaresecuritypro.com
 softwareupdate.vmware.com
@@ -35,46 +40,27 @@ store.steampowered.co
 tore.steampowered.com
 ttnrd.com
 ubisoft.co
+update.glasswire.com
 whatsapp.net
-merchandise.opera-api.com
-hosts-file.net
 www.kobo.com
-kobo.com
+
+#MS
+activity.windows.com #Win 10 activity tab sync
+arc.msn.com #Windows Spotlight metadata
+gap-prime-finance.msn-int.com
+in.appcenter.ms #MS analytics
+msn-int.com
+msn.com
+ntp.msn.com
+oneclient.sfx.ms #OneDrive sync
 service.weather.microsoft.com
 tile-service.weather.microsoft.com
-update.glasswire.com
-in.appcenter.ms #MS analytics
-arc.msn.com #Windows Spotlight metadata
-oneclient.sfx.ms #OneDrive sync
-addons.short-link.space
-short-link.space
-elb-telemetry-prod-external-1332413525.us-west-2.elb.amazonaws.com
-daisy.ubuntu.com
-pixel.runative-syndicate.com
-cdn.runative-syndicate.com
-anticalser.club
-
-#wiki mirrors
-cs.qwe.wiki
-de.qwe.wiki
-es.qwe.wiki
-fr.qwe.wiki
-it.qwe.wiki
-nl.qwe.wiki
-pl.qwe.wiki
-pt.qwe.wiki
-ru.qwe.wiki
-tr.qwe.wiki
-no.qwe.wiki
-sv.qwe.wiki
-da.qwe.wiki
-fi.qwe.wiki
 
 #mozilla trackers, telemetry and unnecessary connections
 detectportal.firefox.com
 incoming.telemetry.mozilla.org
-normandy.cdn.mozilla.net
 learning.mozilla.org
+normandy.cdn.mozilla.net
 snippets.cdn.mozilla.net
 
 #mobile apps
@@ -82,12 +68,12 @@ accuweather.com
 analytics.brave.com
 bibo.api.swiftkey.com
 firebaseinstallations.googleapis.com
+jenson.api.swiftkey.com
 mobiledataplansharing.googleapis.com
 samsungads.com
 snippetdata.api.swiftkey.com
 tigger-citadel.touchtype-fluency.com
 www.cust-service.com
-jenson.api.swiftkey.com
 
 #nvidia
 events.gfe.nvidia.com
@@ -99,24 +85,30 @@ telemetry.gfe.nvidia.com
 telemetry.nvidia.com
 
 #intel
+gameplay.intel.com
 gameplayapi.intel.com
 
-#lenovo
+#lenovo laptops
 api.naea1.uds.lenovo.com
+chifsr.lenovomm.com
+download.lenovo.com
 filedownload.csw.lenovo.com
 filedownload.lenovo.com
-vantage.csw.lenovo.com
 vantage-dev-2.csw.lenovo.com
+vantage.csw.lenovo.com
 
 #gaming trackers
 agoragames.com
+analytics.patcher.elderscrollsonline.com
+live-crash-reporter.elderscrollsonline.com
+marketing.patcher.elderscrollsonline.com
 redshell.io
 sr3.hydra.agoragames.com
 treasuredata.com
+
+#gaming unnecessary services
 clans.shogun2.totalwar.com
-live-crash-reporter.elderscrollsonline.com
-marketing.patcher.elderscrollsonline.com
-analytics.patcher.elderscrollsonline.com
+login.firaxislive.com
 
 #xiaomi
 api.ad.intl.xiaomi.com
@@ -128,11 +120,11 @@ data.mistat.intl.xiaomi.com
 fr.app.chat.global.xiaomi.net
 g.galleryapi.micloud.xiaomi.net
 metok-ccc.intl.xiaomi.com
+resolver.msg.global.xiaomi.net
 sa.api.intl.miui.com
 sdkconfig.ad.intl.xiaomi.com
 tracking.intl.miui.com
 us.api.micloud.xiaomi.net
-resolver.msg.global.xiaomi.net
 
 #streaming
 0123movies.com
@@ -174,6 +166,22 @@ putlockertv.ws
 putlockerz.io
 theputlockerhub.me
 
-#reddit DRM tracking
-udkcrj.com
+#reddit
 emoji.redditmedia.com
+udkcrj.com #reddit DRM tracking
+
+#wiki mirrors
+cs.qwe.wiki
+de.qwe.wiki
+es.qwe.wiki
+fr.qwe.wiki
+it.qwe.wiki
+nl.qwe.wiki
+pl.qwe.wiki
+pt.qwe.wiki
+ru.qwe.wiki
+tr.qwe.wiki
+no.qwe.wiki
+sv.qwe.wiki
+da.qwe.wiki
+fi.qwe.wiki
