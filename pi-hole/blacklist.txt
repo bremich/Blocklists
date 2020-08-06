@@ -7,10 +7,8 @@ adblockultimate.net
 adservice.google.pl
 alibabadns.com
 amanda.ttnrd.com
-anticalser.club
 api.adsrvr.io
 api.engage.bidsystem.com
-ateoildim.club
 cmp.dreamlab.pl
 coin-hive.com
 columbusenergy.pl
@@ -31,11 +29,9 @@ pogoda.wpcdn.pl
 quiterss.org
 sandra.ttnrd.com
 sarah.ttnrd.com
-short-link.space
 snxd.com
 softwaresecuritypro.com
 softwareupdate.vmware.com
-sparagken.com
 store.steampowered.co
 tore.steampowered.com
 ttnrd.com
@@ -74,6 +70,24 @@ samsungads.com
 snippetdata.api.swiftkey.com
 tigger-citadel.touchtype-fluency.com
 www.cust-service.com
+
+#mobile advertising
+achilles-ena.com
+anticalser.club
+ateoildim.club
+bcicdn.com
+bngpt.com
+bongacams.com
+bongacams7.com
+certify.alexametrics.com
+d31qbv1cthcecs.cloudfront.net
+i.bcicdn.com
+khabarbabal.online
+pl.bongacams.com
+pushplex.space
+sparagken.com
+spencedsd.club
+syndication.realsrv.com
 
 #nvidia
 events.gfe.nvidia.com
