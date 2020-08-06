@@ -1,6 +1,6 @@
 # Blocklists
 
-Annoyances blocklists for Pi-hole/AdGuard Home and Adblock/uBlock. 
+Annoyances blocklists for Pi-hole/uMatrix/AdGuard Home and Adblock/uBlock. 
 
 ## Pi-hole
 
