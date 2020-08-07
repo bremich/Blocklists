@@ -1,0 +1,11 @@
+#social media
+connect.facebook.net
+fb.com
+graph.facebook.com
+scontent.xx.fbcdn.net
+www.facebook.com
+star-mini.c10r.facebook.com
+scontent-waw1-1.xx.fbcdn.net
+facebook.com
+platform.twitter.com
+platform.twitter.map.fastly.net
