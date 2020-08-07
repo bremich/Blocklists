@@ -1,5 +1,5 @@
 #Blocklist for use with Pi-hole/uMatrix/Adguard Home
-#Version: 20200807
+#Version: 20200808
 #Title: Bremich Blocklist
 
 #misc
@@ -61,7 +61,6 @@ snippets.cdn.mozilla.net
 accuweather.com
 analytics.brave.com
 bibo.api.swiftkey.com
-firebaseinstallations.googleapis.com
 jenson.api.swiftkey.com
 mobiledataplansharing.googleapis.com
 samsungads.com
