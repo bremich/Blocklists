@@ -1,5 +1,5 @@
 #Blocklist for use with Pi-hole/uMatrix/Adguard Home
-#Version: 20200806
+#Version: 20200807
 #Title: Bremich Blocklist
 
 #misc
@@ -99,7 +99,12 @@ cassini.efigence.com
 jeu5qst0.pro
 cdn.runative-syndicate.com
 didchinosdub.cam
-
+exdynsrv.com
+main.exdynsrv.com
+a.exdynsrv.com
+d36zfztxfflmqo.cloudfront.net
+lngtd.com
+collect.lngtd.com
 
 #nvidia
 events.gfe.nvidia.com
