@@ -6,6 +6,8 @@ px.wp.pl
 static.nvidiagrid.net
 steam-chat.com
 satysfakcja.stati.pl
+viadata.store
+rtb.viadata.store
 
 #mozilla
 location.services.mozilla.com
@@ -14,18 +16,6 @@ normandy-cdn.services.mozilla.com
 tracking-protection.cdn.mozilla.net
 prod-classifyclient.normandy.prod.cloudops.mozgcp.net
 bouncer-bouncer-elb.prod.mozaws.net
-
-#social media
-connect.facebook.net
-fb.com
-graph.facebook.com
-scontent.xx.fbcdn.net
-www.facebook.com
-star-mini.c10r.facebook.com
-scontent-waw1-1.xx.fbcdn.net
-facebook.com
-platform.twitter.com
-platform.twitter.map.fastly.net
 
 #nvidia
 accounts.nvgs.nvidia.com
