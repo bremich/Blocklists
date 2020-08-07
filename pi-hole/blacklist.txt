@@ -88,6 +88,18 @@ pushplex.space
 sparagken.com
 spencedsd.club
 syndication.realsrv.com
+service.vendimob.pl
+ad.vendimob.pl
+fstats.xyz
+v3.fstats.xyz
+bisiraczyxbu.com
+aukalerim.com
+collector-analytics.efigence.com
+cassini.efigence.com
+jeu5qst0.pro
+cdn.runative-syndicate.com
+didchinosdub.cam
+
 
 #nvidia
 events.gfe.nvidia.com
@@ -95,7 +107,7 @@ gfe.geforce.com
 gfe.nvidia.com
 gfwsl.geforce.com
 services.gfe.nvidia.com
-telemetry.gfe.nvidia.com
+/telemetry.gfe.nvidia.com
 telemetry.nvidia.com
 
 #intel
