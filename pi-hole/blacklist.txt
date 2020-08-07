@@ -43,14 +43,12 @@ www.kobo.com
 #MS
 activity.windows.com #Win 10 activity tab sync
 arc.msn.com #Windows Spotlight metadata
-gap-prime-finance.msn-int.com
+#gap-prime-finance.msn-int.com
 in.appcenter.ms #MS analytics
-msn-int.com
-msn.com
-ntp.msn.com
-oneclient.sfx.ms #OneDrive sync
+noneclient.sfx.ms #OneDrive sync
 service.weather.microsoft.com
 tile-service.weather.microsoft.com
+evoke-windowsservices-tas.msedge.net #used by Photos to download config files
 
 #mozilla trackers, telemetry and unnecessary connections
 detectportal.firefox.com
