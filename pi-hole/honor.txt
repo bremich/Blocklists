@@ -75,5 +75,6 @@ connectivitycheck.cbg-app.huawei.com
 connectivitycheck.platform.hicloud.com
 
 #third-party
-appleid.cdn-apple.com #accessed upon openning Huawei AppGallery
-lcs.loginfra.com #accessed upon openning Huawei AppGallery
+appleid.cdn-apple.com #accessed upon opening Huawei AppGallery
+lcs.loginfra.com #accessed upon opening Huawei AppGallery
+aiclean.eu.cloud.360safe.com #accessed upon initial device configuration
