@@ -8,6 +8,7 @@ steam-chat.com
 satysfakcja.stati.pl
 viadata.store
 rtb.viadata.store
+#firebaseinstallations.googleapis.com #Android notifications channel, temporarly unblocked
 
 #mozilla
 location.services.mozilla.com
