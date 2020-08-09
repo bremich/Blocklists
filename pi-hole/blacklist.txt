@@ -9,6 +9,7 @@ alibabadns.com
 amanda.ttnrd.com
 api.adsrvr.io
 api.engage.bidsystem.com
+cdnads.com
 cmp.dreamlab.pl
 coin-hive.com
 columbusenergy.pl
@@ -18,14 +19,18 @@ doz.telemedi.co
 elb-telemetry-prod-external-1332413525.us-west-2.elb.amazonaws.com
 hosts-file.net
 ilkmawgod.site
+inservinea.com
 kobo.com
 llegro.pl
 masterpcprotection.com
 merchandise.opera-api.com
 no-thanks.invalid
+oleole.trafficscanner.pl
 origin.co
+padsdel2.cdnads.com
 pixel.runative-syndicate.com
 pogoda.wpcdn.pl
+propellerads.cdnads.com
 quiterss.org
 sandra.ttnrd.com
 sarah.ttnrd.com
@@ -37,8 +42,10 @@ tore.steampowered.com
 ttnrd.com
 ubisoft.co
 update.glasswire.com
+video.your-notice.com
 whatsapp.net
 www.kobo.com
+your-notice.com
 
 #MS
 activity.windows.com #Win 10 activity tab sync
@@ -119,9 +126,14 @@ gameplayapi.intel.com
 #lenovo laptops
 api.naea1.uds.lenovo.com
 chifsr.lenovomm.com
+csw.lenovo.com
 download.lenovo.com
+dxp.lenovo.com
 filedownload.csw.lenovo.com
 filedownload.lenovo.com
+lenovo.com
+luda.dxp.lenovo.com
+msg.dxp.lenovo.com
 vantage-dev-2.csw.lenovo.com
 vantage.csw.lenovo.com
 
