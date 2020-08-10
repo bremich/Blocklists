@@ -1,5 +1,5 @@
 #Blocklist for use with Pi-hole/uMatrix/Adguard Home
-#Version: 20200808
+#Version: 20200810
 #Title: Bremich Blocklist
 
 #misc
@@ -67,48 +67,70 @@ snippets.cdn.mozilla.net
 #mobile apps
 accuweather.com
 analytics.brave.com
-bibo.api.swiftkey.com
-jenson.api.swiftkey.com
 mobiledataplansharing.googleapis.com
 samsungads.com
-snippetdata.api.swiftkey.com
-tigger-citadel.touchtype-fluency.com
 www.cust-service.com
 
+#Swiftkey
+assets.swiftkey.com
+bibo.api.swiftkey.com
+citadel-eeyore-staging.touchtype-fluency.com
+citadel-tigger-staging.touchtype-fluency.com
+citadel-winnie-staging.touchtype-fluency.com
+eeyore-citadel.touchtype-fluency.com
+handwriting.api.swiftkey.com
+handwriting.staging.swiftkey.com
+jenson.api.swiftkey.com
+mds.staging.swiftkey.com
+personalization-staging.touchtype-fluency.com
+personalization.touchtype-fluency.com
+snippetdata.api.swiftkey.com
+swiftkey-sync-production.touchtype-fluency.com
+telemetry.staging.swiftkey.com
+test-auth-a.touchtype-fluency.com
+test-auth-b.touchtype-fluency.com
+test1-sync-vpcstaging.touchtype-fluency.com
+tigger-citadel.touchtype-fluency.com
+tokens-auth.touchtype-fluency.com
+translate.api.swiftkey.com
+users-auth.touchtype-fluency.com
+winnie-citadel.touchtype-fluency.com
+www.swiftkey.com
+
 #mobile advertising
+a.exdynsrv.com
 achilles-ena.com
+ad.vendimob.pl
 anticalser.club
 ateoildim.club
+aukalerim.com
 bcicdn.com
+bisiraczyxbu.com
 bngpt.com
 bongacams.com
 bongacams7.com
+cassini.efigence.com
+cdn.runative-syndicate.com
 certify.alexametrics.com
+collect.lngtd.com
+collector-analytics.efigence.com
 d31qbv1cthcecs.cloudfront.net
+d36zfztxfflmqo.cloudfront.net
+didchinosdub.cam
+exdynsrv.com
+fstats.xyz
 i.bcicdn.com
+jeu5qst0.pro
 khabarbabal.online
+lngtd.com
+main.exdynsrv.com
 pl.bongacams.com
 pushplex.space
+service.vendimob.pl
 sparagken.com
 spencedsd.club
 syndication.realsrv.com
-service.vendimob.pl
-ad.vendimob.pl
-fstats.xyz
 v3.fstats.xyz
-bisiraczyxbu.com
-aukalerim.com
-collector-analytics.efigence.com
-cassini.efigence.com
-jeu5qst0.pro
-cdn.runative-syndicate.com
-didchinosdub.cam
-exdynsrv.com
-main.exdynsrv.com
-a.exdynsrv.com
-d36zfztxfflmqo.cloudfront.net
-lngtd.com
-collect.lngtd.com
 
 #nvidia
 events.gfe.nvidia.com
@@ -157,6 +179,7 @@ app.chat.global.xiaomi.net
 app.chat.xiaomi.net
 browser.intl.miui.com
 data.mistat.intl.xiaomi.com
+dw-online.ksosoft.com #Xiaomi phones' connections to Kingsoft
 fr.app.chat.global.xiaomi.net
 g.galleryapi.micloud.xiaomi.net
 metok-ccc.intl.xiaomi.com
