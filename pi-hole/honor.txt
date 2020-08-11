@@ -1,6 +1,7 @@
 #Huawei/Honor
 adxcreative-dre.dbankcdn.com
 amppic-dre.dbankcdn.com
+api.cloud.hicloud.com
 api.cloud.huawei.com
 apkrep.ff.avast.com #appcheck
 appdl.dbankcdn.com
@@ -69,10 +70,6 @@ store3.hispace.hicloud.com
 store4.hispace.hicloud.com
 update.dbankcdn.com
 update.hicloud.com
-
-#connectivity checks
-connectivitycheck.cbg-app.huawei.com
-connectivitycheck.platform.hicloud.com
 
 #third-party
 appleid.cdn-apple.com #accessed upon opening Huawei AppGallery
