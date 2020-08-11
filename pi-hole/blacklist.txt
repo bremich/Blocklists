@@ -143,6 +143,7 @@ www.cust-service.com
 #mobile location data
 bcmltoqa.glpals.com
 bcmltoqa.glpals.com.s3-us-west-2.amazonaws.com
+radiomap.vcdn.pos.here.com #HERE Positioning radio maps
 xtrapath1.izatcloud.net
 xtrapath2.izatcloud.net
 xtrapath3.izatcloud.net
