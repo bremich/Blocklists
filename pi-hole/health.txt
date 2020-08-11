@@ -9,7 +9,7 @@ healthdeviceagent-dre.things.hicloud.com
 hwid-dre.platform.hicloud.com
 hwid.platform.hicloud.com
 sns7.hicloud.com
-sportdata-dre.things.hicloud.com
+#sportdata-dre.things.hicloud.com #necessary for sync to work
 sportsuggest-dre.things.hicloud.com
 update-dre.platform.hicloud.com
 upfile7.hicloud.com
