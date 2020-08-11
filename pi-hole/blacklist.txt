@@ -141,6 +141,7 @@ samsungads.com
 www.cust-service.com
 
 #mobile location data
+bcmltoqa.glpals.com.s3-us-west-2.amazonaws.com
 xtrapath1.izatcloud.net
 xtrapath2.izatcloud.net
 xtrapath3.izatcloud.net
