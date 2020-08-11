@@ -140,6 +140,11 @@ mobiledataplansharing.googleapis.com
 samsungads.com
 www.cust-service.com
 
+#mobile location data
+xtrapath1.izatcloud.net
+xtrapath2.izatcloud.net
+xtrapath3.izatcloud.net
+
 #mobile loyality apps notifications etc
 ai.snrbox.com
 api.snrapi.com
