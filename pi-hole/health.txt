@@ -14,8 +14,10 @@ hwid-dre.platform.hicloud.com
 hwid.platform.hicloud.com
 sns7.hicloud.com
 sportsuggest-dre.things.hicloud.com
-update-dre.platform.hicloud.com
 upfile7.hicloud.com
 
 #whitelisted:
 #sportdata-dre.things.hicloud.com #necessary for sync to work
+
+#potentially whitelisted:
+update-dre.platform.hicloud.com #used to update connected devices' firmware. 
