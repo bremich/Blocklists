@@ -1,4 +1,4 @@
-#social media
+#Social media deomain to which mobile devices may make unsolicited connections.
 connect.facebook.net
 fb.com
 graph.facebook.com
