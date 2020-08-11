@@ -135,6 +135,13 @@ mobiledataplansharing.googleapis.com
 samsungads.com
 www.cust-service.com
 
+#mobile loyality apps notifications
+ai.snrbox.com
+api.snrapi.com
+dc.snrbox.com
+proxy.synerise.com
+www.snrcdn.net
+
 #Mozilla trackers, telemetry and unnecessary connections
 detectportal.firefox.com
 incoming.telemetry.mozilla.org
