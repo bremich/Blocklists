@@ -9,3 +9,4 @@ scontent-waw1-1.xx.fbcdn.net
 facebook.com
 platform.twitter.com
 platform.twitter.map.fastly.net
+www.instagram.com
