@@ -89,11 +89,12 @@ tile-service.weather.microsoft.com
 evoke-windowsservices-tas.msedge.net #used by Photos to download config files
 statics-marketingsites-neu-ms-com.akamaized.net
 
-#mobile advertising
+#mobile advertising/tracking
 a.exdynsrv.com
 achilles-ena.com
 ad.vendimob.pl
 anticalser.club
+api.instabug.com
 ateoildim.club
 aukalerim.com
 bcicdn.com
