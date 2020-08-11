@@ -1,4 +1,4 @@
-#social media
+#Social media domains to which mobile devices may make unsolicited connections.
 connect.facebook.net
 fb.com
 graph.facebook.com
@@ -9,3 +9,5 @@ scontent-waw1-1.xx.fbcdn.net
 facebook.com
 platform.twitter.com
 platform.twitter.map.fastly.net
+www.instagram.com
+i.ytimg.com

@@ -1,5 +1,5 @@
 #Blocklist for use with Pi-hole/uMatrix/Adguard Home
-#Version: 20200810
+#Version: 20200811v4
 #Title: Bremich Blocklist
 
 #misc
@@ -10,6 +10,7 @@ amanda.ttnrd.com
 api.adsrvr.io
 api.engage.bidsystem.com
 cdnads.com
+cdn.cookielaw.org
 cmp.dreamlab.pl
 coin-hive.com
 columbusenergy.pl
@@ -97,18 +98,21 @@ anticalser.club
 api.instabug.com
 ateoildim.club
 aukalerim.com
+barfsmiaowpit.com
 bcicdn.com
 bisiraczyxbu.com
 bngpt.com
 bongacams.com
 bongacams7.com
 cassini.efigence.com
+ccgmaining.life
 cdn.runative-syndicate.com
 certify.alexametrics.com
 collect.lngtd.com
 collector-analytics.efigence.com
 d31qbv1cthcecs.cloudfront.net
 d36zfztxfflmqo.cloudfront.net
+d3ithbwcmjcxl7.cloudfront.net
 didchinosdub.cam
 exdynsrv.com
 fstats.xyz
@@ -117,23 +121,38 @@ jeu5qst0.pro
 khabarbabal.online
 lngtd.com
 main.exdynsrv.com
+mugleafly.com
 pl.bongacams.com
 pushplex.space
+s.viihot.com
 service.vendimob.pl
 sparagken.com
 spencedsd.club
 syndication.realsrv.com
 v3.fstats.xyz
-barfsmiaowpit.com
-d3ithbwcmjcxl7.cloudfront.net
-mugleafly.com
+www.predictivdisplay.com
 
 #mobile apps
+abtest.api.viber.com
 accuweather.com
 analytics.brave.com
 mobiledataplansharing.googleapis.com
 samsungads.com
 www.cust-service.com
+
+#mobile location data
+bcmltoqa.glpals.com
+bcmltoqa.glpals.com.s3-us-west-2.amazonaws.com
+xtrapath1.izatcloud.net
+xtrapath2.izatcloud.net
+xtrapath3.izatcloud.net
+
+#mobile loyality apps notifications etc
+ai.snrbox.com
+api.snrapi.com
+dc.snrbox.com
+proxy.synerise.com
+www.snrcdn.net
 
 #Mozilla trackers, telemetry and unnecessary connections
 detectportal.firefox.com
@@ -148,7 +167,7 @@ gfe.geforce.com
 gfe.nvidia.com
 gfwsl.geforce.com
 services.gfe.nvidia.com
-/telemetry.gfe.nvidia.com
+telemetry.gfe.nvidia.com
 telemetry.nvidia.com
 
 #Reddit
@@ -236,20 +255,3 @@ no.qwe.wiki
 sv.qwe.wiki
 da.qwe.wiki
 fi.qwe.wiki
-
-#Xiaomi
-api.ad.intl.xiaomi.com
-api.newsfeed.intl.miui.com
-app.chat.global.xiaomi.net
-app.chat.xiaomi.net
-browser.intl.miui.com
-data.mistat.intl.xiaomi.com
-dw-online.ksosoft.com #Xiaomi phones' connections to Kingsoft
-fr.app.chat.global.xiaomi.net
-g.galleryapi.micloud.xiaomi.net
-metok-ccc.intl.xiaomi.com
-resolver.msg.global.xiaomi.net
-sa.api.intl.miui.com
-sdkconfig.ad.intl.xiaomi.com
-tracking.intl.miui.com
-us.api.micloud.xiaomi.net

@@ -8,9 +8,10 @@ steam-chat.com
 satysfakcja.stati.pl
 viadata.store
 rtb.viadata.store
+turbo.pkoleasing.pl
 #firebaseinstallations.googleapis.com #Android notifications channel, temporarly unblocked
 
-#mozilla
+#Mozilla
 location.services.mozilla.com
 locprod1-elb-eu-west-1.prod.mozaws.net
 normandy-cdn.services.mozilla.com
@@ -18,7 +19,20 @@ tracking-protection.cdn.mozilla.net
 prod-classifyclient.normandy.prod.cloudops.mozgcp.net
 bouncer-bouncer-elb.prod.mozaws.net
 
-#nvidia
+#Nvidia
 accounts.nvgs.nvidia.com
 nvidia.tt.omtrdc.net
 ota.nvidia.com
+
+#Opera
+features.opera-api.com
+sitecheck.opera.com
+vip02.am4.lb.opera.technology
+
+#Facebook and Instagram graph domains
+graph.facebook.com
+graph.instagram.com
+
+#Google consent domains
+consent.google.com
+consent.youtube.com

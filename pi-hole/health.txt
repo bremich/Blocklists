@@ -12,6 +12,7 @@ healthactivity-dre.things.hicloud.com
 healthdeviceagent-dre.things.hicloud.com
 hwid-dre.platform.hicloud.com
 hwid.platform.hicloud.com
+pushtrs7.push.hicloud.com
 sns7.hicloud.com
 sportsuggest-dre.things.hicloud.com
 upfile7.hicloud.com
