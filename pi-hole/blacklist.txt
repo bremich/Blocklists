@@ -248,22 +248,3 @@ no.qwe.wiki
 sv.qwe.wiki
 da.qwe.wiki
 fi.qwe.wiki
-
-#Xiaomi
-api.ad.intl.xiaomi.com
-api.newsfeed.intl.miui.com
-app.chat.global.xiaomi.net
-app.chat.xiaomi.net
-browser.intl.miui.com
-data.mistat.intl.xiaomi.com
-dw-online.ksosoft.com #Xiaomi phones' connections to Kingsoft
-dyn.ksord.com #Xiaomi phones' connections to Kingsoft
-fr.app.chat.global.xiaomi.net
-g.galleryapi.micloud.xiaomi.net
-metok-ccc.intl.xiaomi.com
-resolver.msg.global.xiaomi.net
-sa.api.intl.miui.com
-sdkconfig.ad.intl.xiaomi.com
-shuc-android.ksord.com #Xiaomi phones' connections to Kingsoft
-tracking.intl.miui.com
-us.api.micloud.xiaomi.net
