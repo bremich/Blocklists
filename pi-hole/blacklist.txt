@@ -1,5 +1,5 @@
 #Blocklist for use with Pi-hole/uMatrix/Adguard Home
-#Version: 20200806
+#Version: 20200810
 #Title: Bremich Blocklist
 
 #misc
@@ -7,10 +7,9 @@ adblockultimate.net
 adservice.google.pl
 alibabadns.com
 amanda.ttnrd.com
-anticalser.club
 api.adsrvr.io
 api.engage.bidsystem.com
-ateoildim.club
+cdnads.com
 cmp.dreamlab.pl
 coin-hive.com
 columbusenergy.pl
@@ -20,82 +19,33 @@ doz.telemedi.co
 elb-telemetry-prod-external-1332413525.us-west-2.elb.amazonaws.com
 hosts-file.net
 ilkmawgod.site
+inservinea.com
 kobo.com
 llegro.pl
 masterpcprotection.com
 merchandise.opera-api.com
 no-thanks.invalid
+oleole.trafficscanner.pl
 origin.co
+padsdel2.cdnads.com
 pixel.runative-syndicate.com
 pogoda.wpcdn.pl
+propellerads.cdnads.com
 quiterss.org
 sandra.ttnrd.com
 sarah.ttnrd.com
-short-link.space
 snxd.com
 softwaresecuritypro.com
 softwareupdate.vmware.com
-sparagken.com
 store.steampowered.co
 tore.steampowered.com
 ttnrd.com
 ubisoft.co
 update.glasswire.com
+video.your-notice.com
 whatsapp.net
 www.kobo.com
-
-#MS
-activity.windows.com #Win 10 activity tab sync
-arc.msn.com #Windows Spotlight metadata
-gap-prime-finance.msn-int.com
-in.appcenter.ms #MS analytics
-msn-int.com
-msn.com
-ntp.msn.com
-oneclient.sfx.ms #OneDrive sync
-service.weather.microsoft.com
-tile-service.weather.microsoft.com
-
-#mozilla trackers, telemetry and unnecessary connections
-detectportal.firefox.com
-incoming.telemetry.mozilla.org
-learning.mozilla.org
-normandy.cdn.mozilla.net
-snippets.cdn.mozilla.net
-
-#mobile apps
-accuweather.com
-analytics.brave.com
-bibo.api.swiftkey.com
-firebaseinstallations.googleapis.com
-jenson.api.swiftkey.com
-mobiledataplansharing.googleapis.com
-samsungads.com
-snippetdata.api.swiftkey.com
-tigger-citadel.touchtype-fluency.com
-www.cust-service.com
-
-#nvidia
-events.gfe.nvidia.com
-gfe.geforce.com
-gfe.nvidia.com
-gfwsl.geforce.com
-services.gfe.nvidia.com
-telemetry.gfe.nvidia.com
-telemetry.nvidia.com
-
-#intel
-gameplay.intel.com
-gameplayapi.intel.com
-
-#lenovo laptops
-api.naea1.uds.lenovo.com
-chifsr.lenovomm.com
-download.lenovo.com
-filedownload.csw.lenovo.com
-filedownload.lenovo.com
-vantage-dev-2.csw.lenovo.com
-vantage.csw.lenovo.com
+your-notice.com
 
 #gaming trackers
 agoragames.com
@@ -110,21 +60,100 @@ treasuredata.com
 clans.shogun2.totalwar.com
 login.firaxislive.com
 
-#xiaomi
-api.ad.intl.xiaomi.com
-api.newsfeed.intl.miui.com
-app.chat.global.xiaomi.net
-app.chat.xiaomi.net
-browser.intl.miui.com
-data.mistat.intl.xiaomi.com
-fr.app.chat.global.xiaomi.net
-g.galleryapi.micloud.xiaomi.net
-metok-ccc.intl.xiaomi.com
-resolver.msg.global.xiaomi.net
-sa.api.intl.miui.com
-sdkconfig.ad.intl.xiaomi.com
-tracking.intl.miui.com
-us.api.micloud.xiaomi.net
+#Intel
+gameplay.intel.com
+gameplayapi.intel.com
+
+#Lenovo laptops
+api.naea1.uds.lenovo.com
+chifsr.lenovomm.com
+csw.lenovo.com
+download.lenovo.com
+dxp.lenovo.com
+filedownload.csw.lenovo.com
+filedownload.lenovo.com
+lenovo.com
+luda.dxp.lenovo.com
+msg.dxp.lenovo.com
+vantage-dev-2.csw.lenovo.com
+vantage.csw.lenovo.com
+
+#Microsoft
+activity.windows.com #Win 10 activity tab sync
+arc.msn.com #Windows Spotlight metadata
+#gap-prime-finance.msn-int.com
+in.appcenter.ms #MS analytics
+noneclient.sfx.ms #OneDrive sync
+service.weather.microsoft.com
+tile-service.weather.microsoft.com
+evoke-windowsservices-tas.msedge.net #used by Photos to download config files
+statics-marketingsites-neu-ms-com.akamaized.net
+
+#mobile advertising/tracking
+a.exdynsrv.com
+achilles-ena.com
+ad.vendimob.pl
+anticalser.club
+api.instabug.com
+ateoildim.club
+aukalerim.com
+bcicdn.com
+bisiraczyxbu.com
+bngpt.com
+bongacams.com
+bongacams7.com
+cassini.efigence.com
+cdn.runative-syndicate.com
+certify.alexametrics.com
+collect.lngtd.com
+collector-analytics.efigence.com
+d31qbv1cthcecs.cloudfront.net
+d36zfztxfflmqo.cloudfront.net
+didchinosdub.cam
+exdynsrv.com
+fstats.xyz
+i.bcicdn.com
+jeu5qst0.pro
+khabarbabal.online
+lngtd.com
+main.exdynsrv.com
+pl.bongacams.com
+pushplex.space
+service.vendimob.pl
+sparagken.com
+spencedsd.club
+syndication.realsrv.com
+v3.fstats.xyz
+barfsmiaowpit.com
+d3ithbwcmjcxl7.cloudfront.net
+mugleafly.com
+
+#mobile apps
+accuweather.com
+analytics.brave.com
+mobiledataplansharing.googleapis.com
+samsungads.com
+www.cust-service.com
+
+#Mozilla trackers, telemetry and unnecessary connections
+detectportal.firefox.com
+incoming.telemetry.mozilla.org
+learning.mozilla.org
+normandy.cdn.mozilla.net
+snippets.cdn.mozilla.net
+
+#Nvidia
+events.gfe.nvidia.com
+gfe.geforce.com
+gfe.nvidia.com
+gfwsl.geforce.com
+services.gfe.nvidia.com
+/telemetry.gfe.nvidia.com
+telemetry.nvidia.com
+
+#Reddit
+emoji.redditmedia.com
+udkcrj.com #reddit DRM tracking
 
 #streaming
 0123movies.com
@@ -166,9 +195,31 @@ putlockertv.ws
 putlockerz.io
 theputlockerhub.me
 
-#reddit
-emoji.redditmedia.com
-udkcrj.com #reddit DRM tracking
+#Swiftkey
+assets.swiftkey.com
+bibo.api.swiftkey.com
+citadel-eeyore-staging.touchtype-fluency.com
+citadel-tigger-staging.touchtype-fluency.com
+citadel-winnie-staging.touchtype-fluency.com
+eeyore-citadel.touchtype-fluency.com
+handwriting.api.swiftkey.com
+handwriting.staging.swiftkey.com
+jenson.api.swiftkey.com
+mds.staging.swiftkey.com
+personalization-staging.touchtype-fluency.com
+personalization.touchtype-fluency.com
+snippetdata.api.swiftkey.com
+swiftkey-sync-production.touchtype-fluency.com
+telemetry.staging.swiftkey.com
+test-auth-a.touchtype-fluency.com
+test-auth-b.touchtype-fluency.com
+test1-sync-vpcstaging.touchtype-fluency.com
+tigger-citadel.touchtype-fluency.com
+tokens-auth.touchtype-fluency.com
+translate.api.swiftkey.com
+users-auth.touchtype-fluency.com
+winnie-citadel.touchtype-fluency.com
+www.swiftkey.com
 
 #wiki mirrors
 cs.qwe.wiki
@@ -185,3 +236,20 @@ no.qwe.wiki
 sv.qwe.wiki
 da.qwe.wiki
 fi.qwe.wiki
+
+#Xiaomi
+api.ad.intl.xiaomi.com
+api.newsfeed.intl.miui.com
+app.chat.global.xiaomi.net
+app.chat.xiaomi.net
+browser.intl.miui.com
+data.mistat.intl.xiaomi.com
+dw-online.ksosoft.com #Xiaomi phones' connections to Kingsoft
+fr.app.chat.global.xiaomi.net
+g.galleryapi.micloud.xiaomi.net
+metok-ccc.intl.xiaomi.com
+resolver.msg.global.xiaomi.net
+sa.api.intl.miui.com
+sdkconfig.ad.intl.xiaomi.com
+tracking.intl.miui.com
+us.api.micloud.xiaomi.net

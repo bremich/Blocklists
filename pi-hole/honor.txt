@@ -1,8 +1,21 @@
 #Huawei/Honor
 adxcreative-dre.dbankcdn.com
 amppic-dre.dbankcdn.com
+api.cloud.hicloud.com
 api.cloud.huawei.com
 apkrep.ff.avast.com #appcheck
+appdl.dbankcdn.com
+appdl1.dbankcdn.com
+appdl2.dbankcdn.com
+appdl3.dbankcdn.com
+appdl-dre.dbankcdn.com
+appdlc-dre.hispace.hicloud.com
+appgallery.cloud.huawei.com
+appimg.dbankcdn.com
+appimg1.dbankcdn.com
+appimg2.dbankcdn.com
+appimg3.dbankcdn.com
+appoptimize-dre.dbankcdn.com
 auth.ff.avast.com #appcheck
 cloudres-dra.dbankcdn.com
 configserver-dra.platform.hicloud.com
@@ -37,7 +50,14 @@ id8.cloud.huawei.com
 id9.cloud.huawei.com
 id10.cloud.huawei.com
 id.cloud.huawei.com
+josres-dre.dbankcdn.com
+jxs.jos.hicloud.com
+jxs1.jos.hicloud.com
+jxs2.jos.hicloud.com
+jxs3.jos.hicloud.com
+metrics.data.hicloud.com
 metrics2.data.hicloud.com
+metrics3.data.hicloud.com
 pkginstaller-ovs.hispace.hicloud.com
 pushtrs7.push.hicloud.com
 query.hicloud.com
@@ -51,6 +71,7 @@ store4.hispace.hicloud.com
 update.dbankcdn.com
 update.hicloud.com
 
-#connectivity checks
-connectivitycheck.cbg-app.huawei.com
-connectivitycheck.platform.hicloud.com
+#third-party
+appleid.cdn-apple.com #accessed upon opening Huawei AppGallery
+lcs.loginfra.com #accessed upon opening Huawei AppGallery
+aiclean.eu.cloud.360safe.com #accessed upon initial device configuration
