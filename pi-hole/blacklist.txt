@@ -1,5 +1,5 @@
 #Blocklist for use with Pi-hole/uMatrix/Adguard Home
-#Version: 20200811v2
+#Version: 20200811v4
 #Title: Bremich Blocklist
 
 #misc
@@ -141,6 +141,7 @@ samsungads.com
 www.cust-service.com
 
 #mobile location data
+bcmltoqa.glpals.com
 bcmltoqa.glpals.com.s3-us-west-2.amazonaws.com
 xtrapath1.izatcloud.net
 xtrapath2.izatcloud.net
