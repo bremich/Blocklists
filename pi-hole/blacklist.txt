@@ -1,5 +1,5 @@
 #Blocklist for use with Pi-hole/uMatrix/Adguard Home
-#Version: 20200811
+#Version: 20200811v2
 #Title: Bremich Blocklist
 
 #misc
@@ -98,6 +98,7 @@ anticalser.club
 api.instabug.com
 ateoildim.club
 aukalerim.com
+barfsmiaowpit.com
 bcicdn.com
 bisiraczyxbu.com
 bngpt.com
@@ -110,6 +111,7 @@ collect.lngtd.com
 collector-analytics.efigence.com
 d31qbv1cthcecs.cloudfront.net
 d36zfztxfflmqo.cloudfront.net
+d3ithbwcmjcxl7.cloudfront.net
 didchinosdub.cam
 exdynsrv.com
 fstats.xyz
@@ -118,16 +120,15 @@ jeu5qst0.pro
 khabarbabal.online
 lngtd.com
 main.exdynsrv.com
+mugleafly.com
 pl.bongacams.com
 pushplex.space
+s.viihot.com
 service.vendimob.pl
 sparagken.com
 spencedsd.club
 syndication.realsrv.com
 v3.fstats.xyz
-barfsmiaowpit.com
-d3ithbwcmjcxl7.cloudfront.net
-mugleafly.com
 
 #mobile apps
 abtest.api.viber.com
@@ -157,7 +158,7 @@ gfe.geforce.com
 gfe.nvidia.com
 gfwsl.geforce.com
 services.gfe.nvidia.com
-/telemetry.gfe.nvidia.com
+telemetry.gfe.nvidia.com
 telemetry.nvidia.com
 
 #Reddit
@@ -254,11 +255,13 @@ app.chat.xiaomi.net
 browser.intl.miui.com
 data.mistat.intl.xiaomi.com
 dw-online.ksosoft.com #Xiaomi phones' connections to Kingsoft
+dyn.ksord.com #Xiaomi phones' connections to Kingsoft
 fr.app.chat.global.xiaomi.net
 g.galleryapi.micloud.xiaomi.net
 metok-ccc.intl.xiaomi.com
 resolver.msg.global.xiaomi.net
 sa.api.intl.miui.com
 sdkconfig.ad.intl.xiaomi.com
+shuc-android.ksord.com #Xiaomi phones' connections to Kingsoft
 tracking.intl.miui.com
 us.api.micloud.xiaomi.net
