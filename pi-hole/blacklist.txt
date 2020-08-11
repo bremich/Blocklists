@@ -105,6 +105,7 @@ bngpt.com
 bongacams.com
 bongacams7.com
 cassini.efigence.com
+ccgmaining.life
 cdn.runative-syndicate.com
 certify.alexametrics.com
 collect.lngtd.com
@@ -129,6 +130,7 @@ sparagken.com
 spencedsd.club
 syndication.realsrv.com
 v3.fstats.xyz
+www.predictivdisplay.com
 
 #mobile apps
 abtest.api.viber.com
@@ -138,7 +140,7 @@ mobiledataplansharing.googleapis.com
 samsungads.com
 www.cust-service.com
 
-#mobile loyality apps notifications
+#mobile loyality apps notifications etc
 ai.snrbox.com
 api.snrapi.com
 dc.snrbox.com
