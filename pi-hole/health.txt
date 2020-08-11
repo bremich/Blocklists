@@ -1,0 +1,15 @@
+#unnecessary connections made by Huawei Health
+achievement-dre.things.hicloud.com
+configserver-dre.platform.hicloud.com
+dnkeeper.hicloud.com
+grs.dbankcloud.com
+hag-dre.ai.hicloud.com
+healthactivity-dre.things.hicloud.com
+healthdeviceagent-dre.things.hicloud.com
+hwid-dre.platform.hicloud.com
+hwid.platform.hicloud.com
+sns7.hicloud.com
+sportdata-dre.things.hicloud.com
+sportsuggest-dre.things.hicloud.com
+update-dre.platform.hicloud.com
+upfile7.hicloud.com
