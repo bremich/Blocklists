@@ -48,6 +48,15 @@ whatsapp.net
 www.kobo.com
 your-notice.com
 
+#archive pixels
+pixel.archive.today
+pixel.archive.is
+pixel.archive.fo
+pixel.archive.li
+pixel.archive.vn
+pixel.archive.md
+pixel.archive.ph
+
 #gaming trackers
 agoragames.com
 analytics.patcher.elderscrollsonline.com
@@ -64,20 +73,6 @@ login.firaxislive.com
 #Intel
 gameplay.intel.com
 gameplayapi.intel.com
-
-#Lenovo laptops
-api.naea1.uds.lenovo.com
-chifsr.lenovomm.com
-csw.lenovo.com
-download.lenovo.com
-dxp.lenovo.com
-filedownload.csw.lenovo.com
-filedownload.lenovo.com
-lenovo.com
-luda.dxp.lenovo.com
-msg.dxp.lenovo.com
-vantage-dev-2.csw.lenovo.com
-vantage.csw.lenovo.com
 
 #Microsoft
 activity.windows.com #Win 10 activity tab sync
