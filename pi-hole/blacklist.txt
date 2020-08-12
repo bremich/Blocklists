@@ -48,7 +48,8 @@ whatsapp.net
 www.kobo.com
 your-notice.com
 
-#archive pixels
+#archive
+henley-putnam.edu
 pixel.archive.today
 pixel.archive.is
 pixel.archive.fo
@@ -56,6 +57,7 @@ pixel.archive.li
 pixel.archive.vn
 pixel.archive.md
 pixel.archive.ph
+www.henley-putnam.edu
 
 #gaming trackers
 agoragames.com
@@ -111,6 +113,7 @@ d3ithbwcmjcxl7.cloudfront.net
 didchinosdub.cam
 exdynsrv.com
 fstats.xyz
+graph.instagram.com
 i.bcicdn.com
 jeu5qst0.pro
 khabarbabal.online
