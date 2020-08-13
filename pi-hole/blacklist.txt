@@ -7,6 +7,7 @@ adblockultimate.net
 adservice.google.pl
 alibabadns.com
 amanda.ttnrd.com
+analytics.roundcubeplus.com
 api.adsrvr.io
 api.engage.bidsystem.com
 cdnads.com
