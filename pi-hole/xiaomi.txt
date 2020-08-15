@@ -1,4 +1,5 @@
 api.ad.intl.xiaomi.com
+api.brs.intl.miui.com
 api.newsfeed.intl.miui.com
 app.chat.global.xiaomi.net
 app.chat.xiaomi.net
