@@ -1,4 +1,5 @@
 #Huawei/Honor
+achievement-dre.things.hicloud.com
 adxcreative-dre.dbankcdn.com
 amppic-dre.dbankcdn.com
 api-sg.c.huawei.com
@@ -41,9 +42,13 @@ grs.dbankcloud.eu
 grs.hicloud.com
 grs.huawei.com
 grs.hwcdn.net
+hag-dre.ai.hicloud.com
+healthactivity-dre.things.hicloud.com
+healthdeviceagent-dre.things.hicloud.com
 hicloud.com
 huawei.com
 hwcdn.net
+hwid-dre.platform.hicloud.com
 hwid.platform.hicloud.com
 id.cloud.huawei.com
 id0.cloud.huawei.com
@@ -72,6 +77,8 @@ r-beta.huaweistatic.com
 sdkserver-dre.op.hicloud.com
 sg.nebula-collector.huawei.com
 shepherd.sb.avast.com #appcheck
+sns7.hicloud.com
+sportsuggest-dre.things.hicloud.com
 store.hispace.hicloud.com
 store1.hispace.hicloud.com
 store2.hispace.hicloud.com
@@ -79,6 +86,7 @@ store3.hispace.hicloud.com
 store4.hispace.hicloud.com
 update.dbankcdn.com
 update.hicloud.com
+upfile7.hicloud.com
 
 #third-party
 appleid.cdn-apple.com #accessed upon opening Huawei AppGallery
