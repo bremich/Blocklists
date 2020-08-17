@@ -3,6 +3,7 @@
 #Title: Bremich Blocklist
 
 #misc
+dnssec-df.gexperiments4.com
 adblockultimate.net
 adservice.google.pl
 alibabadns.com
@@ -48,6 +49,9 @@ video.your-notice.com
 whatsapp.net
 www.kobo.com
 your-notice.com
+extouch.net
+opsoomet.net
+vipicmou.net
 
 #archive
 henley-putnam.edu
@@ -151,7 +155,10 @@ xtrapath3.izatcloud.net
 ai.snrbox.com
 api.snrapi.com
 dc.snrbox.com
+proxy.snrbox.com
 proxy.synerise.com
+tck.snrbox.com
+upload.snrcdn.net
 www.snrcdn.net
 
 #Mozilla trackers, telemetry and unnecessary connections
