@@ -1,9 +1,8 @@
 #Blocklist for use with Pi-hole/uMatrix/Adguard Home
-#Version: 20200811v4
+#Version: 20200817
 #Title: Bremich Blocklist
 
 #misc
-dnssec-df.gexperiments4.com
 adblockultimate.net
 adservice.google.pl
 alibabadns.com
@@ -11,15 +10,17 @@ amanda.ttnrd.com
 analytics.roundcubeplus.com
 api.adsrvr.io
 api.engage.bidsystem.com
-cdnads.com
 cdn.cookielaw.org
+cdnads.com
 cmp.dreamlab.pl
 coin-hive.com
 columbusenergy.pl
 daisy.ubuntu.com
+dnssec-df.gexperiments4.com
 doh.opendns.com
 doz.telemedi.co
 elb-telemetry-prod-external-1332413525.us-west-2.elb.amazonaws.com
+extouch.net
 hosts-file.net
 ilkmawgod.site
 inservinea.com
@@ -29,6 +30,7 @@ masterpcprotection.com
 merchandise.opera-api.com
 no-thanks.invalid
 oleole.trafficscanner.pl
+opsoomet.net
 origin.co
 padsdel2.cdnads.com
 pixel.runative-syndicate.com
@@ -46,12 +48,10 @@ ttnrd.com
 ubisoft.co
 update.glasswire.com
 video.your-notice.com
+vipicmou.net
 whatsapp.net
 www.kobo.com
 your-notice.com
-extouch.net
-opsoomet.net
-vipicmou.net
 
 #archive
 henley-putnam.edu
