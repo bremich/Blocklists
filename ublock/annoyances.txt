@@ -1,5 +1,5 @@
 ! Title: Misc filters
-! Version: 202008111535
+! Version: 20200820
 ! Expires: 24 hours
 
 airly.eu##.overlay--show.overlay
@@ -37,6 +37,14 @@ www.ceneo.pl##.store-zones
 www.ceneo.pl##div.js_category-list-body.highlighted-offers
 www.dobreprogramy.pl###Player0
 www.dobreprogramy.pl##.block.content-list
+www.filmweb.pl##div:has(> a[href="/zostanwdomu?ref=promo_stayAtHomeA"])
+www.filmweb.pl##div:has(> a[href="/zostanwdomu?ref=promo_stayAtHomeB"])
+www.filmweb.pl##section.GallerySection
+www.filmweb.pl##section.filmTakePartSection
+www.filmweb.pl##footer
+www.filmweb.pl##section.FilmMainVideosSection 
+www.filmweb.pl##section.filmContributorsSection
+www.filmweb.pl##section.filmContributeSection
 www.fosshub.com##.ad-alt
 www.komputronik.pl###new-products
 www.lg.com##.dimmed
@@ -46,6 +54,9 @@ www.morele.net###civil_code
 www.morele.net##.box-hidden.product-seo-inner
 www.morele.net##.seo-description
 www.morele.net##.social-media.section
+www.netflix.com##div.billboard-row
+www.netflix.com##div.bigRow
+www.netflix.com##div.is-disliked
 www.nexusmods.com##.download-donation-panel
 www.reddit.com##.awardings-bar
 www.reddit.com##.create.sidebox
