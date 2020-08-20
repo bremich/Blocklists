@@ -1,5 +1,5 @@
 ! Title: Misc filters
-! Version: 20200820
+! Version: 20200821
 ! Expires: 24 hours
 
 airly.eu##.overlay--show.overlay
@@ -56,7 +56,8 @@ www.morele.net##.seo-description
 www.morele.net##.social-media.section
 www.netflix.com##div.billboard-row
 www.netflix.com##div.bigRow
-www.netflix.com##div.is-disliked
+www.netflix.com#?#div:has(> div.is-disliked)
+! alternative version which doesn't leave an empty box: www.netflix.com#?#div:has(> div:has(> .is-disliked))
 www.nexusmods.com##.download-donation-panel
 www.reddit.com##.awardings-bar
 www.reddit.com##.create.sidebox
