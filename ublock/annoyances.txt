@@ -6,8 +6,6 @@ airly.eu##.overlay--show.overlay
 airly.eu##.welcome-modal__content
 airly.eu##.widget-block
 emonitoring.poczta-polska.pl###social
-github.com##.signup-prompt
-gw2efficiency.com##.donate-buttons
 inpost.pl###popup-background
 inpost.pl###popup-window
 inpost.pl##.-withwave.btn--tracking--action
@@ -21,9 +19,7 @@ old.reddit.com###ecb
 old.reddit.com##.footer-parent
 old.reddit.com##.happening-now
 old.reddit.com##.listingsignupbar.infobar
-old.reddit.com##.morelink > [href^="https://www.redditgifts.com/exchanges/secret-santa-2019/"]
 old.reddit.com##.premium-banner-outer
-poczta.interia.pl###overlay-background
 sinoptik.pl#?#[href*="http://click.pmctrack.net/c/"]
 store.steampowered.com##.review_award_button
 store.steampowered.com##.review_award_count
@@ -31,7 +27,6 @@ store.steampowered.com##.review_award_ctn
 store.steampowered.com##.vote_info > .review_award_ctn
 store.steampowered.com##div[class^="broadcast_embeddable_"]
 streamable.com##.stm-ad-player
-www.amfora.pl##.seo-description
 www.ceneo.pl##.ellipsis.cat-desc-excerpt
 www.ceneo.pl##.store-zones
 www.ceneo.pl##div.js_category-list-body.highlighted-offers
@@ -46,14 +41,9 @@ www.filmweb.pl##section.FilmMainVideosSection
 www.filmweb.pl##section.filmContributorsSection
 www.filmweb.pl##section.filmContributeSection
 www.fosshub.com##.ad-alt
-www.komputronik.pl###new-products
 www.lg.com##.dimmed
 www.money.pl###Player0
 www.money.pl##.clickToOpenInfo
-www.morele.net###civil_code
-www.morele.net##.box-hidden.product-seo-inner
-www.morele.net##.seo-description
-www.morele.net##.social-media.section
 www.netflix.com##div.billboard-row
 www.netflix.com##div.bigRow
 www.netflix.com#?#div:has(> div.is-disliked)
@@ -71,6 +61,7 @@ www.youtube.com##.ytp-ce-covering-overlay
 www.youtube.com##.ytp-ce-element
 www.youtube.com##.ytp-ce-element-shadow
 www.youtube.com##.ytp-scroll-min.ytp-pause-overlay
+www.youtube.com##.yt-upsell-dialog-renderer
 yandex.ua#?#[href*="https://yandex.ua/news/_nzp/"]
 yandex.ua#?#div:-abp-has(> a[href*="https://yandex.ua/news/_nzp/"])
 ||ssl.ceneo.pl/shops/Content/img/tab-title-v.png
