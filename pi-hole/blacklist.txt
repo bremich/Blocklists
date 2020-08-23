@@ -1,10 +1,11 @@
 #Blocklist for use with Pi-hole/uMatrix/Adguard Home
-#Version: 20200817
+#Version: 20200823
 #Title: Bremich Blocklist
 
 #misc
 adblockultimate.net
 adservice.google.pl
+adskeeper.co.uk
 alibabadns.com
 amanda.ttnrd.com
 analytics.roundcubeplus.com
@@ -14,6 +15,7 @@ cdn.cookielaw.org
 cdnads.com
 cmp.dreamlab.pl
 coin-hive.com
+coinpayments.net
 columbusenergy.pl
 daisy.ubuntu.com
 dnssec-df.gexperiments4.com
@@ -31,6 +33,8 @@ merchandise.opera-api.com
 no-thanks.invalid
 oleole.trafficscanner.pl
 opsoomet.net
+optad360.com
+optad360.io
 origin.co
 padsdel2.cdnads.com
 pixel.runative-syndicate.com
@@ -42,6 +46,7 @@ sarah.ttnrd.com
 snxd.com
 softwaresecuritypro.com
 softwareupdate.vmware.com
+statsforads.com
 store.steampowered.co
 tore.steampowered.com
 ttnrd.com
@@ -50,7 +55,12 @@ update.glasswire.com
 video.your-notice.com
 vipicmou.net
 whatsapp.net
+www.adskeeper.co.uk
+www.coinpayments.net
 www.kobo.com
+www.mydomainad1.site
+www.optad360.com
+www.statsforads.com
 your-notice.com
 
 #archive
