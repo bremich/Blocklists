@@ -1,8 +1,11 @@
 #Blocklist for use with Pi-hole/uMatrix/Adguard Home
-#Version: 20200823
+#Version: 20200825
 #Title: Bremich Blocklist
 
 #misc
+4cdn.org
+4chan.org
+8ch.net
 adblockultimate.net
 adservice.google.pl
 adskeeper.co.uk
@@ -11,6 +14,8 @@ amanda.ttnrd.com
 analytics.roundcubeplus.com
 api.adsrvr.io
 api.engage.bidsystem.com
+app.distill.io
+bclogic.pl
 cdn.cookielaw.org
 cdnads.com
 cmp.dreamlab.pl
@@ -23,14 +28,17 @@ doh.opendns.com
 doz.telemedi.co
 elb-telemetry-prod-external-1332413525.us-west-2.elb.amazonaws.com
 extouch.net
+ezoic.net
+favicon.distillweb.net
+g.ezoic.net
 hosts-file.net
 ilkmawgod.site
 inservinea.com
 kobo.com
 llegro.pl
 masterpcprotection.com
+media.8ch.net
 merchandise.opera-api.com
-no-thanks.invalid
 oleole.trafficscanner.pl
 opsoomet.net
 optad360.com
@@ -49,12 +57,15 @@ softwareupdate.vmware.com
 statsforads.com
 store.steampowered.co
 tore.steampowered.com
+tracker.esputnik.com
 ttnrd.com
 ubisoft.co
 update.glasswire.com
 video.your-notice.com
 vipicmou.net
+vvvv.pw
 whatsapp.net
+www.4chan.org
 www.adskeeper.co.uk
 www.coinpayments.net
 www.kobo.com
@@ -77,6 +88,8 @@ www.henley-putnam.edu
 #gaming trackers
 agoragames.com
 analytics.patcher.elderscrollsonline.com
+ipv6check-http.steamcontent.com
+ipv6check-udp.steamcontent.com
 live-crash-reporter.elderscrollsonline.com
 marketing.patcher.elderscrollsonline.com
 redshell.io
@@ -103,6 +116,7 @@ evoke-windowsservices-tas.msedge.net #used by Photos to download config files
 statics-marketingsites-neu-ms-com.akamaized.net
 
 #mobile advertising/tracking
+2l6ddsmnm.de
 a.exdynsrv.com
 achilles-ena.com
 ad.vendimob.pl
@@ -143,6 +157,7 @@ sparagken.com
 spencedsd.club
 syndication.realsrv.com
 v3.fstats.xyz
+www.2l6ddsmnm.de
 www.predictivdisplay.com
 
 #mobile apps
