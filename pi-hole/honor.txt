@@ -70,6 +70,7 @@ jxs3.jos.hicloud.com
 metrics.data.hicloud.com
 metrics2.data.hicloud.com
 metrics3.data.hicloud.com
+ntp.sjtu.edu.cn
 pkginstaller-ovs.hispace.hicloud.com
 pushtrs7.push.hicloud.com
 query.hicloud.com
