@@ -9,6 +9,14 @@ viadata.store
 rtb.viadata.store
 turbo.pkoleasing.pl
 #firebaseinstallations.googleapis.com #Android notifications channel, temporarly unblocked
+api.usehero.com
+cdn.usehero.com
+api.conversion.pl
+openapi.webull.com
+s.w.org #WordPress emoji
+widgets.wp.com
+cust-service-cont.s3.amazonaws.com
+mrex.exs.pl
 
 #Mozilla
 location.services.mozilla.com
