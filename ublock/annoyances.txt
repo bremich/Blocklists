@@ -1,5 +1,5 @@
 ! Title: Misc filters
-! Version: 20200821
+! Version: 20200826
 ! Expires: 24 hours
 
 airly.eu##.overlay--show.overlay
@@ -65,3 +65,18 @@ www.youtube.com##.yt-upsell-dialog-renderer
 yandex.ua#?#[href*="https://yandex.ua/news/_nzp/"]
 yandex.ua#?#div:-abp-has(> a[href*="https://yandex.ua/news/_nzp/"])
 ||ssl.ceneo.pl/shops/Content/img/tab-title-v.png
+www.ceneo.pl##.product-top-2020__price
+www.ceneo.pl##.prom-products
+www.ceneo.pl###REK_Produkt_LISTING_OFERT_SKLEP
+www.ceneo.pl##.linked-content
+www.ceneo.pl##.sm-links
+allegro.pl##[data-box-name="allegro.advertising.adspremium"]
+allegro.pl##[data-box-name="leftpanel_ads"]
+allegro.pl##[data-box-name="popularne miasta pc"]
+allegro.pl##[data-box-name="rekomendacje"]
+allegro.pl##[data-box-name="articles"]
+allegro.pl##[data-box-name="f-social"]
+allegro.pl##[data-box-name="kategorie komplementarne kontener"]
+allegro.pl##[data-analytics-view-label="showSponsoredItems"]
+youtube.com##div:has( > [href="https://www.who.int/emergencies/diseases/novel-coronavirus-2019"])
+twitter.com#?#div:has(> div:has(> div:has(> div:has(> span:has-text(Don’t miss what’s happening)))))
