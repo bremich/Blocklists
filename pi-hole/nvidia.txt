@@ -10,6 +10,7 @@ gfwsl.geforce.com
 img.nvidiagrid.net
 login.nvgs.nvidia.com
 ls.dtrace.nvidia.com
+nvidia.tt.omtrdc.net
 ota.nvidia.com
 rum-collector-2.pingdom.net
 rum-static.pingdom.net
