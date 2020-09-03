@@ -17,6 +17,12 @@ s.w.org #WordPress emoji
 widgets.wp.com
 cust-service-cont.s3.amazonaws.com
 mrex.exs.pl
+trafficscanner.pl
+euro.trafficscanner.pl
+blogguj.com
+rep.leaselink.pl
+trustmate.io
+tp.convertiser.com
 
 #Mozilla
 location.services.mozilla.com
@@ -25,11 +31,6 @@ normandy-cdn.services.mozilla.com
 tracking-protection.cdn.mozilla.net
 prod-classifyclient.normandy.prod.cloudops.mozgcp.net
 bouncer-bouncer-elb.prod.mozaws.net
-
-#Nvidia
-accounts.nvgs.nvidia.com
-nvidia.tt.omtrdc.net
-ota.nvidia.com
 
 #Opera
 features.opera-api.com
@@ -41,5 +42,5 @@ graph.facebook.com
 graph.instagram.com
 
 #Google consent domains
-consent.google.com
-consent.youtube.com
+#consent.google.com
+#consent.youtube.com
