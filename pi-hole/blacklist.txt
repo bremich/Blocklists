@@ -15,7 +15,6 @@ analytics.roundcubeplus.com
 api.adsrvr.io
 api.engage.bidsystem.com
 app.distill.io
-bclogic.pl
 cdn.cookielaw.org
 cdnads.com
 cmp.dreamlab.pl
@@ -86,19 +85,19 @@ pixel.archive.md
 pixel.archive.ph
 www.henley-putnam.edu
 
-#gaming trackers
+#gaming - trackers
 agoragames.com
 analytics.patcher.elderscrollsonline.com
-ipv6check-http.steamcontent.com
-ipv6check-udp.steamcontent.com
 live-crash-reporter.elderscrollsonline.com
 marketing.patcher.elderscrollsonline.com
 redshell.io
 sr3.hydra.agoragames.com
 treasuredata.com
 
-#gaming unnecessary services
+#gaming - unnecessary services
 clans.shogun2.totalwar.com
+ipv6check-http.steamcontent.com
+ipv6check-udp.steamcontent.com
 login.firaxislive.com
 
 #Intel
@@ -175,6 +174,8 @@ analytics.brave.com
 mobiledataplansharing.googleapis.com
 samsungads.com
 www.cust-service.com
+inapps.appsflyer.com
+launches.appsflyer.com
 
 #mobile location data
 bcmltoqa.glpals.com
