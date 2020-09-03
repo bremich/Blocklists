@@ -1,5 +1,5 @@
 #Blocklist for use with Pi-hole/uMatrix/Adguard Home
-#Version: 20200825
+#Version: 20200903
 #Title: Bremich Blocklist
 
 #misc
@@ -34,6 +34,7 @@ g.ezoic.net
 hosts-file.net
 ilkmawgod.site
 inservinea.com
+jsc.adskeeper.co.uk
 kobo.com
 llegro.pl
 masterpcprotection.com
@@ -122,26 +123,29 @@ achilles-ena.com
 ad.vendimob.pl
 anticalser.club
 api.instabug.com
+app.getemails.com
 ateoildim.club
 aukalerim.com
 barfsmiaowpit.com
 bcicdn.com
 bisiraczyxbu.com
 bngpt.com
-bongacams.com
 bongacams7.com
+bongacams.com
 cassini.efigence.com
 ccgmaining.life
 cdn.runative-syndicate.com
 certify.alexametrics.com
 collect.lngtd.com
 collector-analytics.efigence.com
+d3ithbwcmjcxl7.cloudfront.net
 d31qbv1cthcecs.cloudfront.net
 d36zfztxfflmqo.cloudfront.net
-d3ithbwcmjcxl7.cloudfront.net
 didchinosdub.cam
+docs.getemails.com
 exdynsrv.com
 fstats.xyz
+getemails.com
 graph.instagram.com
 i.bcicdn.com
 jeu5qst0.pro
@@ -149,15 +153,19 @@ khabarbabal.online
 lngtd.com
 main.exdynsrv.com
 mugleafly.com
+p0.mycdn.co
 pl.bongacams.com
 pushplex.space
+rtb.4armn.com
 s.viihot.com
 service.vendimob.pl
 sparagken.com
 spencedsd.club
+support.getemails.com
 syndication.realsrv.com
 v3.fstats.xyz
 www.2l6ddsmnm.de
+www.getemails.com
 www.predictivdisplay.com
 
 #mobile apps
@@ -192,15 +200,6 @@ incoming.telemetry.mozilla.org
 learning.mozilla.org
 normandy.cdn.mozilla.net
 snippets.cdn.mozilla.net
-
-#Nvidia
-events.gfe.nvidia.com
-gfe.geforce.com
-gfe.nvidia.com
-gfwsl.geforce.com
-services.gfe.nvidia.com
-telemetry.gfe.nvidia.com
-telemetry.nvidia.com
 
 #Reddit
 emoji.redditmedia.com
