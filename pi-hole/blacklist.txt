@@ -17,6 +17,7 @@ api.engage.bidsystem.com
 app.distill.io
 cdn.cookielaw.org
 cdnads.com
+cdnjs.buymeacoffee.com
 cmp.dreamlab.pl
 coin-hive.com
 coinpayments.net
@@ -39,6 +40,7 @@ llegro.pl
 masterpcprotection.com
 media.8ch.net
 merchandise.opera-api.com
+motd.ubuntu.com
 oleole.trafficscanner.pl
 opsoomet.net
 optad360.com
@@ -67,6 +69,7 @@ vvvv.pw
 whatsapp.net
 www.4chan.org
 www.adskeeper.co.uk
+www.buymeacoffee.com
 www.coinpayments.net
 www.kobo.com
 www.mydomainad1.site
@@ -165,6 +168,7 @@ syndication.realsrv.com
 v3.fstats.xyz
 www.2l6ddsmnm.de
 www.getemails.com
+www.it-swarm.dev
 www.predictivdisplay.com
 
 #mobile apps
