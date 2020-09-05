@@ -33,14 +33,18 @@ prod-classifyclient.normandy.prod.cloudops.mozgcp.net
 bouncer-bouncer-elb.prod.mozaws.net
 
 #Opera
+crashstats-collector.opera.com
 features.opera-api.com
 sitecheck.opera.com
+speeddials.opera.com
 vip02.am4.lb.opera.technology
 
 #Facebook and Instagram graph domains
 graph.facebook.com
 graph.instagram.com
 
-#Google consent domains
+#Google domains
 #consent.google.com
 #consent.youtube.com
+maps.gstatic.cn
+www.gstatic.cn
