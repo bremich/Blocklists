@@ -1,0 +1,12 @@
+dmx.upc.ubisoft.com
+msr-public-ubiservices.ubi.com
+public-ubiservices.ubi.com
+public-ws-ubiservices.ubi.com
+sigma.ubi.com
+static8.cdn.ubi.com
+static8.ubi.com
+store.ubi.com
+ubiservices.cdn.ubi.com
+ubisoft-avatars.akamaized.net
+ubisoft-uplay-savegames.s3.amazonaws.com
+ubistatic3-a.akamaihd.net
