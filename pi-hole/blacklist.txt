@@ -1,32 +1,50 @@
 #Blocklist for use with Pi-hole/uMatrix/Adguard Home
-#Version: 20200811v4
+#Version: 20200903
 #Title: Bremich Blocklist
 
 #misc
+4cdn.org
+4chan.org
+8ch.net
 adblockultimate.net
 adservice.google.pl
+adskeeper.co.uk
 alibabadns.com
 amanda.ttnrd.com
+analytics.roundcubeplus.com
 api.adsrvr.io
 api.engage.bidsystem.com
-cdnads.com
+app.distill.io
 cdn.cookielaw.org
+cdnads.com
+cdnjs.buymeacoffee.com
 cmp.dreamlab.pl
 coin-hive.com
+coinpayments.net
 columbusenergy.pl
 daisy.ubuntu.com
+dnssec-df.gexperiments4.com
 doh.opendns.com
 doz.telemedi.co
 elb-telemetry-prod-external-1332413525.us-west-2.elb.amazonaws.com
+extouch.net
+ezoic.net
+favicon.distillweb.net
+g.ezoic.net
 hosts-file.net
 ilkmawgod.site
 inservinea.com
+jsc.adskeeper.co.uk
 kobo.com
 llegro.pl
 masterpcprotection.com
+media.8ch.net
 merchandise.opera-api.com
-no-thanks.invalid
+motd.ubuntu.com
 oleole.trafficscanner.pl
+opsoomet.net
+optad360.com
+optad360.io
 origin.co
 padsdel2.cdnads.com
 pixel.runative-syndicate.com
@@ -38,17 +56,39 @@ sarah.ttnrd.com
 snxd.com
 softwaresecuritypro.com
 softwareupdate.vmware.com
+statsforads.com
 store.steampowered.co
 tore.steampowered.com
+tracker.esputnik.com
 ttnrd.com
 ubisoft.co
 update.glasswire.com
 video.your-notice.com
+vipicmou.net
+vvvv.pw
 whatsapp.net
+www.4chan.org
+www.adskeeper.co.uk
+www.buymeacoffee.com
+www.coinpayments.net
 www.kobo.com
+www.mydomainad1.site
+www.optad360.com
+www.statsforads.com
 your-notice.com
 
-#gaming trackers
+#archive
+henley-putnam.edu
+pixel.archive.today
+pixel.archive.is
+pixel.archive.fo
+pixel.archive.li
+pixel.archive.vn
+pixel.archive.md
+pixel.archive.ph
+www.henley-putnam.edu
+
+#gaming - trackers
 agoragames.com
 analytics.patcher.elderscrollsonline.com
 live-crash-reporter.elderscrollsonline.com
@@ -57,27 +97,15 @@ redshell.io
 sr3.hydra.agoragames.com
 treasuredata.com
 
-#gaming unnecessary services
+#gaming - unnecessary services
 clans.shogun2.totalwar.com
+ipv6check-http.steamcontent.com
+ipv6check-udp.steamcontent.com
 login.firaxislive.com
 
 #Intel
 gameplay.intel.com
 gameplayapi.intel.com
-
-#Lenovo laptops
-api.naea1.uds.lenovo.com
-chifsr.lenovomm.com
-csw.lenovo.com
-download.lenovo.com
-dxp.lenovo.com
-filedownload.csw.lenovo.com
-filedownload.lenovo.com
-lenovo.com
-luda.dxp.lenovo.com
-msg.dxp.lenovo.com
-vantage-dev-2.csw.lenovo.com
-vantage.csw.lenovo.com
 
 #Microsoft
 activity.windows.com #Win 10 activity tab sync
@@ -91,45 +119,56 @@ evoke-windowsservices-tas.msedge.net #used by Photos to download config files
 statics-marketingsites-neu-ms-com.akamaized.net
 
 #mobile advertising/tracking
+2l6ddsmnm.de
 a.exdynsrv.com
 achilles-ena.com
 ad.vendimob.pl
 anticalser.club
 api.instabug.com
+app.getemails.com
 ateoildim.club
 aukalerim.com
 barfsmiaowpit.com
 bcicdn.com
 bisiraczyxbu.com
 bngpt.com
-bongacams.com
 bongacams7.com
+bongacams.com
 cassini.efigence.com
 ccgmaining.life
 cdn.runative-syndicate.com
 certify.alexametrics.com
 collect.lngtd.com
 collector-analytics.efigence.com
+d3ithbwcmjcxl7.cloudfront.net
 d31qbv1cthcecs.cloudfront.net
 d36zfztxfflmqo.cloudfront.net
-d3ithbwcmjcxl7.cloudfront.net
 didchinosdub.cam
+docs.getemails.com
 exdynsrv.com
 fstats.xyz
+getemails.com
+graph.instagram.com
 i.bcicdn.com
 jeu5qst0.pro
 khabarbabal.online
 lngtd.com
 main.exdynsrv.com
 mugleafly.com
+p0.mycdn.co
 pl.bongacams.com
 pushplex.space
+rtb.4armn.com
 s.viihot.com
 service.vendimob.pl
 sparagken.com
 spencedsd.club
+support.getemails.com
 syndication.realsrv.com
 v3.fstats.xyz
+www.2l6ddsmnm.de
+www.getemails.com
+www.it-swarm.dev
 www.predictivdisplay.com
 
 #mobile apps
@@ -139,10 +178,13 @@ analytics.brave.com
 mobiledataplansharing.googleapis.com
 samsungads.com
 www.cust-service.com
+inapps.appsflyer.com
+launches.appsflyer.com
 
 #mobile location data
 bcmltoqa.glpals.com
 bcmltoqa.glpals.com.s3-us-west-2.amazonaws.com
+radiomap.vcdn.pos.here.com #HERE Positioning radio maps
 xtrapath1.izatcloud.net
 xtrapath2.izatcloud.net
 xtrapath3.izatcloud.net
@@ -151,7 +193,10 @@ xtrapath3.izatcloud.net
 ai.snrbox.com
 api.snrapi.com
 dc.snrbox.com
+proxy.snrbox.com
 proxy.synerise.com
+tck.snrbox.com
+upload.snrcdn.net
 www.snrcdn.net
 
 #Mozilla trackers, telemetry and unnecessary connections
@@ -160,15 +205,6 @@ incoming.telemetry.mozilla.org
 learning.mozilla.org
 normandy.cdn.mozilla.net
 snippets.cdn.mozilla.net
-
-#Nvidia
-events.gfe.nvidia.com
-gfe.geforce.com
-gfe.nvidia.com
-gfwsl.geforce.com
-services.gfe.nvidia.com
-telemetry.gfe.nvidia.com
-telemetry.nvidia.com
 
 #Reddit
 emoji.redditmedia.com

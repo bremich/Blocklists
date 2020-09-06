@@ -5,11 +5,24 @@ ota.lokalise.co
 px.wp.pl
 static.nvidiagrid.net
 steam-chat.com
-satysfakcja.stati.pl
 viadata.store
 rtb.viadata.store
 turbo.pkoleasing.pl
 #firebaseinstallations.googleapis.com #Android notifications channel, temporarly unblocked
+api.usehero.com
+cdn.usehero.com
+api.conversion.pl
+openapi.webull.com
+s.w.org #WordPress emoji
+widgets.wp.com
+cust-service-cont.s3.amazonaws.com
+mrex.exs.pl
+trafficscanner.pl
+euro.trafficscanner.pl
+blogguj.com
+rep.leaselink.pl
+trustmate.io
+tp.convertiser.com
 
 #Mozilla
 location.services.mozilla.com
@@ -19,20 +32,19 @@ tracking-protection.cdn.mozilla.net
 prod-classifyclient.normandy.prod.cloudops.mozgcp.net
 bouncer-bouncer-elb.prod.mozaws.net
 
-#Nvidia
-accounts.nvgs.nvidia.com
-nvidia.tt.omtrdc.net
-ota.nvidia.com
-
 #Opera
+crashstats-collector.opera.com
 features.opera-api.com
 sitecheck.opera.com
+speeddials.opera.com
 vip02.am4.lb.opera.technology
 
 #Facebook and Instagram graph domains
 graph.facebook.com
 graph.instagram.com
 
-#Google consent domains
-consent.google.com
-consent.youtube.com
+#Google domains
+#consent.google.com
+#consent.youtube.com
+maps.gstatic.cn
+www.gstatic.cn

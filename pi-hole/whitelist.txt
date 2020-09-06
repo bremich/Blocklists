@@ -1,7 +1,12 @@
+apis.google.com
 assets.adobedtm.com
 clkuk.tradedoubler.com
+download.mozilla.org
 download.windowsupdate.com
 fonts.gstatic.com
 gstaticadssl.l.google.com
+lh3.ggpht.com
 softwareupdate.vmware.com
+tracking.epicgames.com
 tracking.unrealengine.com
+yt3.ggpht.com

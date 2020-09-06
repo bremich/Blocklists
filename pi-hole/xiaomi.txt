@@ -1,4 +1,5 @@
 api.ad.intl.xiaomi.com
+api.brs.intl.miui.com
 api.newsfeed.intl.miui.com
 app.chat.global.xiaomi.net
 app.chat.xiaomi.net
@@ -8,6 +9,7 @@ dw-online.ksosoft.com #Xiaomi phones' connections to Kingsoft
 dyn.ksord.com #Xiaomi phones' connections to Kingsoft
 fr.app.chat.global.xiaomi.net
 g.galleryapi.micloud.xiaomi.net
+i.mi.com
 metok-ccc.intl.xiaomi.com
 resolver.msg.global.xiaomi.net
 sa.api.intl.miui.com

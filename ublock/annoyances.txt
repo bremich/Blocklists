@@ -1,13 +1,21 @@
 ! Title: Misc filters
-! Version: 202008111535
+! Version: 20200906
 ! Expires: 24 hours
 
 airly.eu##.overlay--show.overlay
 airly.eu##.welcome-modal__content
 airly.eu##.widget-block
+allegro.pl##[data-analytics-view-label="showSponsoredItems"]
+allegro.pl##[data-box-name="allegro.advertising.adspremium"]
+allegro.pl##[data-box-name="articles"]
+allegro.pl##[data-box-name="f-social"]
+allegro.pl##[data-box-name="kategorie komplementarne kontener"]
+allegro.pl##[data-box-name="leftpanel_ads"]
+allegro.pl##[data-box-name="popularne miasta pc"]
+allegro.pl##[data-box-name="rekomendacje"]
+allegro.pl##[title="bądź Smart"]
+allegro.pl##div:has(>div:has(>h4:has-text(Nowość! Filtr czas dostawy)))
 emonitoring.poczta-polska.pl###social
-github.com##.signup-prompt
-gw2efficiency.com##.donate-buttons
 inpost.pl###popup-background
 inpost.pl###popup-window
 inpost.pl##.-withwave.btn--tracking--action
@@ -16,14 +24,13 @@ inpost.pl##.cta--mainbox--wrapper
 inpost.pl##.track--parcel--heading
 inpost.pl##footer
 nm.reddit.com##.premium-banner
-old.reddit.com##.awardings-bar
 old.reddit.com###ecb
+old.reddit.com##.awardings-bar
+old.reddit.com##.flair
 old.reddit.com##.footer-parent
 old.reddit.com##.happening-now
 old.reddit.com##.listingsignupbar.infobar
-old.reddit.com##.morelink > [href^="https://www.redditgifts.com/exchanges/secret-santa-2019/"]
 old.reddit.com##.premium-banner-outer
-poczta.interia.pl###overlay-background
 sinoptik.pl#?#[href*="http://click.pmctrack.net/c/"]
 store.steampowered.com##.review_award_button
 store.steampowered.com##.review_award_count
@@ -31,34 +38,59 @@ store.steampowered.com##.review_award_ctn
 store.steampowered.com##.vote_info > .review_award_ctn
 store.steampowered.com##div[class^="broadcast_embeddable_"]
 streamable.com##.stm-ad-player
-www.amfora.pl##.seo-description
+twitter.com#?#div:has(> div:has(> div:has(> div:has(> span:has-text(Don’t miss what’s happening)))))
+www.ceneo.pl###REK_Produkt_LISTING_OFERT_SKLEP
 www.ceneo.pl##.ellipsis.cat-desc-excerpt
+www.ceneo.pl##.linked-content
+www.ceneo.pl##.product-top-2020__price
+www.ceneo.pl##.prom-products
+www.ceneo.pl##.sm-links
 www.ceneo.pl##.store-zones
 www.ceneo.pl##div.js_category-list-body.highlighted-offers
 www.dobreprogramy.pl###Player0
 www.dobreprogramy.pl##.block.content-list
+www.filmweb.pl##.authButton--google
+www.filmweb.pl##.facebookLoginButton
+www.filmweb.pl##.FilmCriticsVotesSection
+www.filmweb.pl##.FilmDescriptionSection
+www.filmweb.pl##.NewsSection
+www.filmweb.pl##.UserReviewSection
+www.filmweb.pl##.filmCoverSection__trailerLink
+www.filmweb.pl##.filmMainReviews
+www.filmweb.pl##.forumSection
+www.filmweb.pl##div:has(> a[href="/zostanwdomu?ref=promo_stayAtHomeA"])
+www.filmweb.pl##div:has(> a[href="/zostanwdomu?ref=promo_stayAtHomeB"])
+www.filmweb.pl##footer
+www.filmweb.pl##section.FilmMainVideosSection 
+www.filmweb.pl##section.GallerySection
+www.filmweb.pl##section.filmContributeSection
+www.filmweb.pl##section.filmContributorsSection
+www.filmweb.pl##section.filmTakePartSection
 www.fosshub.com##.ad-alt
-www.komputronik.pl###new-products
 www.lg.com##.dimmed
 www.money.pl###Player0
 www.money.pl##.clickToOpenInfo
-www.morele.net###civil_code
-www.morele.net##.box-hidden.product-seo-inner
-www.morele.net##.seo-description
-www.morele.net##.social-media.section
+www.netflix.com##div.bigRow
+www.netflix.com##div.billboard-row
+www.netflix.com#?#div:has(> div.is-disliked)
+! alternative approach, which doesn't leave an empty box: www.netflix.com#?#div:has(> div:has(> .is-disliked))
 www.nexusmods.com##.download-donation-panel
+www.reddit.com###ecb
 www.reddit.com##.awardings-bar
 www.reddit.com##.create.sidebox
-www.reddit.com###ecb
+www.reddit.com##.flair
 www.reddit.com##.happening-now
 www.reddit.com##.hohoho.sidebox
 www.reddit.com##.premium-banner
 www.reddit.com##.redesignbetabar-js.redesignNightmodeBar.onboardingbar.infobar
+www.youtube.com##.yt-upsell-dialog-renderer
 www.youtube.com##.ytp-ce-covering-image
 www.youtube.com##.ytp-ce-covering-overlay
 www.youtube.com##.ytp-ce-element
 www.youtube.com##.ytp-ce-element-shadow
 www.youtube.com##.ytp-scroll-min.ytp-pause-overlay
+www.youtube.com###sponsor-button
 yandex.ua#?#[href*="https://yandex.ua/news/_nzp/"]
 yandex.ua#?#div:-abp-has(> a[href*="https://yandex.ua/news/_nzp/"])
+youtube.com##div:has( > [href="https://www.who.int/emergencies/diseases/novel-coronavirus-2019"])
 ||ssl.ceneo.pl/shops/Content/img/tab-title-v.png
