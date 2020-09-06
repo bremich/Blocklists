@@ -13,6 +13,7 @@ allegro.pl##[data-box-name="kategorie komplementarne kontener"]
 allegro.pl##[data-box-name="leftpanel_ads"]
 allegro.pl##[data-box-name="popularne miasta pc"]
 allegro.pl##[data-box-name="rekomendacje"]
+allegro.pl##[title="bądź Smart"]
 allegro.pl##div:has(>div:has(>h4:has-text(Nowość! Filtr czas dostawy)))
 emonitoring.poczta-polska.pl###social
 inpost.pl###popup-background
