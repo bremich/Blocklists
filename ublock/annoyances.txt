@@ -1,5 +1,5 @@
-! Title: Misc filters
-! Version: 20200906
+! Title: Miscellaneous filters
+! Version: 20200907
 ! Expires: 24 hours
 
 airly.eu##.overlay--show.overlay
@@ -49,15 +49,17 @@ www.ceneo.pl##.store-zones
 www.ceneo.pl##div.js_category-list-body.highlighted-offers
 www.dobreprogramy.pl###Player0
 www.dobreprogramy.pl##.block.content-list
-www.filmweb.pl##.authButton--google
-www.filmweb.pl##.facebookLoginButton
 www.filmweb.pl##.FilmCriticsVotesSection
 www.filmweb.pl##.FilmDescriptionSection
 www.filmweb.pl##.NewsSection
 www.filmweb.pl##.UserReviewSection
+www.filmweb.pl##.authButton--google
+www.filmweb.pl##.facebookLoginButton
 www.filmweb.pl##.filmCoverSection__trailerLink
 www.filmweb.pl##.filmMainReviews
 www.filmweb.pl##.forumSection
+www.filmweb.pl##.netflixAdSection.page__section
+www.filmweb.pl##[id="advertBar-pl_PL"]
 www.filmweb.pl##div:has(> a[href="/zostanwdomu?ref=promo_stayAtHomeA"])
 www.filmweb.pl##div:has(> a[href="/zostanwdomu?ref=promo_stayAtHomeB"])
 www.filmweb.pl##footer
