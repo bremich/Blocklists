@@ -5,18 +5,17 @@ amppic-dre.dbankcdn.com
 api-sg.c.huawei.com
 api.cloud.hicloud.com
 api.cloud.huawei.com
-apkrep.ff.avast.com #appcheck
-appdl-dre.dbankcdn.com
-appdl.dbankcdn.com
 appdl1.dbankcdn.com
 appdl2.dbankcdn.com
 appdl3.dbankcdn.com
+appdl-dre.dbankcdn.com
+appdl.dbankcdn.com
 appdlc-dre.hispace.hicloud.com
 appgallery.cloud.huawei.com
-appimg.dbankcdn.com
 appimg1.dbankcdn.com
 appimg2.dbankcdn.com
 appimg3.dbankcdn.com
+appimg.dbankcdn.com
 appoptimize-dre.dbankcdn.com
 auth.ff.avast.com #appcheck
 ccpce-sg.consumer.huawei.com
@@ -50,10 +49,8 @@ huawei.com
 hwcdn.net
 hwid-dre.platform.hicloud.com
 hwid.platform.hicloud.com
-id.cloud.huawei.com
 id0.cloud.huawei.com
 id1.cloud.huawei.com
-id10.cloud.huawei.com
 id2.cloud.huawei.com
 id3.cloud.huawei.com
 id4.cloud.huawei.com
@@ -62,14 +59,16 @@ id6.cloud.huawei.com
 id7.cloud.huawei.com
 id8.cloud.huawei.com
 id9.cloud.huawei.com
+id10.cloud.huawei.com
+id.cloud.huawei.com
 josres-dre.dbankcdn.com
-jxs.jos.hicloud.com
 jxs1.jos.hicloud.com
 jxs2.jos.hicloud.com
 jxs3.jos.hicloud.com
-metrics.data.hicloud.com
+jxs.jos.hicloud.com
 metrics2.data.hicloud.com
 metrics3.data.hicloud.com
+metrics.data.hicloud.com
 ntp.sjtu.edu.cn
 pkginstaller-ovs.hispace.hicloud.com
 pushtrs7.push.hicloud.com
@@ -80,16 +79,19 @@ sg.nebula-collector.huawei.com
 shepherd.sb.avast.com #appcheck
 sns7.hicloud.com
 sportsuggest-dre.things.hicloud.com
-store.hispace.hicloud.com
 store1.hispace.hicloud.com
 store2.hispace.hicloud.com
 store3.hispace.hicloud.com
 store4.hispace.hicloud.com
+store.hispace.hicloud.com
 update.dbankcdn.com
 update.hicloud.com
 upfile7.hicloud.com
 
 #third-party
-appleid.cdn-apple.com #accessed upon opening Huawei AppGallery
-lcs.loginfra.com #accessed upon opening Huawei AppGallery
 aiclean.eu.cloud.360safe.com #accessed upon initial device configuration
+app-measurement.com #accessed periodically by the device
+appleid.cdn-apple.com #accessed upon opening Huawei AppGallery
+auth.ff.avast.com #appcheck
+jenson.api.swiftkey.com #used by build-in SwiftKey
+lcs.loginfra.com #accessed upon opening Huawei AppGallery
