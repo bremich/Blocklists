@@ -21,8 +21,10 @@ auth.ff.avast.com #appcheck
 ccpce-sg.consumer.huawei.com
 celia-sg.consumer.huawei.com
 cloudres-dra.dbankcdn.com
+configdownload-dre.dbankcdn.com
 configserver-dra.platform.hicloud.com
 configserver-dre.platform.hicloud.com
+configserver.platform.hicloud.com
 consumer-img.huawei.com
 consumer-res.huawei.com
 consumer-tkbdownload.huawei.com
@@ -32,6 +34,7 @@ dbankcloud.cn
 dbankcloud.com
 dbankcloud.eu
 dnkeeper.hicloud.com
+drmkit-dre.himovie.dbankcloud.com
 dsa-sslv6.hispace.hicloud.com.edgekey.net
 events-dre.op.hicloud.com
 grs.dbankcloud.asia
