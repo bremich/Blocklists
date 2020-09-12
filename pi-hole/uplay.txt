@@ -8,6 +8,8 @@ static8.cdn.ubi.com
 static8.ubi.com
 store.ubi.com
 ubiservices.cdn.ubi.com
+ubiservices.data.ubi.com
 ubisoft-avatars.akamaized.net
 ubisoft-uplay-savegames.s3.amazonaws.com
+ubistatic2-a.akamaihd.net
 ubistatic3-a.akamaihd.net
