@@ -117,6 +117,8 @@ service.weather.microsoft.com
 tile-service.weather.microsoft.com
 evoke-windowsservices-tas.msedge.net #used by Photos to download config files
 statics-marketingsites-neu-ms-com.akamaized.net
+title.mgt.xboxlive.com
+device.auth.xboxlive.com
 
 #mobile advertising/tracking
 2l6ddsmnm.de
@@ -146,6 +148,7 @@ d36zfztxfflmqo.cloudfront.net
 didchinosdub.cam
 docs.getemails.com
 exdynsrv.com
+filedown.org
 fstats.xyz
 getemails.com
 graph.instagram.com
@@ -162,6 +165,7 @@ rtb.4armn.com
 s.viihot.com
 service.vendimob.pl
 sparagken.com
+speed-down.org
 spencedsd.club
 support.getemails.com
 syndication.realsrv.com
