@@ -1,5 +1,5 @@
 #Blocklist for use with Pi-hole/uMatrix/Adguard Home
-#Version: 20200903
+#Version: 20200913
 #Title: Bremich Blocklist
 
 #misc
@@ -15,6 +15,7 @@ analytics.roundcubeplus.com
 api.adsrvr.io
 api.engage.bidsystem.com
 app.distill.io
+banjo.canonical.com
 cdn.cookielaw.org
 cdnads.com
 cdnjs.buymeacoffee.com
@@ -149,6 +150,7 @@ didchinosdub.cam
 docs.getemails.com
 exdynsrv.com
 filedown.org
+fprt.pjshu.com
 fstats.xyz
 getemails.com
 graph.instagram.com
