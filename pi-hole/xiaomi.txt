@@ -7,6 +7,7 @@ browser.intl.miui.com
 data.mistat.intl.xiaomi.com
 dw-online.ksosoft.com #Xiaomi phones' connections to Kingsoft
 dyn.ksord.com #Xiaomi phones' connections to Kingsoft
+fr-app-chat-global-xiaomi-net1-1667981913.eu-central-1.elb.amazonaws.com
 fr-app-chat-global-xiaomi-net2-2117517874.eu-central-1.elb.amazonaws.com
 fr.app.chat.global.xiaomi.net
 g.galleryapi.micloud.xiaomi.net
