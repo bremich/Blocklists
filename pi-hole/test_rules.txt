@@ -2,7 +2,6 @@ assets.rockpapershotgun.com
 gstaticadssl.l.google.com
 login.live.com
 ota.lokalise.co
-px.wp.pl
 static.nvidiagrid.net
 steam-chat.com
 viadata.store
@@ -23,6 +22,10 @@ blogguj.com
 rep.leaselink.pl
 trustmate.io
 tp.convertiser.com
+epsilon.6sense.com
+6sense.com
+ingest.sentry.io
+img.shields.io
 
 #Mozilla
 location.services.mozilla.com
