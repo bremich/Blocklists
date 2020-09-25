@@ -1,5 +1,5 @@
 #Blocklist for use with Pi-hole/uMatrix/Adguard Home
-#Version: 20200913
+#Version: 20200925v2
 #Title: Bremich Blocklist
 
 #misc
@@ -144,6 +144,7 @@ cdn.runative-syndicate.com
 certify.alexametrics.com
 collect.lngtd.com
 collector-analytics.efigence.com
+d3eyd961wi10bl.cloudfront.net
 d3ithbwcmjcxl7.cloudfront.net
 d31qbv1cthcecs.cloudfront.net
 d36zfztxfflmqo.cloudfront.net
