@@ -103,6 +103,7 @@ clans.shogun2.totalwar.com
 ipv6check-http.steamcontent.com
 ipv6check-udp.steamcontent.com
 login.firaxislive.com
+ping1.tnt-ea.com
 
 #Intel
 gameplay.intel.com
@@ -146,6 +147,7 @@ collector-analytics.efigence.com
 d3ithbwcmjcxl7.cloudfront.net
 d31qbv1cthcecs.cloudfront.net
 d36zfztxfflmqo.cloudfront.net
+device.marketingcloudapis.com
 didchinosdub.cam
 docs.getemails.com
 exdynsrv.com
@@ -153,6 +155,7 @@ filedown.org
 fprt.pjshu.com
 fstats.xyz
 getemails.com
+graph.facebook.com
 graph.instagram.com
 i.bcicdn.com
 jeu5qst0.pro
@@ -163,6 +166,8 @@ mugleafly.com
 p0.mycdn.co
 pl.bongacams.com
 pushplex.space
+px.wp.pl
+rosenberg.appmetrica.yandex.net
 rtb.4armn.com
 s.viihot.com
 service.vendimob.pl
@@ -176,6 +181,7 @@ www.2l6ddsmnm.de
 www.getemails.com
 www.it-swarm.dev
 www.predictivdisplay.com
+www.vudu.com
 
 #mobile apps
 abtest.api.viber.com
@@ -207,9 +213,12 @@ www.snrcdn.net
 
 #Mozilla trackers, telemetry and unnecessary connections
 detectportal.firefox.com
+firefox-settings-attachments.cdn.mozilla.net
+firefox.settings.services.mozilla.com
 incoming.telemetry.mozilla.org
 learning.mozilla.org
 normandy.cdn.mozilla.net
+prod-tp.sumo.mozit.cloud
 snippets.cdn.mozilla.net
 
 #Reddit
@@ -297,3 +306,4 @@ no.qwe.wiki
 sv.qwe.wiki
 da.qwe.wiki
 fi.qwe.wiki
+qwe.wiki
