@@ -29,6 +29,7 @@ consumer-img.huawei.com
 consumer-res.huawei.com
 consumer-tkbdownload.huawei.com
 consumer.huawei.com
+dbankcdn.com
 dbankcloud.asia
 dbankcloud.cn
 dbankcloud.com
@@ -44,6 +45,7 @@ grs.dbankcloud.eu
 grs.hicloud.com
 grs.huawei.com
 grs.hwcdn.net
+h5hosting.dbankcdn.com
 hag-dre.ai.hicloud.com
 healthactivity-dre.things.hicloud.com
 healthdeviceagent-dre.things.hicloud.com
