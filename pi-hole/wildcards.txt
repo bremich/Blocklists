@@ -1,7 +1,10 @@
 (\.|^)agoragames\.com$
 (\.|^)coin-hive\.com$
 (\.|^)ilkmawgod\.site$
+(\.|^)metric\.gstatic\.com$
+(\.|^)page\.link$
 (\.|^)redshell\.io$
+(\.|^)sendgrid\.net$
 (\.|^)snxd\.com$
 (\.|^)sparagken\.com$
 (\.|^)tax-assistant\.com$
@@ -16,4 +19,5 @@
 #TLDs with predominantly trashy domains
 .*\.cam$
 .*\.club$
+.*\.site$
 .*\.space$
