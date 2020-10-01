@@ -1,5 +1,5 @@
 #Blocklist for use with Pi-hole/uMatrix/Adguard Home
-#Version: 20201001
+#Version: 20201001v2
 #Title: Bremich Blocklist
 
 #misc
@@ -128,6 +128,7 @@ a.exdynsrv.com
 achilles-ena.com
 ad.osoz.pl
 ad.vendimob.pl
+ageureka.com
 anticalser.club
 api.instabug.com
 app.getemails.com
@@ -182,6 +183,7 @@ speed-down.org
 spencedsd.club
 support.getemails.com
 syndication.realsrv.com
+tag.ageureka.com
 thaickoo.net
 v3.fstats.xyz
 www.2l6ddsmnm.de
