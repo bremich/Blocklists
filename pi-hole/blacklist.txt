@@ -1,5 +1,5 @@
 #Blocklist for use with Pi-hole/uMatrix/Adguard Home
-#Version: 20200925v2
+#Version: 20201001
 #Title: Bremich Blocklist
 
 #misc
@@ -126,6 +126,7 @@ device.auth.xboxlive.com
 2l6ddsmnm.de
 a.exdynsrv.com
 achilles-ena.com
+ad.osoz.pl
 ad.vendimob.pl
 anticalser.club
 api.instabug.com
@@ -142,6 +143,7 @@ cassini.efigence.com
 ccgmaining.life
 cdn.runative-syndicate.com
 certify.alexametrics.com
+colagepad.com
 collect.lngtd.com
 collector-analytics.efigence.com
 d3eyd961wi10bl.cloudfront.net
@@ -159,11 +161,13 @@ getemails.com
 graph.facebook.com
 graph.instagram.com
 i.bcicdn.com
+idmnet.pl
 jeu5qst0.pro
 khabarbabal.online
 lngtd.com
 main.exdynsrv.com
 mugleafly.com
+mypenny.xyz
 p0.mycdn.co
 pl.bongacams.com
 pushplex.space
@@ -172,11 +176,13 @@ rosenberg.appmetrica.yandex.net
 rtb.4armn.com
 s.viihot.com
 service.vendimob.pl
+smart.idmnet.pl
 sparagken.com
 speed-down.org
 spencedsd.club
 support.getemails.com
 syndication.realsrv.com
+thaickoo.net
 v3.fstats.xyz
 www.2l6ddsmnm.de
 www.getemails.com
@@ -202,10 +208,12 @@ xtrapath1.izatcloud.net
 xtrapath2.izatcloud.net
 xtrapath3.izatcloud.net
 
-#mobile loyality apps notifications etc
+#mobile loyality apps notifications etc.
 ai.snrbox.com
 api.snrapi.com
+app.launchdarkly.com
 dc.snrbox.com
+events.launchdarkly.com
 proxy.snrbox.com
 proxy.synerise.com
 tck.snrbox.com
@@ -308,3 +316,4 @@ sv.qwe.wiki
 da.qwe.wiki
 fi.qwe.wiki
 qwe.wiki
+www.wikiwand.com
