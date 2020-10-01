@@ -5,8 +5,6 @@ app.chat.global.xiaomi.net
 app.chat.xiaomi.net
 browser.intl.miui.com
 data.mistat.intl.xiaomi.com
-dw-online.ksosoft.com #Xiaomi phones' connections to Kingsoft
-dyn.ksord.com #Xiaomi phones' connections to Kingsoft
 fr-app-chat-global-xiaomi-net1-1667981913.eu-central-1.elb.amazonaws.com
 fr-app-chat-global-xiaomi-net2-2117517874.eu-central-1.elb.amazonaws.com
 fr.app.chat.global.xiaomi.net
@@ -16,6 +14,11 @@ metok-ccc.intl.xiaomi.com
 resolver.msg.global.xiaomi.net
 sa.api.intl.miui.com
 sdkconfig.ad.intl.xiaomi.com
-shuc-android.ksord.com #Xiaomi phones' connections to Kingsoft
 tracking.intl.miui.com
 us.api.micloud.xiaomi.net
+
+#Third-party:
+dw-col-only-ack.ksord.com #MIUI connections to Kingsoft
+dw-online.ksosoft.com #MIUI connections to Kingsoft
+dyn.ksord.com #MIUI connections to Kingsoft
+shuc-android.ksord.com #MIUI connections to Kingsoft
