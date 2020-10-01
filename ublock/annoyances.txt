@@ -1,5 +1,5 @@
 ! Title: Miscellaneous filters
-! Version: 20200907
+! Version: 20201001
 ! Expires: 24 hours
 
 airly.eu##.overlay--show.overlay
@@ -15,6 +15,9 @@ allegro.pl##[data-box-name="popularne miasta pc"]
 allegro.pl##[data-box-name="rekomendacje"]
 allegro.pl##[title="bądź Smart"]
 allegro.pl##div:has(>div:has(>h4:has-text(Nowość! Filtr czas dostawy)))
+apkpure.com###slide-wrap
+apkpure.com##.day_list
+apkpure.com##.top-list
 emonitoring.poczta-polska.pl###social
 inpost.pl###popup-background
 inpost.pl###popup-window
@@ -40,13 +43,19 @@ store.steampowered.com##div[class^="broadcast_embeddable_"]
 streamable.com##.stm-ad-player
 twitter.com#?#div:has(> div:has(> div:has(> div:has(> span:has-text(Don’t miss what’s happening)))))
 www.ceneo.pl###REK_Produkt_LISTING_OFERT_SKLEP
+www.ceneo.pl###groups-main-menu
 www.ceneo.pl##.ellipsis.cat-desc-excerpt
+www.ceneo.pl##.footer-join-us
+www.ceneo.pl##.js_suggester_section
 www.ceneo.pl##.linked-content
 www.ceneo.pl##.product-top-2020__price
 www.ceneo.pl##.prom-products
 www.ceneo.pl##.sm-links
 www.ceneo.pl##.store-zones
+www.ceneo.pl##.suggester__logos
+www.ceneo.pl##.suggester__product
 www.ceneo.pl##div.js_category-list-body.highlighted-offers
+www.ceneo.pl##div:has(>a:has-text(Znajdź w Google))
 www.dobreprogramy.pl###Player0
 www.dobreprogramy.pl##.block.content-list
 www.filmweb.pl##.FilmCriticsVotesSection
@@ -55,6 +64,7 @@ www.filmweb.pl##.NewsSection
 www.filmweb.pl##.UserReviewSection
 www.filmweb.pl##.authButton--google
 www.filmweb.pl##.facebookLoginButton
+www.filmweb.pl##.fb-share-button
 www.filmweb.pl##.filmCoverSection__trailerLink
 www.filmweb.pl##.filmMainReviews
 www.filmweb.pl##.forumSection
