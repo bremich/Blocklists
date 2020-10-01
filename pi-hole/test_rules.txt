@@ -1,46 +1,56 @@
+#firebaseinstallations.googleapis.com #Android notifications channel, temporarly unblocked
+6sense.com
+api.conversion.pl
+api.usehero.com
 assets.rockpapershotgun.com
+blogguj.com
+cdn.usehero.com
+cust-service-cont.s3.amazonaws.com
+epsilon.6sense.com
+euro.trafficscanner.pl
 gstaticadssl.l.google.com
+img.shields.io
+ingest.sentry.io
+insert.com.pl
 login.live.com
+mojekonto.insert.com.pl
+mrex.exs.pl
+openapi.webull.com
 ota.lokalise.co
+rep.leaselink.pl
+rtb.viadata.store
+s.w.org #WordPress emoji
+secure.gravatar.com
 static.nvidiagrid.net
 steam-chat.com
-viadata.store
-rtb.viadata.store
-turbo.pkoleasing.pl
-#firebaseinstallations.googleapis.com #Android notifications channel, temporarly unblocked
-api.usehero.com
-cdn.usehero.com
-api.conversion.pl
-openapi.webull.com
-s.w.org #WordPress emoji
-widgets.wp.com
-cust-service-cont.s3.amazonaws.com
-mrex.exs.pl
-trafficscanner.pl
-euro.trafficscanner.pl
-blogguj.com
-rep.leaselink.pl
-trustmate.io
 tp.convertiser.com
-epsilon.6sense.com
-6sense.com
-ingest.sentry.io
-img.shields.io
+trafficscanner.pl
+trustmate.io
+turbo.pkoleasing.pl
+ulixes.pl
+viadata.store
+widgets.wp.com
 
 #Mozilla
+bouncer-bouncer-elb.prod.mozaws.net
+content-signature-2.cdn.mozilla.net
 location.services.mozilla.com
 locprod1-elb-eu-west-1.prod.mozaws.net
 normandy-cdn.services.mozilla.com
-tracking-protection.cdn.mozilla.net
 prod-classifyclient.normandy.prod.cloudops.mozgcp.net
-bouncer-bouncer-elb.prod.mozaws.net
+tracking-protection.cdn.mozilla.net
 
 #Opera
 crashstats-collector.opera.com
+desktop-dna.osp.opera.software
+exchange.opera.com
 features.opera-api.com
+flow.opera.com
+sd-images.operacdn.com
 sitecheck.opera.com
 speeddials.opera.com
 vip02.am4.lb.opera.technology
+weather.opera-api.com
 
 #Facebook and Instagram graph domains
 graph.facebook.com
@@ -51,3 +61,4 @@ graph.instagram.com
 #consent.youtube.com
 maps.gstatic.cn
 www.gstatic.cn
+suggestqueries.google.com
