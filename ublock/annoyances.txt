@@ -1,10 +1,13 @@
 ! Title: Miscellaneous filters
-! Version: 20201001
+! Version: 20201011
 ! Expires: 24 hours
 
 airly.eu##.overlay--show.overlay
 airly.eu##.welcome-modal__content
 airly.eu##.widget-block
+airly.eu##[href="/en/contact"]
+airly.eu##div:has(>small:has-text(Forecast))
+airly.eu##div:has(>small:has-text(Share))
 allegro.pl##[data-analytics-view-label="showSponsoredItems"]
 allegro.pl##[data-box-name="allegro.advertising.adspremium"]
 allegro.pl##[data-box-name="articles"]
@@ -18,6 +21,19 @@ allegro.pl##div:has(>div:has(>h4:has-text(Nowość! Filtr czas dostawy)))
 apkpure.com###slide-wrap
 apkpure.com##.day_list
 apkpure.com##.top-list
+classic.airly.eu##.social-buttons
+classic.airly.eu##[alt="KPMG"]
+classic.airly.eu##[href="https://airly.eu/en/contact"]
+classic.airly.eu##[href="https://apps.apple.com/us/app/airly/id1283400152"]
+classic.airly.eu##[href="https://play.google.com/store/apps/details?id=eu.airly.android"]
+classic.airly.eu##a:has(small:has-text(Sponsor:))
+classic.airly.eu##div:has(>div:has(>div:has(>div:has(>[style="background-color: rgb(209, 207, 30);"]))))
+classic.airly.eu##div:has(>div:has(>small:has-text(CAQI)))
+classic.airly.eu##div:has(>h4:has-text(Air quality forecast for PMs))
+classic.airly.eu##div:has(>small:has-text(Airlypedia))
+classic.airly.eu##div:has(>small:has-text(FAQ))
+classic.airly.eu##small:has(>small:has-text(Source))
+classic.airly.eu##small:has-text(Air is quite good.)
 emonitoring.poczta-polska.pl###social
 inpost.pl###popup-background
 inpost.pl###popup-window
@@ -57,7 +73,9 @@ www.ceneo.pl##.suggester__product
 www.ceneo.pl##div.js_category-list-body.highlighted-offers
 www.ceneo.pl##div:has(>a:has-text(Znajdź w Google))
 www.dobreprogramy.pl###Player0
+www.dobreprogramy.pl###phContent_divPlayer
 www.dobreprogramy.pl##.block.content-list
+www.dobreprogramy.pl##.dl-social
 www.filmweb.pl##.FilmCriticsVotesSection
 www.filmweb.pl##.FilmDescriptionSection
 www.filmweb.pl##.NewsSection
@@ -87,6 +105,7 @@ www.netflix.com##div.billboard-row
 www.netflix.com#?#div:has(> div.is-disliked)
 ! alternative approach, which doesn't leave an empty box: www.netflix.com#?#div:has(> div:has(> .is-disliked))
 www.nexusmods.com##.download-donation-panel
+www.olx.pl###footer-container
 www.reddit.com###ecb
 www.reddit.com##.awardings-bar
 www.reddit.com##.create.sidebox
