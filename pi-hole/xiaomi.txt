@@ -3,19 +3,27 @@ api.brs.intl.miui.com
 api.newsfeed.intl.miui.com
 app.chat.global.xiaomi.net
 app.chat.xiaomi.net
+appauth.account.xiaomi.com
 browser.intl.miui.com
 data.mistat.intl.xiaomi.com
+fga0.market.xiaomi.com
 fr-app-chat-global-xiaomi-net1-1667981913.eu-central-1.elb.amazonaws.com
 fr-app-chat-global-xiaomi-net2-2117517874.eu-central-1.elb.amazonaws.com
+fr-app-chat-global-xiaomi-net-1516654448.eu-central-1.elb.amazonaws.com
 fr.app.chat.global.xiaomi.net
 g.galleryapi.micloud.xiaomi.net
+global.market.xiaomi.com
 i.mi.com
 metok-ccc.intl.xiaomi.com
+privacy.mi.com
 resolver.msg.global.xiaomi.net
 sa.api.intl.miui.com
 sdkconfig.ad.intl.xiaomi.com
+t1.market.xiaomi.com
 tracking.intl.miui.com
+update.intl.miui.com
 us.api.micloud.xiaomi.net
+www.miui.com
 
 #Third-party:
 dw-col-only-ack.ksord.com #MIUI connections to Kingsoft
