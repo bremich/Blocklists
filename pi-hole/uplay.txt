@@ -1,4 +1,5 @@
 dmx.upc.ubisoft.com
+msr-api-ubiservices.ubi.com
 msr-public-ubiservices.ubi.com
 public-ubiservices.ubi.com
 public-ws-ubiservices.ubi.com
