@@ -1,6 +1,7 @@
 #Nvidia telemetry and GeForce Experience domains
 accounts.nvgs.nvidia.cn
 accounts.nvgs.nvidia.com
+activation.gfe.nvidia.com
 api.gfe.nvidia.com
 col.site24x7rum.com
 download.gfe.nvidia.com
