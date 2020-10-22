@@ -1,5 +1,5 @@
 #Blocklist for use with Pi-hole/uMatrix/Adguard Home
-#Version: 20201022
+#Version: 20201022v2
 #Title: Bremich Blocklist
 
 #misc
@@ -14,6 +14,7 @@ amanda.ttnrd.com
 analytics.roundcubeplus.com
 api.adsrvr.io
 api.engage.bidsystem.com
+api.revenuecat.com
 app.distill.io
 banjo.canonical.com
 cdn.cookielaw.org
@@ -35,6 +36,7 @@ g.ezoic.net
 hosts-file.net
 ilkmawgod.site
 inservinea.com
+js.braintreegateway.com
 jsc.adskeeper.co.uk
 kobo.com
 llegro.pl
