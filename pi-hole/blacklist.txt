@@ -1,5 +1,5 @@
 #Blocklist for use with Pi-hole/uMatrix/Adguard Home
-#Version: 20201001v2
+#Version: 20201022
 #Title: Bremich Blocklist
 
 #misc
@@ -41,6 +41,7 @@ llegro.pl
 masterpcprotection.com
 media.8ch.net
 merchandise.opera-api.com
+m.in
 motd.ubuntu.com
 oleole.trafficscanner.pl
 opsoomet.net
@@ -49,6 +50,7 @@ optad360.io
 origin.co
 padsdel2.cdnads.com
 pixel.runative-syndicate.com
+pixel.wp.pl
 pogoda.wpcdn.pl
 propellerads.cdnads.com
 quiterss.org
@@ -136,6 +138,7 @@ ateoildim.club
 aukalerim.com
 barfsmiaowpit.com
 bcicdn.com
+beta.pocketads.pl
 bisiraczyxbu.com
 bngpt.com
 bongacams7.com
@@ -163,6 +166,7 @@ graph.facebook.com
 graph.instagram.com
 i.bcicdn.com
 idmnet.pl
+inistrack.net
 jeu5qst0.pro
 khabarbabal.online
 lngtd.com
@@ -171,9 +175,11 @@ mugleafly.com
 mypenny.xyz
 p0.mycdn.co
 pl.bongacams.com
+pocketads.pl
 pushplex.space
 px.wp.pl
 rosenberg.appmetrica.yandex.net
+rt.inistrack.net
 rtb.4armn.com
 s.viihot.com
 service.vendimob.pl
@@ -196,6 +202,7 @@ www.vudu.com
 abtest.api.viber.com
 accuweather.com
 analytics.brave.com
+metric.gstatic.com
 mobiledataplansharing.googleapis.com
 samsungads.com
 www.cust-service.com
