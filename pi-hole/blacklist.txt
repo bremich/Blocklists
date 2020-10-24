@@ -1,5 +1,5 @@
 #Blocklist for use with Pi-hole/uMatrix/Adguard Home
-#Version: 20201022v2
+#Version: 20201024
 #Title: Bremich Blocklist
 
 #misc
@@ -112,6 +112,8 @@ ping1.tnt-ea.com
 #Intel
 gameplay.intel.com
 gameplayapi.intel.com
+onsite2.researchintel.com
+starget.intel.com
 
 #Microsoft
 activity.windows.com #Win 10 activity tab sync
