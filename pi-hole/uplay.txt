@@ -15,6 +15,7 @@ msr-api-ubiservices.ubi.com
 msr-public-ubiservices.ubi.com
 public-ubiservices.ubi.com
 public-ws-ubiservices.ubi.com
+redirection.ubisoft.com
 sigma.ubi.com
 smetrics.ubi.com
 static3.cdn.ubi.com
@@ -28,8 +29,13 @@ ubiservices.cdn.ubi.com
 ubiservices.data.ubi.com
 ubisoft-avatars.akamaized.net
 ubisoft-uplay-savegames.s3.amazonaws.com
+ubisoft--c.documentforce.com
+ubisoft--c.na123.content.force.com
 ubisoft.com
+ubistatic-a.akamaihd.net
 ubistatic2-a.akamaihd.net
 ubistatic3-a.akamaihd.net
+useast1-api-ubiservices.ubi.com
+useast1-public.aws-ubiservices.ubi.com
 wallet.ecom.ubi.com
 wspuplay-ext.ubi.com
