@@ -1,10 +1,11 @@
 #Blocklist for use with Pi-hole/uMatrix/Adguard Home
-#Version: 20201024
+#Version: 20201104
 #Title: Bremich Blocklist
 
 #misc
 4cdn.org
 4chan.org
+4plebs.org
 8ch.net
 adblockultimate.net
 adservice.google.pl
@@ -16,6 +17,7 @@ api.adsrvr.io
 api.engage.bidsystem.com
 api.revenuecat.com
 app.distill.io
+archive.4plebs.org
 banjo.canonical.com
 cdn.cookielaw.org
 cdnads.com
@@ -104,6 +106,7 @@ treasuredata.com
 
 #gaming - unnecessary services
 clans.shogun2.totalwar.com
+gateway.acinitiates.com
 ipv6check-http.steamcontent.com
 ipv6check-udp.steamcontent.com
 login.firaxislive.com
@@ -116,17 +119,20 @@ onsite2.researchintel.com
 starget.intel.com
 
 #Microsoft
+#gap-prime-finance.msn-int.com
 activity.windows.com #Win 10 activity tab sync
 arc.msn.com #Windows Spotlight metadata
-#gap-prime-finance.msn-int.com
+az764295.vo.msecnd.net #VSCode
+device.auth.xboxlive.com
+evoke-windowsservices-tas.msedge.net #used by Photos to download config files
 in.appcenter.ms #MS analytics
 noneclient.sfx.ms #OneDrive sync
 service.weather.microsoft.com
-tile-service.weather.microsoft.com
-evoke-windowsservices-tas.msedge.net #used by Photos to download config files
 statics-marketingsites-neu-ms-com.akamaized.net
+tile-service.weather.microsoft.com
 title.mgt.xboxlive.com
-device.auth.xboxlive.com
+update.code.visualstudio.com #VSCode
+vscodeexperiments.azureedge.net #VSCode
 
 #mobile advertising/tracking
 2l6ddsmnm.de
@@ -151,6 +157,7 @@ cassini.efigence.com
 ccgmaining.life
 cdn.runative-syndicate.com
 certify.alexametrics.com
+cmp.optad360.io
 colagepad.com
 collect.lngtd.com
 collector-analytics.efigence.com
@@ -165,6 +172,7 @@ exdynsrv.com
 filedown.org
 fprt.pjshu.com
 fstats.xyz
+get.optad360.io
 getemails.com
 graph.facebook.com
 graph.instagram.com
