@@ -19,5 +19,6 @@
 #TLDs with predominantly trashy domains
 .*\.cam$
 .*\.club$
+.*\.monster$
 .*\.site$
 .*\.space$
