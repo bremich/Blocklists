@@ -1,5 +1,5 @@
 ! Title: Miscellaneous filters
-! Version: 20201011
+! Version: 20201105
 ! Expires: 24 hours
 
 airly.eu##.overlay--show.overlay
@@ -9,7 +9,9 @@ airly.eu##[href="/en/contact"]
 airly.eu##div:has(>small:has-text(Forecast))
 airly.eu##div:has(>small:has-text(Share))
 allegro.pl##[data-analytics-view-label="showSponsoredItems"]
+allegro.pl##[data-box-name="Container carousel_reco_show_item_bottom"]
 allegro.pl##[data-box-name="allegro.advertising.adspremium"]
+allegro.pl##[data-box-name="allegro.seoGroupedLinks"]
 allegro.pl##[data-box-name="articles"]
 allegro.pl##[data-box-name="f-social"]
 allegro.pl##[data-box-name="kategorie komplementarne kontener"]
@@ -18,6 +20,10 @@ allegro.pl##[data-box-name="popularne miasta pc"]
 allegro.pl##[data-box-name="rekomendacje"]
 allegro.pl##[title="bądź Smart"]
 allegro.pl##div:has(>div:has(>h4:has-text(Nowość! Filtr czas dostawy)))
+allegro.pl##div:has(>div:has(>strong:has-text(Allegro gwarantuje bezpieczne zakupy)))
+allegro.pl##div:has(>h2:has-text(Przykład reprezentatywny))
+allegro.pl##div:has(>h3:has-text(Allegro in English))
+allegro.pl##div:has(>h3:has-text(Nasze serie produktów))
 apkpure.com###slide-wrap
 apkpure.com##.day_list
 apkpure.com##.top-list
@@ -61,6 +67,7 @@ twitter.com#?#div:has(> div:has(> div:has(> div:has(> span:has-text(Don’t miss
 www.ceneo.pl###REK_Produkt_LISTING_OFERT_SKLEP
 www.ceneo.pl###groups-main-menu
 www.ceneo.pl##.ellipsis.cat-desc-excerpt
+www.ceneo.pl##.footer
 www.ceneo.pl##.footer-join-us
 www.ceneo.pl##.js_suggester_section
 www.ceneo.pl##.linked-content
