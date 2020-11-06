@@ -1,17 +1,21 @@
 #firebaseinstallations.googleapis.com #Android notifications channel, temporarly unblocked
+#gstaticadssl.l.google.com - disabled affects amp. 
+
 6sense.com
 api.conversion.pl
 api.usehero.com
 assets.rockpapershotgun.com
 blogguj.com
 cdn.usehero.com
+conversion.pl
+convertiser.com
 cust-service-cont.s3.amazonaws.com
 epsilon.6sense.com
 euro.trafficscanner.pl
-gstaticadssl.l.google.com
 img.shields.io
 ingest.sentry.io
 insert.com.pl
+leaselink.pl
 login.live.com
 mojekonto.insert.com.pl
 mrex.exs.pl
@@ -19,15 +23,14 @@ openapi.webull.com
 ota.lokalise.co
 rep.leaselink.pl
 rtb.viadata.store
-s.w.org #WordPress emoji
 secure.gravatar.com
-static.nvidiagrid.net
 steam-chat.com
 tp.convertiser.com
 trafficscanner.pl
 trustmate.io
 turbo.pkoleasing.pl
 ulixes.pl
+usehero.com
 viadata.store
 widgets.wp.com
 
@@ -39,18 +42,6 @@ locprod1-elb-eu-west-1.prod.mozaws.net
 normandy-cdn.services.mozilla.com
 prod-classifyclient.normandy.prod.cloudops.mozgcp.net
 tracking-protection.cdn.mozilla.net
-
-#Opera
-crashstats-collector.opera.com
-desktop-dna.osp.opera.software
-exchange.opera.com
-features.opera-api.com
-flow.opera.com
-sd-images.operacdn.com
-sitecheck.opera.com
-speeddials.opera.com
-vip02.am4.lb.opera.technology
-weather.opera-api.com
 
 #Facebook and Instagram graph domains
 graph.facebook.com
