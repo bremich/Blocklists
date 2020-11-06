@@ -1,5 +1,5 @@
 #Blocklist for use with Pi-hole/uMatrix/Adguard Home
-#Version: 20201104
+#Version: 20201106
 #Title: Bremich Blocklist
 
 #misc
@@ -250,6 +250,18 @@ learning.mozilla.org
 normandy.cdn.mozilla.net
 prod-tp.sumo.mozit.cloud
 snippets.cdn.mozilla.net
+
+#Opera
+crashstats-collector.opera.com
+desktop-dna.osp.opera.software
+exchange.opera.com
+features.opera-api.com
+flow.opera.com
+sd-images.operacdn.com
+sitecheck.opera.com
+speeddials.opera.com
+vip02.am4.lb.opera.technology
+weather.opera-api.com
 
 #Reddit
 emoji.redditmedia.com
