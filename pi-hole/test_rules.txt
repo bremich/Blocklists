@@ -4,12 +4,16 @@
 6sense.com
 api.conversion.pl
 api.usehero.com
+app.asystent.euro.com.pl
 assets.rockpapershotgun.com
+asystent.euro.com.pl
 blogguj.com
+cdn.pushpushgo.com
 cdn.usehero.com
 conversion.pl
 convertiser.com
 cust-service-cont.s3.amazonaws.com
+doi.org
 epsilon.6sense.com
 euro.trafficscanner.pl
 img.shields.io
@@ -21,6 +25,7 @@ mojekonto.insert.com.pl
 mrex.exs.pl
 openapi.webull.com
 ota.lokalise.co
+privacy-mgmt.com
 rep.leaselink.pl
 rtb.viadata.store
 secure.gravatar.com
@@ -51,5 +56,6 @@ graph.instagram.com
 #consent.google.com
 #consent.youtube.com
 maps.gstatic.cn
+mtalk.google.com
 www.gstatic.cn
 suggestqueries.google.com
