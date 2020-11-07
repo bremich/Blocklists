@@ -1,5 +1,5 @@
 #Blocklist for use with Pi-hole/uMatrix/Adguard Home
-#Version: 20201106
+#Version: 20201107
 #Title: Bremich Blocklist
 
 #misc
@@ -18,6 +18,7 @@ api.engage.bidsystem.com
 api.revenuecat.com
 app.distill.io
 archive.4plebs.org
+
 banjo.canonical.com
 cdn.cookielaw.org
 cdnads.com
@@ -35,6 +36,7 @@ extouch.net
 ezoic.net
 favicon.distillweb.net
 g.ezoic.net
+gross-back.pl
 hosts-file.net
 ilkmawgod.site
 inservinea.com
@@ -73,6 +75,7 @@ update.glasswire.com
 video.your-notice.com
 vipicmou.net
 vvvv.pw
+wer.gross-back.pl
 whatsapp.net
 www.4chan.org
 www.adskeeper.co.uk
@@ -158,6 +161,7 @@ ccgmaining.life
 cdn.runative-syndicate.com
 certify.alexametrics.com
 cmp.optad360.io
+cogleapad.com
 colagepad.com
 collect.lngtd.com
 collector-analytics.efigence.com
@@ -167,6 +171,8 @@ d31qbv1cthcecs.cloudfront.net
 d36zfztxfflmqo.cloudfront.net
 device.marketingcloudapis.com
 didchinosdub.cam
+districtm.io
+dmx.districtm.io
 docs.getemails.com
 exdynsrv.com
 filedown.org
@@ -183,6 +189,7 @@ jeu5qst0.pro
 khabarbabal.online
 lngtd.com
 main.exdynsrv.com
+meetrics.net
 mugleafly.com
 mypenny.xyz
 p0.mycdn.co
@@ -194,6 +201,7 @@ rosenberg.appmetrica.yandex.net
 rt.inistrack.net
 rtb.4armn.com
 s.viihot.com
+s372.meetrics.net
 service.vendimob.pl
 smart.idmnet.pl
 sparagken.com
