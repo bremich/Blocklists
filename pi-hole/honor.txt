@@ -78,6 +78,7 @@ maptile-dre.dbankcdn.com
 metrics2.data.hicloud.com
 metrics3.data.hicloud.com
 metrics.data.hicloud.com
+nsp-sporthealth-oper-dre.obs.eu-de.otc.t-systems.com
 ntp.sjtu.edu.cn
 oauth-login-dre.platform.dbankcloud.com
 pay7.hicloud.com
@@ -86,6 +87,7 @@ pushtrs7.push.hicloud.com
 query.hicloud.com
 r-beta.huaweistatic.com
 sdkserver-dre.op.hicloud.com
+sdkserver-dre.op.hicloud.com.edgekey.net
 sg.nebula-collector.huawei.com
 shepherd.sb.avast.com #appcheck
 sns7.hicloud.com
