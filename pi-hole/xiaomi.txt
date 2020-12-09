@@ -2,6 +2,7 @@ account.xiaomi.com
 api.account.xiaomi.com
 api.ad.intl.xiaomi.com
 api.brs.intl.miui.com
+api.g.micloud.xiaomi.net
 api.io.mi.com
 api.newsfeed.intl.miui.com
 api2.mina.mi.com
