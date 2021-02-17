@@ -19,6 +19,7 @@ allegro.pl##[data-box-name="leftpanel_ads"]
 allegro.pl##[data-box-name="popularne miasta pc"]
 allegro.pl##[data-box-name="rekomendacje"]
 allegro.pl##[title="bądź Smart"]
+allegro.pl##div[data-box-name="podobne wyszukiwania kontener"]
 allegro.pl##div:has(>div:has(>h4:has-text(Nowość! Filtr czas dostawy)))
 allegro.pl##div:has(>div:has(>strong:has-text(Allegro gwarantuje bezpieczne zakupy)))
 allegro.pl##div:has(>h2:has-text(Przykład reprezentatywny))
@@ -66,6 +67,8 @@ streamable.com##.stm-ad-player
 twitter.com#?#div:has(> div:has(> div:has(> div:has(> span:has-text(Don’t miss what’s happening)))))
 www.ceneo.pl###REK_Produkt_LISTING_OFERT_SKLEP
 www.ceneo.pl###groups-main-menu
+www.ceneo.pl##.ado-common
+www.ceneo.pl##.cat-linked
 www.ceneo.pl##.ellipsis.cat-desc-excerpt
 www.ceneo.pl##.footer
 www.ceneo.pl##.footer-join-us
@@ -73,6 +76,7 @@ www.ceneo.pl##.js_suggester_section
 www.ceneo.pl##.linked-content
 www.ceneo.pl##.product-top-2020__price
 www.ceneo.pl##.prom-products
+www.ceneo.pl##.recommended-prod
 www.ceneo.pl##.sm-links
 www.ceneo.pl##.store-zones
 www.ceneo.pl##.suggester__logos
@@ -121,12 +125,12 @@ www.reddit.com##.happening-now
 www.reddit.com##.hohoho.sidebox
 www.reddit.com##.premium-banner
 www.reddit.com##.redesignbetabar-js.redesignNightmodeBar.onboardingbar.infobar
-www.youtube.com##.yt-upsell-dialog-renderer
-www.youtube.com##.ytp-ce-covering-image
-www.youtube.com##.ytp-ce-covering-overlay
-www.youtube.com##.ytp-ce-element
-www.youtube.com##.ytp-ce-element-shadow
-www.youtube.com##.ytp-scroll-min.ytp-pause-overlay
+!www.youtube.com##.yt-upsell-dialog-renderer
+!www.youtube.com##.ytp-ce-covering-image
+!www.youtube.com##.ytp-ce-covering-overlay
+!www.youtube.com##.ytp-ce-element
+!www.youtube.com##.ytp-ce-element-shadow
+!www.youtube.com##.ytp-scroll-min.ytp-pause-overlay
 www.youtube.com###sponsor-button
 yandex.ua#?#[href*="https://yandex.ua/news/_nzp/"]
 yandex.ua#?#div:-abp-has(> a[href*="https://yandex.ua/news/_nzp/"])
