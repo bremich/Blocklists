@@ -83,6 +83,7 @@ jxs1.jos.hicloud.com
 jxs2.jos.hicloud.com
 jxs3.jos.hicloud.com
 jxs.jos.hicloud.com
+logbak.hicloud.com
 map-dre.platform.hicloud.com
 maptile-dre.dbankcdn.com
 metrics2.data.hicloud.com
