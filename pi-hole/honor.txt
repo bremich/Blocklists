@@ -8,6 +8,16 @@ api.cloud.huawei.com
 appdl1.dbankcdn.com
 appdl2.dbankcdn.com
 appdl3.dbankcdn.com
+appdl-2-drcn.dbankcdn.com
+appdl-2-dre.dbankcdn.com
+appdl-4-drcn.dbankcdn.com
+appdl-4-dre.dbankcdn.com
+appdl-11-drcn.dbankcdn.com
+appdl-11-dre.dbankcdn.com
+appdl-12-drcn.dbankcdn.com
+appdl-12-dre.dbankcdn.com
+appdl-13-drcn.dbankcdn.com
+appdl-13-dre.dbankcdn.com
 appdl-dre.dbankcdn.com
 appdl.dbankcdn.com
 appdlc-dre.hispace.hicloud.com
@@ -86,6 +96,7 @@ pkginstaller-ovs.hispace.hicloud.com
 pushtrs7.push.hicloud.com
 query.hicloud.com
 r-beta.huaweistatic.com
+rms-dre.platform.dbankcloud.com
 sdkserver-dre.op.hicloud.com
 sdkserver-dre.op.hicloud.com.edgekey.net
 sg.nebula-collector.huawei.com
