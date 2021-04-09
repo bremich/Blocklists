@@ -12,13 +12,14 @@ adservice.google.pl
 adskeeper.co.uk
 alibabadns.com
 amanda.ttnrd.com
+analytics.ceneo.pl
 analytics.roundcubeplus.com
 api.adsrvr.io
 api.engage.bidsystem.com
 api.revenuecat.com
 app.distill.io
 archive.4plebs.org
-
+backgrounds.wetransfer.net
 banjo.canonical.com
 cdn.cookielaw.org
 cdnads.com
@@ -31,6 +32,7 @@ daisy.ubuntu.com
 dnssec-df.gexperiments4.com
 doh.opendns.com
 doz.telemedi.co
+editorial-wallpaper.wetransfer.com
 elb-telemetry-prod-external-1332413525.us-west-2.elb.amazonaws.com
 extouch.net
 ezoic.net
@@ -44,10 +46,13 @@ js.braintreegateway.com
 jsc.adskeeper.co.uk
 kobo.com
 llegro.pl
+login.aliexpress.ru
+login.tmall.ru
+login.tmall.ru.gds.alibabadns.com
+m.in
 masterpcprotection.com
 media.8ch.net
 merchandise.opera-api.com
-m.in
 motd.ubuntu.com
 oleole.trafficscanner.pl
 opsoomet.net
@@ -65,6 +70,7 @@ sarah.ttnrd.com
 snxd.com
 softwaresecuritypro.com
 softwareupdate.vmware.com
+st.top100.ru
 statsforads.com
 store.steampowered.co
 tore.steampowered.com
@@ -72,6 +78,7 @@ tracker.esputnik.com
 ttnrd.com
 ubisoft.co
 update.glasswire.com
+video.fanatical.com
 video.your-notice.com
 vipicmou.net
 vvvv.pw
@@ -98,7 +105,7 @@ pixel.archive.md
 pixel.archive.ph
 www.henley-putnam.edu
 
-#gaming - trackers
+#gaming
 agoragames.com
 analytics.patcher.elderscrollsonline.com
 live-crash-reporter.elderscrollsonline.com
@@ -137,7 +144,7 @@ title.mgt.xboxlive.com
 update.code.visualstudio.com #VSCode
 vscodeexperiments.azureedge.net #VSCode
 
-#mobile advertising/tracking
+#mobile
 2l6ddsmnm.de
 a.exdynsrv.com
 achilles-ena.com
@@ -221,6 +228,7 @@ www.vudu.com
 #mobile apps
 abtest.api.viber.com
 accuweather.com
+ads.samsungads.com
 analytics.brave.com
 metric.gstatic.com
 mobiledataplansharing.googleapis.com
@@ -249,19 +257,9 @@ tck.snrbox.com
 upload.snrcdn.net
 www.snrcdn.net
 
-#Mozilla trackers, telemetry and unnecessary connections
-detectportal.firefox.com
-firefox-settings-attachments.cdn.mozilla.net
-firefox.settings.services.mozilla.com
-incoming.telemetry.mozilla.org
-learning.mozilla.org
-normandy.cdn.mozilla.net
-prod-tp.sumo.mozit.cloud
-snippets.cdn.mozilla.net
-
 #Reddit
 emoji.redditmedia.com
-udkcrj.com #reddit DRM tracking
+udkcrj.com #reddit DRM
 
 #streaming
 0123movies.com
@@ -331,18 +329,20 @@ www.swiftkey.com
 
 #wiki mirrors
 cs.qwe.wiki
+da.qwe.wiki
 de.qwe.wiki
 es.qwe.wiki
+fi.qwe.wiki
 fr.qwe.wiki
 it.qwe.wiki
 nl.qwe.wiki
+no.qwe.wiki
+pl.qaz.wiki
 pl.qwe.wiki
 pt.qwe.wiki
-ru.qwe.wiki
-tr.qwe.wiki
-no.qwe.wiki
-sv.qwe.wiki
-da.qwe.wiki
-fi.qwe.wiki
+qaz.wiki
 qwe.wiki
+ru.qwe.wiki
+sv.qwe.wiki
+tr.qwe.wiki
 www.wikiwand.com
