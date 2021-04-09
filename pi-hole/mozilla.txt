@@ -1,0 +1,12 @@
+#Mozilla trackers, telemetry and unnecessary connections
+detectportal.firefox.com
+firefox-settings-attachments.cdn.mozilla.net
+firefox.settings.services.mozilla.com
+incoming-telemetry.thunderbird.net
+incoming.telemetry.mozilla.org
+learning.mozilla.org
+live.thunderbird.net
+normandy.cdn.mozilla.net
+prod-tp.sumo.mozit.cloud
+snippets.cdn.mozilla.net
+stun.services.mozilla.com
