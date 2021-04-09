@@ -1,20 +1,26 @@
 #Blocklist for use with Pi-hole/uMatrix/Adguard Home
-#Version: 20200903
+#Version: 20201107
 #Title: Bremich Blocklist
 
 #misc
 4cdn.org
 4chan.org
+4plebs.org
 8ch.net
 adblockultimate.net
 adservice.google.pl
 adskeeper.co.uk
 alibabadns.com
 amanda.ttnrd.com
+analytics.ceneo.pl
 analytics.roundcubeplus.com
 api.adsrvr.io
 api.engage.bidsystem.com
+api.revenuecat.com
 app.distill.io
+archive.4plebs.org
+backgrounds.wetransfer.net
+banjo.canonical.com
 cdn.cookielaw.org
 cdnads.com
 cdnjs.buymeacoffee.com
@@ -26,17 +32,24 @@ daisy.ubuntu.com
 dnssec-df.gexperiments4.com
 doh.opendns.com
 doz.telemedi.co
+editorial-wallpaper.wetransfer.com
 elb-telemetry-prod-external-1332413525.us-west-2.elb.amazonaws.com
 extouch.net
 ezoic.net
 favicon.distillweb.net
 g.ezoic.net
+gross-back.pl
 hosts-file.net
 ilkmawgod.site
 inservinea.com
+js.braintreegateway.com
 jsc.adskeeper.co.uk
 kobo.com
 llegro.pl
+login.aliexpress.ru
+login.tmall.ru
+login.tmall.ru.gds.alibabadns.com
+m.in
 masterpcprotection.com
 media.8ch.net
 merchandise.opera-api.com
@@ -48,6 +61,7 @@ optad360.io
 origin.co
 padsdel2.cdnads.com
 pixel.runative-syndicate.com
+pixel.wp.pl
 pogoda.wpcdn.pl
 propellerads.cdnads.com
 quiterss.org
@@ -56,6 +70,7 @@ sarah.ttnrd.com
 snxd.com
 softwaresecuritypro.com
 softwareupdate.vmware.com
+st.top100.ru
 statsforads.com
 store.steampowered.co
 tore.steampowered.com
@@ -63,9 +78,11 @@ tracker.esputnik.com
 ttnrd.com
 ubisoft.co
 update.glasswire.com
+video.fanatical.com
 video.your-notice.com
 vipicmou.net
 vvvv.pw
+wer.gross-back.pl
 whatsapp.net
 www.4chan.org
 www.adskeeper.co.uk
@@ -88,7 +105,7 @@ pixel.archive.md
 pixel.archive.ph
 www.henley-putnam.edu
 
-#gaming - trackers
+#gaming
 agoragames.com
 analytics.patcher.elderscrollsonline.com
 live-crash-reporter.elderscrollsonline.com
@@ -99,30 +116,41 @@ treasuredata.com
 
 #gaming - unnecessary services
 clans.shogun2.totalwar.com
+gateway.acinitiates.com
 ipv6check-http.steamcontent.com
 ipv6check-udp.steamcontent.com
 login.firaxislive.com
+ping1.tnt-ea.com
 
 #Intel
 gameplay.intel.com
 gameplayapi.intel.com
+onsite2.researchintel.com
+starget.intel.com
 
 #Microsoft
+#gap-prime-finance.msn-int.com
 activity.windows.com #Win 10 activity tab sync
 arc.msn.com #Windows Spotlight metadata
-#gap-prime-finance.msn-int.com
+az764295.vo.msecnd.net #VSCode
+device.auth.xboxlive.com
+evoke-windowsservices-tas.msedge.net #used by Photos to download config files
 in.appcenter.ms #MS analytics
 noneclient.sfx.ms #OneDrive sync
 service.weather.microsoft.com
-tile-service.weather.microsoft.com
-evoke-windowsservices-tas.msedge.net #used by Photos to download config files
 statics-marketingsites-neu-ms-com.akamaized.net
+tile-service.weather.microsoft.com
+title.mgt.xboxlive.com
+update.code.visualstudio.com #VSCode
+vscodeexperiments.azureedge.net #VSCode
 
-#mobile advertising/tracking
+#mobile
 2l6ddsmnm.de
 a.exdynsrv.com
 achilles-ena.com
+ad.osoz.pl
 ad.vendimob.pl
+ageureka.com
 anticalser.club
 api.instabug.com
 app.getemails.com
@@ -130,6 +158,7 @@ ateoildim.club
 aukalerim.com
 barfsmiaowpit.com
 bcicdn.com
+beta.pocketads.pl
 bisiraczyxbu.com
 bngpt.com
 bongacams7.com
@@ -138,43 +167,70 @@ cassini.efigence.com
 ccgmaining.life
 cdn.runative-syndicate.com
 certify.alexametrics.com
+cmp.optad360.io
+cogleapad.com
+colagepad.com
 collect.lngtd.com
 collector-analytics.efigence.com
+d3eyd961wi10bl.cloudfront.net
 d3ithbwcmjcxl7.cloudfront.net
 d31qbv1cthcecs.cloudfront.net
 d36zfztxfflmqo.cloudfront.net
+device.marketingcloudapis.com
 didchinosdub.cam
+districtm.io
+dmx.districtm.io
 docs.getemails.com
 exdynsrv.com
+filedown.org
+fprt.pjshu.com
 fstats.xyz
+get.optad360.io
 getemails.com
+graph.facebook.com
 graph.instagram.com
 i.bcicdn.com
+idmnet.pl
+inistrack.net
 jeu5qst0.pro
 khabarbabal.online
 lngtd.com
 main.exdynsrv.com
+meetrics.net
 mugleafly.com
+mypenny.xyz
 p0.mycdn.co
 pl.bongacams.com
+pocketads.pl
 pushplex.space
+px.wp.pl
+rosenberg.appmetrica.yandex.net
+rt.inistrack.net
 rtb.4armn.com
 s.viihot.com
+s372.meetrics.net
 service.vendimob.pl
+smart.idmnet.pl
 sparagken.com
+speed-down.org
 spencedsd.club
 support.getemails.com
 syndication.realsrv.com
+tag.ageureka.com
+thaickoo.net
 v3.fstats.xyz
 www.2l6ddsmnm.de
 www.getemails.com
 www.it-swarm.dev
 www.predictivdisplay.com
+www.vudu.com
 
 #mobile apps
 abtest.api.viber.com
 accuweather.com
+ads.samsungads.com
 analytics.brave.com
+metric.gstatic.com
 mobiledataplansharing.googleapis.com
 samsungads.com
 www.cust-service.com
@@ -189,26 +245,21 @@ xtrapath1.izatcloud.net
 xtrapath2.izatcloud.net
 xtrapath3.izatcloud.net
 
-#mobile loyality apps notifications etc
+#mobile loyality apps notifications etc.
 ai.snrbox.com
 api.snrapi.com
+app.launchdarkly.com
 dc.snrbox.com
+events.launchdarkly.com
 proxy.snrbox.com
 proxy.synerise.com
 tck.snrbox.com
 upload.snrcdn.net
 www.snrcdn.net
 
-#Mozilla trackers, telemetry and unnecessary connections
-detectportal.firefox.com
-incoming.telemetry.mozilla.org
-learning.mozilla.org
-normandy.cdn.mozilla.net
-snippets.cdn.mozilla.net
-
 #Reddit
 emoji.redditmedia.com
-udkcrj.com #reddit DRM tracking
+udkcrj.com #reddit DRM
 
 #streaming
 0123movies.com
@@ -278,16 +329,20 @@ www.swiftkey.com
 
 #wiki mirrors
 cs.qwe.wiki
+da.qwe.wiki
 de.qwe.wiki
 es.qwe.wiki
+fi.qwe.wiki
 fr.qwe.wiki
 it.qwe.wiki
 nl.qwe.wiki
+no.qwe.wiki
+pl.qaz.wiki
 pl.qwe.wiki
 pt.qwe.wiki
+qaz.wiki
+qwe.wiki
 ru.qwe.wiki
-tr.qwe.wiki
-no.qwe.wiki
 sv.qwe.wiki
-da.qwe.wiki
-fi.qwe.wiki
+tr.qwe.wiki
+www.wikiwand.com

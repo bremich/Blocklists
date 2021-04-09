@@ -1,8 +1,10 @@
 #Nvidia telemetry and GeForce Experience domains
 accounts.nvgs.nvidia.cn
 accounts.nvgs.nvidia.com
+activation.gfe.nvidia.com
 api.gfe.nvidia.com
 col.site24x7rum.com
+download.gfe.nvidia.com
 events.gfe.nvidia.com
 gfe.geforce.com
 gfe.nvidia.com
@@ -12,6 +14,7 @@ login.nvgs.nvidia.com
 ls.dtrace.nvidia.com
 nvidia.tt.omtrdc.net
 ota.nvidia.com
+ota-downloads.nvidia.com
 rum-collector-2.pingdom.net
 rum-static.pingdom.net
 services.gfe.nvidia.com

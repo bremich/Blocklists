@@ -1,0 +1,11 @@
+crashstats-collector.opera.com
+desktop-dna.osp.opera.software
+exchange.opera.com
+features.opera-api.com
+flow.opera.com
+redir.opera.com
+sd-images.operacdn.com
+sitecheck.opera.com
+speeddials.opera.com
+vip02.am4.lb.opera.technology
+weather.opera-api.com
