@@ -93,6 +93,7 @@ nsp-sporthealth-oper-dre.obs.eu-de.otc.t-systems.com
 ntp.sjtu.edu.cn
 oauth-login-dre.platform.dbankcloud.com
 pay7.hicloud.com
+pkginstaller-ovs.hispace.dbankcloud.com
 pkginstaller-ovs.hispace.hicloud.com
 pushtrs7.push.hicloud.com
 query.hicloud.com
@@ -120,8 +121,10 @@ appleid.cdn-apple.com #accessed upon opening Huawei AppGallery
 aps.amap.com #maps
 auth.ff.avast.com #appcheck
 cgicol.amap.com #maps
+eu.mvconf.50union.com
 hw.restlbs.map.wechatos.net #maps
 jenson.api.swiftkey.com #used by build-in SwiftKey
 lcs.loginfra.com #accessed upon opening Huawei AppGallery
+msafedl.ssl.qihucdn.com
 qgepodownload.mediatek.com #maps, gps?
 oneclient.sfx.ms
