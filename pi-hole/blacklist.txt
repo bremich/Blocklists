@@ -1,5 +1,5 @@
 #Blocklist for use with Pi-hole/uMatrix/Adguard Home
-#Version: 20201107
+#Version: 20210905
 #Title: Bremich Blocklist
 
 #misc
@@ -21,6 +21,7 @@ app.distill.io
 archive.4plebs.org
 backgrounds.wetransfer.net
 banjo.canonical.com
+blazse.com
 cdn.cookielaw.org
 cdnads.com
 cdnjs.buymeacoffee.com
@@ -38,6 +39,7 @@ extouch.net
 ezoic.net
 favicon.distillweb.net
 g.ezoic.net
+grabify.link
 gross-back.pl
 hosts-file.net
 ilkmawgod.site
@@ -84,6 +86,7 @@ vipicmou.net
 vvvv.pw
 wer.gross-back.pl
 whatsapp.net
+whatstheirip.com
 www.4chan.org
 www.adskeeper.co.uk
 www.buymeacoffee.com
@@ -147,9 +150,11 @@ vscodeexperiments.azureedge.net #VSCode
 #mobile
 2l6ddsmnm.de
 a.exdynsrv.com
+a.vdo.ai
 achilles-ena.com
 ad.osoz.pl
 ad.vendimob.pl
+advmedia.io
 ageureka.com
 anticalser.club
 api.instabug.com
@@ -165,6 +170,7 @@ bongacams7.com
 bongacams.com
 cassini.efigence.com
 ccgmaining.life
+cdn.passfixx.com
 cdn.runative-syndicate.com
 certify.alexametrics.com
 cmp.optad360.io
@@ -185,6 +191,7 @@ exdynsrv.com
 filedown.org
 fprt.pjshu.com
 fstats.xyz
+get.advmedia.io
 get.optad360.io
 getemails.com
 graph.facebook.com
@@ -200,15 +207,18 @@ meetrics.net
 mugleafly.com
 mypenny.xyz
 p0.mycdn.co
+passfixx.com
 pl.bongacams.com
 pocketads.pl
 pushplex.space
 px.wp.pl
+reklamy.grupafarmacja.net
 rosenberg.appmetrica.yandex.net
 rt.inistrack.net
 rtb.4armn.com
-s.viihot.com
 s372.meetrics.net
+s.viihot.com
+sameexpectpick.top
 service.vendimob.pl
 smart.idmnet.pl
 sparagken.com
@@ -217,11 +227,14 @@ spencedsd.club
 support.getemails.com
 syndication.realsrv.com
 tag.ageureka.com
+targeting.vdo.ai
 thaickoo.net
 v3.fstats.xyz
+vdo.ai
 www.2l6ddsmnm.de
 www.getemails.com
 www.it-swarm.dev
+www.pinterest.com.mx
 www.predictivdisplay.com
 www.vudu.com
 
