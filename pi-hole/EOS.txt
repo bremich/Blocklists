@@ -1,0 +1,10 @@
+#Based on https://steamcommunity.com/sharedfiles/filedetails/?id=2594056744
+
+0.0.0.0 dev.epicgames.com
+0.0.0.0 api.epicgames.dev
+0.0.0.0 et.epicgames.com
+0.0.0.0 et2.epicgames.com
+0.0.0.0 udn.epicgames.com
+0.0.0.0 etsource.epicgames.com
+0.0.0.0 metrics.ol.epicgames.com
+0.0.0.0 datarouter.ol.epicgames.com
