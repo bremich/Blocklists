@@ -22,7 +22,10 @@ archive.4plebs.org
 backgrounds.wetransfer.net
 banjo.canonical.com
 blazse.com
+cdn-products.eneba.com
+cdn-sliders.eneba.com
 cdn.cookielaw.org
+cdn.eneba.com
 cdnads.com
 cdnjs.buymeacoffee.com
 cmp.dreamlab.pl
@@ -91,6 +94,7 @@ www.4chan.org
 www.adskeeper.co.uk
 www.buymeacoffee.com
 www.coinpayments.net
+www.eneba.com
 www.kobo.com
 www.mydomainad1.site
 www.optad360.com
