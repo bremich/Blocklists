@@ -123,8 +123,11 @@ auth.ff.avast.com #appcheck
 cgicol.amap.com #maps
 eu.mvconf.50union.com
 hw.restlbs.map.wechatos.net #maps
+ip-info.ff.avast.com
 jenson.api.swiftkey.com #used by build-in SwiftKey
 lcs.loginfra.com #accessed upon opening Huawei AppGallery
 msafedl.ssl.qihucdn.com
-qgepodownload.mediatek.com #maps, gps?
+ncc.avast.com
 oneclient.sfx.ms
+qgepodownload.mediatek.com #maps, gps?
+shepherd.ff.avast.com
