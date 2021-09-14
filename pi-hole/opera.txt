@@ -3,6 +3,7 @@ desktop-dna.osp.opera.software
 exchange.opera.com
 features.opera-api.com
 flow.opera.com
+get.geo.opera.com
 redir.opera.com
 sd-images.operacdn.com
 sitecheck.opera.com
