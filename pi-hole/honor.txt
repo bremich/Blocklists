@@ -116,6 +116,7 @@ upfile7.hicloud.com
 
 #third-party
 aiclean.eu.cloud.360safe.com #accessed upon initial device configuration
+apkrep.ff.avast.com
 app-measurement.com #accessed periodically by the device
 appleid.cdn-apple.com #accessed upon opening Huawei AppGallery
 aps.amap.com #maps
