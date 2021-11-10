@@ -2,6 +2,8 @@
 #Version: 20210905
 #Title: Bremich Blocklist
 
+dns.google
+
 #misc
 4cdn.org
 4chan.org
