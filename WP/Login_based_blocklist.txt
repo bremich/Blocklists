@@ -1,0 +1,13 @@
+#A catalogue of logins used in login attempts made by potentially malicious actors. Sourced from traffic logs. 
+
+[login]
+admin
+admin1
+demo
+example
+login
+test
+test1
+tester
+user
+webmaster
