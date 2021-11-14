@@ -1,0 +1,46 @@
+User-agent: *
+Disallow: */feed/
+Disallow: /cdn-cgi/
+Disallow: /feed/
+Disallow: /trackback/
+Disallow: /wp-login.php
+Disallow: /xmlrpc.php
+
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: BarkRowler
+Disallow: / 
+
+User-agent: BuiltWith
+Disallow: /
+
+User-agent: Kraken
+Disallow: /
+
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: NetcraftSurveyAgent
+Disallow: /
+
+User-agent: SemrushBot
+Disallow: /
+
+User-agent: Yak
+Disallow: /
+
+User-agent: Zoominfobot
+Disallow: /
+
+User-agent: archive.org_bot
+Disallow: /
+
+User-agent: dotbot
+Disallow: /
+
+User-agent: ia_archiver
+Disallow: /
+
+User-agent: webgains-bot
+Disallow: /
