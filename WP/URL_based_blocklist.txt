@@ -5,7 +5,9 @@
 /CHANGELOG.txt
 /V3.php
 /XxX.php
+/accesson.php
 /admin/.env
+/alfa.php
 /alfindex.php
 /api/.env
 /app/.env
@@ -65,4 +67,5 @@
 /wp-content/plugins/wp-pinterest-automatic/js/main.js
 /wp-content/wp-1ogin_bak.php
 /wp-json/wp/v2/users/
+/wp-login_bak.php
 /xmlrpc.php
