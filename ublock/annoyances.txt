@@ -136,3 +136,7 @@ yandex.ua#?#[href*="https://yandex.ua/news/_nzp/"]
 yandex.ua#?#div:-abp-has(> a[href*="https://yandex.ua/news/_nzp/"])
 youtube.com##div:has( > [href="https://www.who.int/emergencies/diseases/novel-coronavirus-2019"])
 ||ssl.ceneo.pl/shops/Content/img/tab-title-v.png
+
+! Exceptions:
+! unbreak Allegro:
+allegro.pl#@#html:style(overflow: auto !important)
