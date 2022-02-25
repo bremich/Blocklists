@@ -19,6 +19,7 @@
 /backups_root/
 /blog/.env
 /blogs/.env
+/c/version.js
 /cindex.php
 /client/.env
 /config.js
@@ -36,6 +37,7 @@
 /laravel/.env
 /lib/.env
 /libraries/joomla/css.php
+/logon.aspx
 /magmi-importer/conf/magmi.ini
 /magmi/conf/magmi.ini
 /main/.env
@@ -44,6 +46,7 @@
 /news/wp-login.php
 /old-index.php
 /old/
+/owa/auth/logon.aspx
 /panel/kcfinder/upload.php
 /plugins/backup_index.php
 /redmine/.env
@@ -51,11 +54,16 @@
 /site/.env
 /site/wp-login.php
 /sites/.env
+/stalker_portal/c/version.js
+/stream/live.php
+/streaming/clients_live.php
+/system_api.php
 /test/wp-login.php
 /tests/test-become/.env
 /uploads/.env
 /vendor/.env
 /web/.env
+/wordpress-old/
 /wordpress/wp-admin/setup-config.php
 /wp-1ogin_bak.php
 /wp-content/db_cache.php
