@@ -41,7 +41,11 @@ classic.airly.eu##div:has(>small:has-text(Airlypedia))
 classic.airly.eu##div:has(>small:has-text(FAQ))
 classic.airly.eu##small:has(>small:has-text(Source))
 classic.airly.eu##small:has-text(Air is quite good.)
+cpu.userbenchmark.com###effectivespeedtable
+cpu.userbenchmark.com##[data-target="#effectivespeedtable"]
 emonitoring.poczta-polska.pl###social
+gpu.userbenchmark.com###effectivespeedtable
+gpu.userbenchmark.com##[data-target="#effectivespeedtable"]
 inpost.pl###popup-background
 inpost.pl###popup-window
 inpost.pl##.-withwave.btn--tracking--action
@@ -87,12 +91,15 @@ www.dobreprogramy.pl###Player0
 www.dobreprogramy.pl###phContent_divPlayer
 www.dobreprogramy.pl##.block.content-list
 www.dobreprogramy.pl##.dl-social
+www.elektroda.pl###lang-version-info
+www.euro.com.pl##.recommended-products
 www.filmweb.pl##.FilmCriticsVotesSection
 www.filmweb.pl##.FilmDescriptionSection
 www.filmweb.pl##.NewsSection
 www.filmweb.pl##.UserReviewSection
 www.filmweb.pl##.authButton--google
 www.filmweb.pl##.facebookLoginButton
+www.filmweb.pl##.faHeaderBanner__ad
 www.filmweb.pl##.fb-share-button
 www.filmweb.pl##.filmCoverSection__trailerLink
 www.filmweb.pl##.filmMainReviews
