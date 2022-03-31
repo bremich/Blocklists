@@ -45,7 +45,10 @@ us.api.micloud.xiaomi.net
 www.miui.com
 
 #Third-party:
+adash.man.aliyuncs.com
+adashbc.ut.taobao.com
 dw-col-only-ack.ksord.com #MIUI connections to Kingsoft
 dw-online.ksosoft.com #MIUI connections to Kingsoft
 dyn.ksord.com #MIUI connections to Kingsoft
 shuc-android.ksord.com #MIUI connections to Kingsoft
+www.baidu.com
