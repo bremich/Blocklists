@@ -155,11 +155,13 @@ vscodeexperiments.azureedge.net #VSCode
 
 #mobile
 2l6ddsmnm.de
+15xmr.pushstring.com
 a.exdynsrv.com
 a.vdo.ai
 achilles-ena.com
 ad.osoz.pl
 ad.vendimob.pl
+adfoxly.com
 advmedia.io
 ageureka.com
 anticalser.club
@@ -174,11 +176,13 @@ bisiraczyxbu.com
 bngpt.com
 bongacams7.com
 bongacams.com
+cashback.getdify.com
 cassini.efigence.com
 ccgmaining.life
 cdn.passfixx.com
 cdn.runative-syndicate.com
 certify.alexametrics.com
+cloudads.tv
 cmp.optad360.io
 cogleapad.com
 colagepad.com
@@ -193,6 +197,8 @@ didchinosdub.cam
 districtm.io
 dmx.districtm.io
 docs.getemails.com
+doz.adocean.pl
+dozadpl.hit.gemius.pl
 exdynsrv.com
 filedown.org
 fprt.pjshu.com
@@ -215,6 +221,7 @@ mypenny.xyz
 p0.mycdn.co
 passfixx.com
 pl.bongacams.com
+pl.win777.today
 pocketads.pl
 pushplex.space
 px.wp.pl
@@ -226,6 +233,7 @@ s372.meetrics.net
 s.viihot.com
 sameexpectpick.top
 service.vendimob.pl
+shroughtened.com
 smart.idmnet.pl
 sparagken.com
 speed-down.org
@@ -238,6 +246,7 @@ thaickoo.net
 v3.fstats.xyz
 vdo.ai
 www.2l6ddsmnm.de
+www.cust-service.com
 www.getemails.com
 www.it-swarm.dev
 www.pinterest.com.mx
@@ -247,14 +256,18 @@ www.vudu.com
 #mobile apps
 abtest.api.viber.com
 accuweather.com
+acts.distill.io
 ads.samsungads.com
+alb.reddit.com
 analytics.brave.com
+api.dify.cashback.ft-api.com
+inapps.appsflyer.com
+launches.appsflyer.com
 metric.gstatic.com
 mobiledataplansharing.googleapis.com
 samsungads.com
-www.cust-service.com
-inapps.appsflyer.com
-launches.appsflyer.com
+smarthome.arcelikiot.com
+superwallet.pl
 
 #mobile location data
 bcmltoqa.glpals.com
