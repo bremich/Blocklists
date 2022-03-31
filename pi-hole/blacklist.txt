@@ -1,6 +1,8 @@
 #Blocklist for use with Pi-hole/uMatrix/Adguard Home
-#Version: 20201107
+#Version: 20210905
 #Title: Bremich Blocklist
+
+dns.google
 
 #misc
 4cdn.org
@@ -21,7 +23,11 @@ app.distill.io
 archive.4plebs.org
 backgrounds.wetransfer.net
 banjo.canonical.com
+blazse.com
+cdn-products.eneba.com
+cdn-sliders.eneba.com
 cdn.cookielaw.org
+cdn.eneba.com
 cdnads.com
 cdnjs.buymeacoffee.com
 cmp.dreamlab.pl
@@ -38,6 +44,7 @@ extouch.net
 ezoic.net
 favicon.distillweb.net
 g.ezoic.net
+grabify.link
 gross-back.pl
 hosts-file.net
 ilkmawgod.site
@@ -84,10 +91,12 @@ vipicmou.net
 vvvv.pw
 wer.gross-back.pl
 whatsapp.net
+whatstheirip.com
 www.4chan.org
 www.adskeeper.co.uk
 www.buymeacoffee.com
 www.coinpayments.net
+www.eneba.com
 www.kobo.com
 www.mydomainad1.site
 www.optad360.com
@@ -146,10 +155,14 @@ vscodeexperiments.azureedge.net #VSCode
 
 #mobile
 2l6ddsmnm.de
+15xmr.pushstring.com
 a.exdynsrv.com
+a.vdo.ai
 achilles-ena.com
 ad.osoz.pl
 ad.vendimob.pl
+adfoxly.com
+advmedia.io
 ageureka.com
 anticalser.club
 api.instabug.com
@@ -163,10 +176,13 @@ bisiraczyxbu.com
 bngpt.com
 bongacams7.com
 bongacams.com
+cashback.getdify.com
 cassini.efigence.com
 ccgmaining.life
+cdn.passfixx.com
 cdn.runative-syndicate.com
 certify.alexametrics.com
+cloudads.tv
 cmp.optad360.io
 cogleapad.com
 colagepad.com
@@ -181,10 +197,13 @@ didchinosdub.cam
 districtm.io
 dmx.districtm.io
 docs.getemails.com
+doz.adocean.pl
+dozadpl.hit.gemius.pl
 exdynsrv.com
 filedown.org
 fprt.pjshu.com
 fstats.xyz
+get.advmedia.io
 get.optad360.io
 getemails.com
 graph.facebook.com
@@ -200,16 +219,21 @@ meetrics.net
 mugleafly.com
 mypenny.xyz
 p0.mycdn.co
+passfixx.com
 pl.bongacams.com
+pl.win777.today
 pocketads.pl
 pushplex.space
 px.wp.pl
+reklamy.grupafarmacja.net
 rosenberg.appmetrica.yandex.net
 rt.inistrack.net
 rtb.4armn.com
-s.viihot.com
 s372.meetrics.net
+s.viihot.com
+sameexpectpick.top
 service.vendimob.pl
+shroughtened.com
 smart.idmnet.pl
 sparagken.com
 speed-down.org
@@ -217,25 +241,33 @@ spencedsd.club
 support.getemails.com
 syndication.realsrv.com
 tag.ageureka.com
+targeting.vdo.ai
 thaickoo.net
 v3.fstats.xyz
+vdo.ai
 www.2l6ddsmnm.de
+www.cust-service.com
 www.getemails.com
 www.it-swarm.dev
+www.pinterest.com.mx
 www.predictivdisplay.com
 www.vudu.com
 
 #mobile apps
 abtest.api.viber.com
 accuweather.com
+acts.distill.io
 ads.samsungads.com
+alb.reddit.com
 analytics.brave.com
+api.dify.cashback.ft-api.com
+inapps.appsflyer.com
+launches.appsflyer.com
 metric.gstatic.com
 mobiledataplansharing.googleapis.com
 samsungads.com
-www.cust-service.com
-inapps.appsflyer.com
-launches.appsflyer.com
+smarthome.arcelikiot.com
+superwallet.pl
 
 #mobile location data
 bcmltoqa.glpals.com

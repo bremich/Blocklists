@@ -26,6 +26,7 @@ mrex.exs.pl
 openapi.webull.com
 ota.lokalise.co
 privacy-mgmt.com
+r.bing.com
 rep.leaselink.pl
 rtb.viadata.store
 secure.gravatar.com
@@ -46,6 +47,7 @@ location.services.mozilla.com
 locprod1-elb-eu-west-1.prod.mozaws.net
 normandy-cdn.services.mozilla.com
 prod-classifyclient.normandy.prod.cloudops.mozgcp.net
+thunderbird-settings.thunderbird.net
 tracking-protection.cdn.mozilla.net
 
 #Facebook and Instagram graph domains

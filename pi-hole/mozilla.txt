@@ -2,11 +2,14 @@
 detectportal.firefox.com
 firefox-settings-attachments.cdn.mozilla.net
 firefox.settings.services.mozilla.com
+getpocket.cdn.mozilla.net
+img-getpocket.cdn.mozilla.net
 incoming-telemetry.thunderbird.net
 incoming.telemetry.mozilla.org
 learning.mozilla.org
 live.thunderbird.net
 normandy.cdn.mozilla.net
 prod-tp.sumo.mozit.cloud
+prod.pocket.prod.cloudops.mozgcp.net
 snippets.cdn.mozilla.net
 stun.services.mozilla.com

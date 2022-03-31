@@ -8,6 +8,8 @@ filedownload.csw.lenovo.com
 filedownload.lenovo.com
 lenovo.com
 luda.dxp.lenovo.com
+msg.csw.lenovo.com
 msg.dxp.lenovo.com
 vantage-dev-2.csw.lenovo.com
 vantage.csw.lenovo.com
+www.lenovo.com

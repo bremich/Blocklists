@@ -15,11 +15,13 @@ cdn.alsgp0.fds.api.mi-img.com
 cdn.awsde0.fds.api.mi-img.com
 cdn.cnbj0.fds.api.mi-img.com
 cdn.cnbj1.fds.api.mi-img.com
+connect.rom.miui.com
 data.mistat.intl.xiaomi.com
 de.api.io.mi.com
 de.home.mi.com
 fga0.market.xiaomi.com
 file.static.xiaomi.net
+find.api.micloud.xiaomi.net
 fr-app-chat-global-xiaomi-net1-1667981913.eu-central-1.elb.amazonaws.com
 fr-app-chat-global-xiaomi-net2-2117517874.eu-central-1.elb.amazonaws.com
 fr-app-chat-global-xiaomi-net-1516654448.eu-central-1.elb.amazonaws.com
@@ -43,7 +45,10 @@ us.api.micloud.xiaomi.net
 www.miui.com
 
 #Third-party:
+adash.man.aliyuncs.com
+adashbc.ut.taobao.com
 dw-col-only-ack.ksord.com #MIUI connections to Kingsoft
 dw-online.ksosoft.com #MIUI connections to Kingsoft
 dyn.ksord.com #MIUI connections to Kingsoft
 shuc-android.ksord.com #MIUI connections to Kingsoft
+www.baidu.com
