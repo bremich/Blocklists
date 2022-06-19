@@ -1,8 +1,11 @@
 #Blocklist for use with Pi-hole/uMatrix/Adguard Home
-#Version: 20210905
+#Version: 20220619
 #Title: Bremich Blocklist
 
 dns.google
+
+#DoH canary domain. 
+use-application-dns.net
 
 #misc
 4cdn.org
@@ -84,7 +87,6 @@ tore.steampowered.com
 tracker.esputnik.com
 ttnrd.com
 ubisoft.co
-update.glasswire.com
 video.fanatical.com
 video.your-notice.com
 vipicmou.net
@@ -137,6 +139,11 @@ gameplayapi.intel.com
 onsite2.researchintel.com
 starget.intel.com
 
+#mailing
+ho.welovedata.pl
+welovedata.hasoffers.com
+welovedata.pl
+
 #Microsoft
 #gap-prime-finance.msn-int.com
 activity.windows.com #Win 10 activity tab sync
@@ -150,7 +157,6 @@ service.weather.microsoft.com
 statics-marketingsites-neu-ms-com.akamaized.net
 tile-service.weather.microsoft.com
 title.mgt.xboxlive.com
-update.code.visualstudio.com #VSCode
 vscodeexperiments.azureedge.net #VSCode
 
 #mobile
@@ -162,6 +168,7 @@ achilles-ena.com
 ad.osoz.pl
 ad.vendimob.pl
 adfoxly.com
+ads.12341234.pl
 advmedia.io
 ageureka.com
 anticalser.club
@@ -203,6 +210,7 @@ exdynsrv.com
 filedown.org
 fprt.pjshu.com
 fstats.xyz
+gaua.hit.gemius.pl
 get.advmedia.io
 get.optad360.io
 getemails.com
@@ -225,6 +233,7 @@ pl.win777.today
 pocketads.pl
 pushplex.space
 px.wp.pl
+r.kodyrabatowy.pl
 reklamy.grupafarmacja.net
 rosenberg.appmetrica.yandex.net
 rt.inistrack.net
@@ -249,6 +258,7 @@ www.2l6ddsmnm.de
 www.cust-service.com
 www.getemails.com
 www.it-swarm.dev
+www.kodyrabatowy.pl
 www.pinterest.com.mx
 www.predictivdisplay.com
 www.vudu.com
