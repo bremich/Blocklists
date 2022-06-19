@@ -144,7 +144,7 @@ arc.msn.com #Windows Spotlight metadata
 az764295.vo.msecnd.net #VSCode
 device.auth.xboxlive.com
 evoke-windowsservices-tas.msedge.net #used by Photos to download config files
-in.appcenter.ms #MS analytics
+#in.appcenter.ms #MS analytics - disabled, breaks some apps
 noneclient.sfx.ms #OneDrive sync
 service.weather.microsoft.com
 statics-marketingsites-neu-ms-com.akamaized.net
