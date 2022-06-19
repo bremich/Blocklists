@@ -1,13 +1,24 @@
 ! Title: Miscellaneous filters
-! Version: 20201105
+! Version: 2022.06.19
 ! Expires: 24 hours
 
 airly.eu##.overlay--show.overlay
+airly.eu##.social-buttons
 airly.eu##.welcome-modal__content
 airly.eu##.widget-block
+airly.eu##[alt="KPMG"]
 airly.eu##[href="/en/contact"]
+airly.eu##[href="https://apps.apple.com/us/app/airly/id1283400152"]
+airly.eu##[href="https://play.google.com/store/apps/details?id=eu.airly.android"]
+airly.eu##a:has(small:has-text(Sponsor:))
+airly.eu##div:has(>div:has(>div:has(>div:has(>[style="background-color: rgb(209, 207, 30);"]))))
+airly.eu##div:has(>h4:has-text(Air quality forecast for PMs))
+airly.eu##div:has(>small:has-text(Airlypedia))
+airly.eu##div:has(>small:has-text(FAQ))
 airly.eu##div:has(>small:has-text(Forecast))
 airly.eu##div:has(>small:has-text(Share))
+airly.eu##small:has-text(Air is quite good.)
+airly.eu##small:has(>small:has-text(Source))
 allegro.pl##[data-analytics-view-label="showSponsoredItems"]
 allegro.pl##[data-box-name="Container carousel_reco_show_item_bottom"]
 allegro.pl##[data-box-name="allegro.advertising.adspremium"]
@@ -28,19 +39,6 @@ allegro.pl##div:has(>h3:has-text(Nasze serie produktów))
 apkpure.com###slide-wrap
 apkpure.com##.day_list
 apkpure.com##.top-list
-classic.airly.eu##.social-buttons
-classic.airly.eu##[alt="KPMG"]
-classic.airly.eu##[href="https://airly.eu/en/contact"]
-classic.airly.eu##[href="https://apps.apple.com/us/app/airly/id1283400152"]
-classic.airly.eu##[href="https://play.google.com/store/apps/details?id=eu.airly.android"]
-classic.airly.eu##a:has(small:has-text(Sponsor:))
-classic.airly.eu##div:has(>div:has(>div:has(>div:has(>[style="background-color: rgb(209, 207, 30);"]))))
-classic.airly.eu##div:has(>div:has(>small:has-text(CAQI)))
-classic.airly.eu##div:has(>h4:has-text(Air quality forecast for PMs))
-classic.airly.eu##div:has(>small:has-text(Airlypedia))
-classic.airly.eu##div:has(>small:has-text(FAQ))
-classic.airly.eu##small:has(>small:has-text(Source))
-classic.airly.eu##small:has-text(Air is quite good.)
 cpu.userbenchmark.com###effectivespeedtable
 cpu.userbenchmark.com##[data-target="#effectivespeedtable"]
 emonitoring.poczta-polska.pl###social
@@ -53,6 +51,9 @@ inpost.pl##.cta--main--box
 inpost.pl##.cta--mainbox--wrapper
 inpost.pl##.track--parcel--heading
 inpost.pl##footer
+lubimyczytac.pl###buybox-bookstores-info
+lubimyczytac.pl##.buy-box-body
+lubimyczytac.pl##.siepomaga__banner
 nm.reddit.com##.premium-banner
 old.reddit.com###ecb
 old.reddit.com##.awardings-bar
@@ -81,6 +82,7 @@ www.ceneo.pl##.linked-content
 www.ceneo.pl##.product-top-2020__price
 www.ceneo.pl##.prom-products
 www.ceneo.pl##.recommended-prod
+www.ceneo.pl##.similar-offers
 www.ceneo.pl##.sm-links
 www.ceneo.pl##.store-zones
 www.ceneo.pl##.suggester__logos
@@ -96,10 +98,12 @@ www.euro.com.pl##.recommended-products
 www.filmweb.pl##.FilmCriticsVotesSection
 www.filmweb.pl##.FilmDescriptionSection
 www.filmweb.pl##.NewsSection
+www.filmweb.pl##.QuizSection
 www.filmweb.pl##.UserReviewSection
 www.filmweb.pl##.authButton--google
-www.filmweb.pl##.facebookLoginButton
+www.filmweb.pl##.awardsSection__container
 www.filmweb.pl##.faHeaderBanner__ad
+www.filmweb.pl##.facebookLoginButton
 www.filmweb.pl##.fb-share-button
 www.filmweb.pl##.filmCoverSection__trailerLink
 www.filmweb.pl##.filmMainReviews
