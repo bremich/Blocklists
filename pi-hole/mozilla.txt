@@ -1,4 +1,5 @@
 #Mozilla trackers, telemetry and unnecessary connections
+contile.services.mozilla.com
 detectportal.firefox.com
 firefox-settings-attachments.cdn.mozilla.net
 firefox.settings.services.mozilla.com
