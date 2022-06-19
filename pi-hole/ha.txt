@@ -1,5 +1,0 @@
-#Block Home Assistant updates and other HA connections
-0.0.0.0 updater.home-assistant.io
-0.0.0.0 version.home-assistant.io
-0.0.0.0 wheels.home-assistant.io
-0.0.0.0 www.home-assistant.io

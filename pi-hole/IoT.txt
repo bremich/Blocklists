@@ -1,0 +1,17 @@
+#Stop Home Assistant from updating without the user's knowledge and block other HA connections
+0.0.0.0 _https._tcp.download.docker.com
+0.0.0.0 docker.io
+0.0.0.0 download.docker.com
+0.0.0.0 production.cloudflare.docker.com
+0.0.0.0 registry-1.docker.io
+0.0.0.0 services.home-assistant.io
+0.0.0.0 updater.home-assistant.io
+0.0.0.0 version.home-assistant.io
+0.0.0.0 wheels.home-assistant.io
+0.0.0.0 www.home-assistant.io
+0.0.0.0 flows.nodered.org
+0.0.0.0 hacs.xyz
+
+#whitelist 
+#_checkdns.home-assistant.io 
+#to ensure HA doesn't try to circumvent the block.

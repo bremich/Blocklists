@@ -5,21 +5,22 @@ amppic-dre.dbankcdn.com
 api-sg.c.huawei.com
 api.cloud.hicloud.com
 api.cloud.huawei.com
+appdl-13-drcn.dbankcdn.com
+appdl-13-dre.dbankcdn.com
+appdl-12-drcn.dbankcdn.com
+appdl-12-dre.dbankcdn.com
+appdl-11-drcn.dbankcdn.com
+appdl-11-dre.dbankcdn.com
+appdl-4-drcn.dbankcdn.com
+appdl-4-dre.dbankcdn.com
+appdl-2-drcn.dbankcdn.com
+appdl-2-dre.dbankcdn.com
+appdl-dre.dbankcdn.com
 appdl1.dbankcdn.com
 appdl2.dbankcdn.com
 appdl3.dbankcdn.com
-appdl-2-drcn.dbankcdn.com
-appdl-2-dre.dbankcdn.com
-appdl-4-drcn.dbankcdn.com
-appdl-4-dre.dbankcdn.com
-appdl-11-drcn.dbankcdn.com
-appdl-11-dre.dbankcdn.com
-appdl-12-drcn.dbankcdn.com
-appdl-12-dre.dbankcdn.com
-appdl-13-drcn.dbankcdn.com
-appdl-13-dre.dbankcdn.com
-appdl-dre.dbankcdn.com
 appdl.dbankcdn.com
+appdlc-drcn.hispace.dbankcloud.cn
 appdlc-dre.hispace.hicloud.com
 appgallery.cloud.huawei.com
 appimg1.dbankcdn.com
@@ -35,7 +36,9 @@ cloudres-dra.dbankcdn.com
 configdownload-dre.dbankcdn.com
 configserver-dra.platform.hicloud.com
 configserver-dre.platform.hicloud.com
+configserver-drex.platform.hicloud.com
 configserver.platform.hicloud.com
+connect-drcn.hispace.hicloud.com
 consumer-img.huawei.com
 consumer-res.huawei.com
 consumer-tkbdownload.huawei.com
@@ -49,6 +52,7 @@ dbankcloud.eu
 dnkeeper.hicloud.com
 drmkit-dre.himovie.dbankcloud.com
 dsa-sslv6.hispace.hicloud.com.edgekey.net
+dtm-dre.platform.hicloud.com
 events-dre.op.hicloud.com
 grs.dbankcloud.asia
 grs.dbankcloud.cn
@@ -57,6 +61,8 @@ grs.dbankcloud.eu
 grs.hicloud.com
 grs.huawei.com
 grs.hwcdn.net
+grs.platform.dbankcloud.ru
+gs-dre.game.dbankcloud.com
 h5hosting.dbankcdn.com
 hag-dre.ai.hicloud.com
 healthactivity-dre.things.hicloud.com
@@ -86,12 +92,14 @@ jxs.jos.hicloud.com
 logbak.hicloud.com
 map-dre.platform.hicloud.com
 maptile-dre.dbankcdn.com
+messagecenter-dre.things.hicloud.com
 metrics2.data.hicloud.com
 metrics3.data.hicloud.com
 metrics.data.hicloud.com
 nsp-sporthealth-oper-dre.obs.eu-de.otc.t-systems.com
 ntp.sjtu.edu.cn
 oauth-login-dre.platform.dbankcloud.com
+orders-dre.iap.hicloud.com
 pay7.hicloud.com
 pkginstaller-ovs.hispace.dbankcloud.com
 pkginstaller-ovs.hispace.hicloud.com
@@ -110,6 +118,7 @@ store2.hispace.hicloud.com
 store3.hispace.hicloud.com
 store4.hispace.hicloud.com
 store.hispace.hicloud.com
+tsms-dre.platform.dbankcloud.com
 update.dbankcdn.com
 update.hicloud.com
 upfile7.hicloud.com
@@ -132,3 +141,6 @@ ncc.avast.com
 oneclient.sfx.ms
 qgepodownload.mediatek.com #maps, gps?
 shepherd.ff.avast.com
+
+#General regex:
+#(\.|^)dbankcloud\.cn$

@@ -1,0 +1,2 @@
+# Commandline args for cloudflared, using Cloudflare DNS [source: https://github.com/pi-hole/docs/blob/master/docs/guides/dns/cloudflared.md]
+CLOUDFLARED_OPTS=--port 5053 --upstream https://dns.google/dns-query --upstream https://8.8.8.8/dns-query 

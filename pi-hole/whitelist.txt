@@ -1,3 +1,4 @@
+_checkdns.home-assistant.io
 apis.google.com
 assets.adobedtm.com
 clkuk.tradedoubler.com
