@@ -2,7 +2,7 @@
 
 Annoyances blocklists for Pi-hole/uMatrix/AdGuard Home and Adblock/uBlock. 
 
-These blocklists will break some things you might want to keep operational (especially when used with a DNS sinkhole), for example push notifications, automatic updates for various devices, etc.
+These blocklists aren't meant for the general publick. They will break some things you might want to keep operational (especially when used with a DNS sinkhole), for example push notifications, automatic updates for various applications and devices, etc.
 
 ## Pi-hole
 
