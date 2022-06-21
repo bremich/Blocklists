@@ -199,6 +199,7 @@ d3eyd961wi10bl.cloudfront.net
 d3ithbwcmjcxl7.cloudfront.net
 d31qbv1cthcecs.cloudfront.net
 d36zfztxfflmqo.cloudfront.net
+datacygnal.io
 device.marketingcloudapis.com
 didchinosdub.cam
 districtm.io
@@ -312,9 +313,9 @@ udkcrj.com #reddit DRM
 123moviesok.net
 123putlocker.com
 Putlocker-m.net
+Putlocker9.as
 Putlocker.fyi
 Putlocker.io
-Putlocker9.as
 Putlockerfree.net
 Putlockerhd.is
 Putlockerr.is
@@ -330,8 +331,9 @@ Putlockertv.to
 Putlockerz.io
 Theputlocker9.com
 Unblockall.org
-putlocker.sh
+efilmy-online.pl
 putlocker9.as
+putlocker.sh
 putlockerhd.co
 putlockerr.is
 putlockers.bz
@@ -342,6 +344,17 @@ putlockerstv.ws
 putlockertv.ws
 putlockerz.io
 theputlockerhub.me
+zalukaj-film.pl
+
+#DDL
+dailyuploads.net
+ddownload.com
+drop.download
+fastclick.to
+nitro.download
+oldgamesdownload.com
+rapidgator.net
+uploadgig.com
 
 #Swiftkey
 assets.swiftkey.com
