@@ -4,6 +4,7 @@ exchange.opera.com
 features.opera-api.com
 flow.opera.com
 get.geo.opera.com
+ofa-sub.osp.opera.software
 redir.opera.com
 sd-images.operacdn.com
 sitecheck.opera.com
