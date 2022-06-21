@@ -24,18 +24,22 @@ telemetry.gfe.nvidia.com
 telemetry.nvidia.com
 
 #GeForce Now:
+#*.cloudmatchbeta.nvidiagrid.net
 #als.geforcenow.com
 #api.gfe.nvidia.com
 #assets.cascade.geforce.com
+#assets.nvidiagrid.net
 #cms.nvidia.com
 #events.gfe.nvidia.com
 #games.geforce.com
 #gfnpc.api.entitlement-prod.nvidiagrid.net
+#gx-surveys.nvidia.com
 #img.nvidiagrid.net
 #login.nvidia.com
 #ls.dtrace.nvidia.com
 #pcs.geforcenow.com
 #public.games.geforce.com
 #rconfig.nvidiagrid.net
+#s1.stun.gamestream.nvidia.com
 #static.nvidiagrid.net
 #userstore.nvidia.com
