@@ -92,6 +92,7 @@ jxs.jos.hicloud.com
 logbak.hicloud.com
 map-dre.platform.hicloud.com
 maptile-dre.dbankcdn.com
+maptile-dre.dbankcdn.com.akamaized.net
 messagecenter-dre.things.hicloud.com
 metrics2.data.hicloud.com
 metrics3.data.hicloud.com
@@ -136,6 +137,7 @@ hw.restlbs.map.wechatos.net #maps
 ip-info.ff.avast.com
 jenson.api.swiftkey.com #used by build-in SwiftKey
 lcs.loginfra.com #accessed upon opening Huawei AppGallery
+loc.map.baidu.com
 msafedl.ssl.qihucdn.com
 ncc.avast.com
 oneclient.sfx.ms
