@@ -382,6 +382,10 @@ users-auth.touchtype-fluency.com
 winnie-citadel.touchtype-fluency.com
 www.swiftkey.com
 
+#Brave
+brave-today-cdn.brave.com
+static.ads.brave.com
+
 #wiki mirrors
 cs.qwe.wiki
 da.qwe.wiki
