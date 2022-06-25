@@ -1,6 +1,7 @@
 ! Title: Google Search Results filters
 ! Version: 2022.06.19
 ! Expires: 7 days
+! This list had been deprecated in favour of uBlackList: https://raw.githubusercontent.com/bremich/Blocklists/dev/uBlackList/uBlackListBenchmarksList.txt
 
 www.google.com##div:has(> div:has(> div:has(> a:has-text(cpu-comparison.com))))
 www.google.com##div:has(> div:has(> div:has(> a:has-text(cpubenchmark.net))))
