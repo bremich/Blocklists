@@ -41,7 +41,7 @@ viadata.store
 widgets.wp.com
 
 #Mozilla
-bouncer-bouncer-elb.prod.mozaws.net
+#bouncer-bouncer-elb.prod.mozaws.net
 content-signature-2.cdn.mozilla.net
 location.services.mozilla.com
 locprod1-elb-eu-west-1.prod.mozaws.net
