@@ -1,5 +1,6 @@
 #Stop Home Assistant from updating without the user's knowledge and block other HA connections
 0.0.0.0 _https._tcp.download.docker.com
+0.0.0.0 checkonline.home-assistant.io
 0.0.0.0 docker.io
 0.0.0.0 download.docker.com
 0.0.0.0 production.cloudflare.docker.com
