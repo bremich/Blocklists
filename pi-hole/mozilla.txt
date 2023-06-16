@@ -14,3 +14,6 @@ prod-tp.sumo.mozit.cloud
 prod.pocket.prod.cloudops.mozgcp.net
 snippets.cdn.mozilla.net
 stun.services.mozilla.com
+
+#Block DoH in Firefox
+use-application-dns.net
