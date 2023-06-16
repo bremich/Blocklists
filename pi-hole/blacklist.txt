@@ -25,11 +25,14 @@ api.engage.bidsystem.com
 api.revenuecat.com
 app.distill.io
 archive.4plebs.org
+assets.gamesforplay.com
 backgrounds.wetransfer.net
 banjo.canonical.com
+bestpromo.pl
 blazse.com
 cdn-products.eneba.com
 cdn-sliders.eneba.com
+cdn.cdkeys.com
 cdn.cookielaw.org
 cdn.eneba.com
 cdnads.com
@@ -39,6 +42,7 @@ coin-hive.com
 coinpayments.net
 columbusenergy.pl
 daisy.ubuntu.com
+deals.ghacks.net
 dnssec-df.gexperiments4.com
 doh.opendns.com
 doz.telemedi.co
@@ -48,10 +52,12 @@ extouch.net
 ezoic.net
 favicon.distillweb.net
 g.ezoic.net
+gamesforplay.com
 grabify.link
 gross-back.pl
 hosts-file.net
 ilkmawgod.site
+images.gamesforplay.com
 inservinea.com
 js.braintreegateway.com
 jsc.adskeeper.co.uk
@@ -64,6 +70,7 @@ m.in
 masterpcprotection.com
 media.8ch.net
 merchandise.opera-api.com
+monitor.distill.io
 motd.ubuntu.com
 oleole.trafficscanner.pl
 opsoomet.net
@@ -98,12 +105,15 @@ whatstheirip.com
 www.4chan.org
 www.adskeeper.co.uk
 www.buymeacoffee.com
+www.cdkeys.com
 www.coinpayments.net
 www.eneba.com
+www.instant-gaming.com
 www.kobo.com
 www.mydomainad1.site
 www.optad360.com
 www.statsforads.com
+wyborcza24.pl
 your-notice.com
 
 #archive
