@@ -20,5 +20,7 @@
 .*\.cam$
 .*\.club$
 .*\.monster$
+.*\.mov$
 .*\.site$
 .*\.space$
+.*\.zip$
