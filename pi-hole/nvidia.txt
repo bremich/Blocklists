@@ -2,23 +2,44 @@
 accounts.nvgs.nvidia.cn
 accounts.nvgs.nvidia.com
 activation.gfe.nvidia.com
-api.gfe.nvidia.com
+#api.gfe.nvidia.com - Disabled for GFN
 col.site24x7rum.com
 download.gfe.nvidia.com
-events.gfe.nvidia.com
+#events.gfe.nvidia.com - Disabled for GFN
 gfe.geforce.com
 gfe.nvidia.com
 gfwsl.geforce.com
-img.nvidiagrid.net
+#img.nvidiagrid.net - Disabled for GFN
 login.nvgs.nvidia.com
-ls.dtrace.nvidia.com
+#ls.dtrace.nvidia.com - Disabled for GFN
 nvidia.tt.omtrdc.net
 ota.nvidia.com
 ota-downloads.nvidia.com
 rum-collector-2.pingdom.net
 rum-static.pingdom.net
 services.gfe.nvidia.com
-static.nvidiagrid.net
+#static.nvidiagrid.net - Disabled for GFN
 static.site24x7rum.com
 telemetry.gfe.nvidia.com
 telemetry.nvidia.com
+
+#GeForce Now:
+#*.cloudmatchbeta.nvidiagrid.net
+#als.geforcenow.com
+#api.gfe.nvidia.com
+#assets.cascade.geforce.com
+#assets.nvidiagrid.net
+#cms.nvidia.com
+#events.gfe.nvidia.com
+#games.geforce.com
+#gfnpc.api.entitlement-prod.nvidiagrid.net
+#gx-surveys.nvidia.com
+#img.nvidiagrid.net
+#login.nvidia.com
+#ls.dtrace.nvidia.com
+#pcs.geforcenow.com
+#public.games.geforce.com
+#rconfig.nvidiagrid.net
+#s1.stun.gamestream.nvidia.com
+#static.nvidiagrid.net
+#userstore.nvidia.com

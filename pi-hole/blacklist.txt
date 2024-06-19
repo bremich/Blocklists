@@ -1,8 +1,9 @@
 #Blocklist for use with Pi-hole/uMatrix/Adguard Home
-#Version: 20220619
+#Version: 20220625
 #Title: Bremich Blocklist
 
 dns.google
+region1.google-analytics.com
 
 #DoH canary domain. 
 use-application-dns.net
@@ -24,11 +25,14 @@ api.engage.bidsystem.com
 api.revenuecat.com
 app.distill.io
 archive.4plebs.org
+assets.gamesforplay.com
 backgrounds.wetransfer.net
 banjo.canonical.com
+bestpromo.pl
 blazse.com
 cdn-products.eneba.com
 cdn-sliders.eneba.com
+cdn.cdkeys.com
 cdn.cookielaw.org
 cdn.eneba.com
 cdnads.com
@@ -38,6 +42,7 @@ coin-hive.com
 coinpayments.net
 columbusenergy.pl
 daisy.ubuntu.com
+deals.ghacks.net
 dnssec-df.gexperiments4.com
 doh.opendns.com
 doz.telemedi.co
@@ -47,10 +52,12 @@ extouch.net
 ezoic.net
 favicon.distillweb.net
 g.ezoic.net
+gamesforplay.com
 grabify.link
 gross-back.pl
 hosts-file.net
 ilkmawgod.site
+images.gamesforplay.com
 inservinea.com
 js.braintreegateway.com
 jsc.adskeeper.co.uk
@@ -63,6 +70,7 @@ m.in
 masterpcprotection.com
 media.8ch.net
 merchandise.opera-api.com
+monitor.distill.io
 motd.ubuntu.com
 oleole.trafficscanner.pl
 opsoomet.net
@@ -97,12 +105,15 @@ whatstheirip.com
 www.4chan.org
 www.adskeeper.co.uk
 www.buymeacoffee.com
+www.cdkeys.com
 www.coinpayments.net
 www.eneba.com
+www.instant-gaming.com
 www.kobo.com
 www.mydomainad1.site
 www.optad360.com
 www.statsforads.com
+wyborcza24.pl
 your-notice.com
 
 #archive
@@ -162,51 +173,69 @@ vscodeexperiments.azureedge.net #VSCode
 #mobile
 2l6ddsmnm.de
 15xmr.pushstring.com
+654.pl
 a.exdynsrv.com
 a.vdo.ai
+accounts.binance.com
 achilles-ena.com
 ad.osoz.pl
 ad.vendimob.pl
 adfoxly.com
 ads.12341234.pl
+adsco.re
 advmedia.io
 ageureka.com
+ambiliarcarwin.com
+americascardroom.eu
+americascardroom.pl
+analytics.srvnw.com
 anticalser.club
 api.instabug.com
+api.saasexch.com
 app.getemails.com
 ateoildim.club
 aukalerim.com
 barfsmiaowpit.com
 bcicdn.com
 beta.pocketads.pl
+binance.com
 bisiraczyxbu.com
+blazse.com
 bngpt.com
 bongacams7.com
 bongacams.com
+c.adsco.re
+c.srvpcn.com
 cashback.getdify.com
 cassini.efigence.com
 ccgmaining.life
 cdn.passfixx.com
 cdn.runative-syndicate.com
 certify.alexametrics.com
+cheap-cosmetics-online.com
 cloudads.tv
 cmp.optad360.io
 cogleapad.com
 colagepad.com
 collect.lngtd.com
 collector-analytics.efigence.com
+continuousformula.com
 d3eyd961wi10bl.cloudfront.net
 d3ithbwcmjcxl7.cloudfront.net
 d31qbv1cthcecs.cloudfront.net
 d36zfztxfflmqo.cloudfront.net
+datacygnal.io
 device.marketingcloudapis.com
 didchinosdub.cam
+diromalxx.com
 districtm.io
 dmx.districtm.io
 docs.getemails.com
 doz.adocean.pl
 dozadpl.hit.gemius.pl
+etoro-cdn.etorostatic.com
 exdynsrv.com
+feature-flags.sts.pl
 filedown.org
 fprt.pjshu.com
 fstats.xyz
@@ -214,15 +243,25 @@ gaua.hit.gemius.pl
 get.advmedia.io
 get.optad360.io
 getemails.com
+go.etoro.com
+goosebomb.com
 graph.facebook.com
 graph.instagram.com
+hoanoola.net
 i.bcicdn.com
 idmnet.pl
 inistrack.net
 jeu5qst0.pro
 khabarbabal.online
+kvlzsbxn.com
+lib.wtg-ads.com
+live.statscore.com
 lngtd.com
+m.sts.pl
 main.exdynsrv.com
+maja.654.pl
+marketing.etorostatic.com
+med.etoro.com
 meetrics.net
 mugleafly.com
 mypenny.xyz
@@ -231,15 +270,22 @@ passfixx.com
 pl.bongacams.com
 pl.win777.today
 pocketads.pl
+predictionds.com
 pushplex.space
 px.wp.pl
+qdcusfff.com
+qmall.io
 r.kodyrabatowy.pl
+record.stsaff.pl
+redirect.sts.pl
 reklamy.grupafarmacja.net
 rosenberg.appmetrica.yandex.net
 rt.inistrack.net
 rtb.4armn.com
+s5.sir.sportradar.com
 s372.meetrics.net
 s.viihot.com
+saasexch.com
 sameexpectpick.top
 service.vendimob.pl
 shroughtened.com
@@ -247,20 +293,35 @@ smart.idmnet.pl
 sparagken.com
 speed-down.org
 spencedsd.club
+srvpcn.com
+statadar.com
+stsaff.pl
+sufficientretiredbunker.com
 support.getemails.com
 syndication.realsrv.com
 tag.ageureka.com
 targeting.vdo.ai
 thaickoo.net
+ua2cdn.admixer.net
 v3.fstats.xyz
 vdo.ai
+vsw.betradar.com
+web.webpushs.com
+widgets.sir.sportradar.com
+wordpress.americascardroom.eu
+ws.qmall.io
+www6.blazse.com
 www.2l6ddsmnm.de
+www.654.pl
+www.americascardroom.pl
 www.cust-service.com
 www.getemails.com
 www.it-swarm.dev
 www.kodyrabatowy.pl
+www.kvlzsbxn.com
 www.pinterest.com.mx
 www.predictivdisplay.com
+www.qdcusfff.com
 www.vudu.com
 
 #mobile apps
@@ -312,9 +373,9 @@ udkcrj.com #reddit DRM
 123moviesok.net
 123putlocker.com
 Putlocker-m.net
+Putlocker9.as
 Putlocker.fyi
 Putlocker.io
-Putlocker9.as
 Putlockerfree.net
 Putlockerhd.is
 Putlockerr.is
@@ -330,8 +391,9 @@ Putlockertv.to
 Putlockerz.io
 Theputlocker9.com
 Unblockall.org
-putlocker.sh
+efilmy-online.pl
 putlocker9.as
+putlocker.sh
 putlockerhd.co
 putlockerr.is
 putlockers.bz
@@ -342,6 +404,17 @@ putlockerstv.ws
 putlockertv.ws
 putlockerz.io
 theputlockerhub.me
+zalukaj-film.pl
+
+#DDL
+dailyuploads.net
+ddownload.com
+drop.download
+fastclick.to
+nitro.download
+oldgamesdownload.com
+rapidgator.net
+uploadgig.com
 
 #Swiftkey
 assets.swiftkey.com
@@ -368,6 +441,10 @@ translate.api.swiftkey.com
 users-auth.touchtype-fluency.com
 winnie-citadel.touchtype-fluency.com
 www.swiftkey.com
+
+#Brave
+brave-today-cdn.brave.com
+static.ads.brave.com
 
 #wiki mirrors
 cs.qwe.wiki

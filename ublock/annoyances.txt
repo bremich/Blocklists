@@ -1,7 +1,14 @@
 ! Title: Miscellaneous filters
-! Version: 2022.06.19
+! Version: 2023.06.17
 ! Expires: 24 hours
 
+!www.youtube.com##.yt-upsell-dialog-renderer
+!www.youtube.com##.ytp-ce-covering-image
+!www.youtube.com##.ytp-ce-covering-overlay
+!www.youtube.com##.ytp-ce-element
+!www.youtube.com##.ytp-ce-element-shadow
+!www.youtube.com##.ytp-scroll-min.ytp-pause-overlay
+$removeparam=ceneo_cid
 airly.eu##.overlay--show.overlay
 airly.eu##.social-buttons
 airly.eu##.welcome-modal__content
@@ -30,12 +37,12 @@ allegro.pl##[data-box-name="leftpanel_ads"]
 allegro.pl##[data-box-name="popularne miasta pc"]
 allegro.pl##[data-box-name="rekomendacje"]
 allegro.pl##[title="bądź Smart"]
-allegro.pl##div[data-box-name="podobne wyszukiwania kontener"]
 allegro.pl##div:has(>div:has(>h4:has-text(Nowość! Filtr czas dostawy)))
 allegro.pl##div:has(>div:has(>strong:has-text(Allegro gwarantuje bezpieczne zakupy)))
 allegro.pl##div:has(>h2:has-text(Przykład reprezentatywny))
 allegro.pl##div:has(>h3:has-text(Allegro in English))
 allegro.pl##div:has(>h3:has-text(Nasze serie produktów))
+allegro.pl##div[data-box-name="podobne wyszukiwania kontener"]
 apkpure.com###slide-wrap
 apkpure.com##.day_list
 apkpure.com##.top-list
@@ -51,6 +58,9 @@ inpost.pl##.cta--main--box
 inpost.pl##.cta--mainbox--wrapper
 inpost.pl##.track--parcel--heading
 inpost.pl##footer
+ithardware.pl###disqus_recommendations
+ithardware.pl###similar_to_widget
+ithardware.pl##.nastepnyartykul
 lubimyczytac.pl###buybox-bookstores-info
 lubimyczytac.pl##.buy-box-body
 lubimyczytac.pl##.siepomaga__banner
@@ -63,6 +73,8 @@ old.reddit.com##.happening-now
 old.reddit.com##.listingsignupbar.infobar
 old.reddit.com##.premium-banner-outer
 sinoptik.pl#?#[href*="http://click.pmctrack.net/c/"]
+store.steampowered.com###earlyAccessBody
+store.steampowered.com##.queue_ctn
 store.steampowered.com##.review_award_button
 store.steampowered.com##.review_award_count
 store.steampowered.com##.review_award_ctn
@@ -109,6 +121,7 @@ www.filmweb.pl##.filmCoverSection__trailerLink
 www.filmweb.pl##.filmMainReviews
 www.filmweb.pl##.forumSection
 www.filmweb.pl##.netflixAdSection.page__section
+www.filmweb.pl##.tipsBoarding
 www.filmweb.pl##[id="advertBar-pl_PL"]
 www.filmweb.pl##div:has(> a[href="/zostanwdomu?ref=promo_stayAtHomeA"])
 www.filmweb.pl##div:has(> a[href="/zostanwdomu?ref=promo_stayAtHomeB"])
@@ -136,17 +149,16 @@ www.reddit.com##.happening-now
 www.reddit.com##.hohoho.sidebox
 www.reddit.com##.premium-banner
 www.reddit.com##.redesignbetabar-js.redesignNightmodeBar.onboardingbar.infobar
-!www.youtube.com##.yt-upsell-dialog-renderer
-!www.youtube.com##.ytp-ce-covering-image
-!www.youtube.com##.ytp-ce-covering-overlay
-!www.youtube.com##.ytp-ce-element
-!www.youtube.com##.ytp-ce-element-shadow
-!www.youtube.com##.ytp-scroll-min.ytp-pause-overlay
 www.youtube.com###sponsor-button
 yandex.ua#?#[href*="https://yandex.ua/news/_nzp/"]
 yandex.ua#?#div:-abp-has(> a[href*="https://yandex.ua/news/_nzp/"])
 youtube.com##div:has( > [href="https://www.who.int/emergencies/diseases/novel-coronavirus-2019"])
+||ithardware.pl/images/uzywki-strona.png$image
 ||ssl.ceneo.pl/shops/Content/img/tab-title-v.png
+||twimg.com^$removeparam=name
+||wykop.pl^$removeparam=auth
+||wykop.pl^$removeparam=author
+
 
 ! Exceptions:
 ! unbreak Allegro:

@@ -1,9 +1,13 @@
+af.opera.com
+cashback.opera.com
 crashstats-collector.opera.com
 desktop-dna.osp.opera.software
 exchange.opera.com
 features.opera-api.com
 flow.opera.com
 get.geo.opera.com
+merchandise.opera-api2.com
+ofa-sub.osp.opera.software
 redir.opera.com
 sd-images.operacdn.com
 sitecheck.opera.com
