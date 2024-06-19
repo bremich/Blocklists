@@ -43,6 +43,7 @@ consumer-img.huawei.com
 consumer-res.huawei.com
 consumer-tkbdownload.huawei.com
 consumer.huawei.com
+contentcenter-dre.dbankcdn.com
 coupon-dre.iap.hicloud.com
 dbankcdn.com
 dbankcloud.asia
