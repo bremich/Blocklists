@@ -1,0 +1,20 @@
+! Title: Query strings
+! Version: 2024.06.19
+! Expires: 7 days
+
+||gog.com^$removeparam=pp
+||steamuserimages-a.akamaihd.net^$removeparam=ima
+||steamuserimages-a.akamaihd.net^$removeparam=imcolor
+||steamuserimages-a.akamaihd.net^$removeparam=imh
+||steamuserimages-a.akamaihd.net^$removeparam=impolicy
+||steamuserimages-a.akamaihd.net^$removeparam=imw
+||www.amazon.pl^$removeparam=dib
+||www.amazon.pl^$removeparam=dib_tag
+||www.amazon.pl^$removeparam=m,important
+||www.amazon.pl^$removeparam=refinements
+||www.amazon.pl^$removeparam=rnid
+||www.amazon.pl^$removeparam=rps
+||www.amazon.pl^$removeparam=s
+||www.amazon.pl^$removeparam=tag
+||www.amazon.pl^$removeparam=th
+||www.x-kom.pl^$removeparam=sm
