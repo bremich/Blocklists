@@ -1,4 +1,4 @@
-#Block IP's which try to access the following resources:
+#Frequented by bots. Block IP's which try to access the following resources:
 
 /1index.php
 /2index.php
@@ -7,10 +7,12 @@
 /.env
 /.env.dev
 /.env.example
+/AdminBeat/login.asp
 /CHANGELOG.txt
 /SITE
 /V3.php
 /XxX.php
+/_profiler/phpinfo
 /accesson.php
 /admin/.env
 /administrator/index.php
@@ -67,6 +69,7 @@
 /panel/kcfinder/upload.php
 /pekok.php
 /perl.alfa
+/phpinfo
 /plugins/backup_index.php
 /redmine/.env
 /shared/.env
@@ -88,10 +91,13 @@
 /wp-content/db_cache.php
 /wp-content/langar.php
 /wp-content/mu-plugins/db-safe-mode.php
+/wp-content/plugins/fix/up.php
+/wp-content/plugins/ninja-forms/readme.txt
 /wp-content/plugins/woo-gutenberg-products-block/readme.txt
 /wp-content/plugins/woocommerce-jetpack/readme.txt
 /wp-content/plugins/wp-automatic/js/main-front.js
 /wp-content/plugins/wp-pinterest-automatic/js/main.js
+/wp-content/plugins/wp-time-capsule/readme.txt
 /wp-content/wp-1ogin_bak.php
 /wp-json/wp/v2/users/
 /wp-login_bak.php
