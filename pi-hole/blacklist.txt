@@ -61,7 +61,6 @@ images.gamesforplay.com
 inservinea.com
 js.braintreegateway.com
 jsc.adskeeper.co.uk
-kobo.com
 llegro.pl
 login.aliexpress.ru
 login.tmall.ru
@@ -109,7 +108,6 @@ www.cdkeys.com
 www.coinpayments.net
 www.eneba.com
 www.instant-gaming.com
-www.kobo.com
 www.mydomainad1.site
 www.optad360.com
 www.statsforads.com
