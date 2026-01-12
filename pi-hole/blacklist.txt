@@ -84,6 +84,7 @@ propellerads.cdnads.com
 quiterss.org
 sandra.ttnrd.com
 sarah.ttnrd.com
+smartme.pl
 snxd.com
 softwaresecuritypro.com
 softwareupdate.vmware.com
